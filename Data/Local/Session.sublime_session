@@ -1,0 +1,2562 @@
+{
+	"folder_history":
+	[
+		"/D/vpaid",
+		"/C/Users/i-robinzhou/Downloads/7bfb145a-71b7-4ec1-80e6-7fa1bb671b1e"
+	],
+	"last_version": 3038,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 842.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"IP",
+						"IPCity"
+					],
+					[
+						"base",
+						"baseUrl"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"appen",
+						"appendChild"
+					],
+					[
+						"ass",
+						"assets_obj"
+					],
+					[
+						"_init",
+						"_initBackground"
+					],
+					[
+						"_tdC",
+						"_tdCodeDiv"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"last",
+						"_lastvideo"
+					],
+					[
+						"_slider",
+						"_sliderBlock"
+					],
+					[
+						"_sl",
+						"_sliderBlock"
+					],
+					[
+						"_cr",
+						"_Creative"
+					],
+					[
+						"create",
+						"createAutoMove"
+					],
+					[
+						"des",
+						"destroyAutoMove"
+					],
+					[
+						"psu",
+						"pause"
+					],
+					[
+						"sli",
+						"Slider"
+					],
+					[
+						"_s",
+						"_slideWidth"
+					],
+					[
+						"_bg",
+						"_bgWidth"
+					],
+					[
+						"_st",
+						"_startSlideInterval"
+					],
+					[
+						"upd",
+						"updateImage"
+					],
+					[
+						"en",
+						"encodeURIComponent"
+					],
+					[
+						"sin",
+						"sinaRegx"
+					],
+					[
+						"_get",
+						"_getExtensionValue"
+					],
+					[
+						"_ge",
+						"_getExtensionValue"
+					],
+					[
+						"_con",
+						"_containWord"
+					],
+					[
+						"_wo",
+						"_word"
+					],
+					[
+						"_wor",
+						"_wordLeft"
+					],
+					[
+						"wordr",
+						"wordRight"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"Ex",
+						"Extension"
+					],
+					[
+						"touch",
+						"touch"
+					],
+					[
+						"cli",
+						"clientX"
+					],
+					[
+						"mouse",
+						"mousedown	mousedown"
+					],
+					[
+						"pso",
+						"pos_x"
+					],
+					[
+						"sl",
+						"Slider"
+					],
+					[
+						"pos",
+						"pos_x"
+					],
+					[
+						"slid",
+						"sliderBlock"
+					],
+					[
+						"init",
+						"init"
+					],
+					[
+						"up",
+						"updateImage"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"off",
+						"offset	.offset"
+					],
+					[
+						"_ini",
+						"_initialized"
+					],
+					[
+						"backgr",
+						"background-image"
+					],
+					[
+						"_add",
+						"_addSharebtnListener"
+					],
+					[
+						"_time",
+						"_timep"
+					],
+					[
+						"VIdeo",
+						"VideoSel"
+					],
+					[
+						"_video",
+						"_videoSelbtn"
+					],
+					[
+						"_pic",
+						"_picSelbtn"
+					],
+					[
+						"pause",
+						"pauseAd"
+					],
+					[
+						"_see",
+						"_selectType"
+					],
+					[
+						"_control",
+						"_controlBar"
+					],
+					[
+						"start",
+						"startTimeInterval"
+					],
+					[
+						"Pic",
+						"PicSel"
+					],
+					[
+						"_sele",
+						"_selectType"
+					],
+					[
+						"ads",
+						"adsindex"
+					],
+					[
+						"V",
+						"View"
+					],
+					[
+						"_vid",
+						"_video"
+					],
+					[
+						"Video",
+						"Video"
+					],
+					[
+						"Eve",
+						"Event"
+					],
+					[
+						"click",
+						"clicktype"
+					],
+					[
+						"du",
+						"document"
+					],
+					[
+						"_share",
+						"_sharebtn"
+					],
+					[
+						"vd",
+						"vdjump"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"_re",
+						"_remainTime"
+					],
+					[
+						"_select",
+						"_selectType"
+					],
+					[
+						"_la",
+						"_lastvideo"
+					],
+					[
+						"_choose",
+						"_chooseDiv"
+					],
+					[
+						"view",
+						"View"
+					],
+					[
+						"_large",
+						"_largeVideo"
+					],
+					[
+						"_vi",
+						"_video"
+					],
+					[
+						"_ch",
+						"_choose"
+					],
+					[
+						"initL",
+						"initLargeVideo"
+					],
+					[
+						"_lar",
+						"_largeVideo"
+					],
+					[
+						"vide",
+						"VideoView"
+					],
+					[
+						"de",
+						"destroyTimeInterval"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"Ms",
+						"Mask"
+					],
+					[
+						"_se",
+						"_selectpics"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"crea",
+						"_picCreative"
+					],
+					[
+						"choose",
+						"Choose"
+					],
+					[
+						"_in",
+						"_index"
+					],
+					[
+						"_choo",
+						"_choose"
+					],
+					[
+						"picView",
+						"PicView"
+					],
+					[
+						"_ma",
+						"_maskDiv"
+					],
+					[
+						"_img",
+						"_img"
+					],
+					[
+						"sp",
+						"space"
+					],
+					[
+						"_selectP",
+						"_selectpicDiv"
+					],
+					[
+						"creat",
+						"createElement"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"picvie",
+						"PicView"
+					],
+					[
+						"we",
+						"_websitebtn"
+					],
+					[
+						"_tdc",
+						"_tdCodebtn"
+					],
+					[
+						"_picview",
+						"_picViewDiv"
+					],
+					[
+						"show",
+						"showPicSelDiv"
+					],
+					[
+						"hide",
+						"hidePicSelDiv"
+					],
+					[
+						"initp",
+						"initPicView"
+					],
+					[
+						"initTd",
+						"initTdCodeDiv"
+					],
+					[
+						"bg",
+						"bgdiv"
+					],
+					[
+						"_tdco",
+						"_tdCodeDiv"
+					],
+					[
+						"share",
+						"Share"
+					],
+					[
+						"shar",
+						"Share"
+					],
+					[
+						"video",
+						"Video"
+					],
+					[
+						"_lock",
+						"_lock"
+					],
+					[
+						"turn",
+						"_turnback"
+					],
+					[
+						"initlo",
+						"initLockDiv"
+					],
+					[
+						"css",
+						"cssText"
+					],
+					[
+						"sele",
+						"selectIndex"
+					],
+					[
+						"change",
+						"changeStatus"
+					],
+					[
+						"websi",
+						"website"
+					],
+					[
+						"vid",
+						"VideoSel"
+					],
+					[
+						"picS",
+						"PicSel"
+					],
+					[
+						"pic",
+						"PicSel"
+					],
+					[
+						"this",
+						"this_imgsrc"
+					],
+					[
+						"td",
+						"TdCode"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"in",
+						"innerHTML"
+					],
+					[
+						"web",
+						"website"
+					],
+					[
+						"sh",
+						"share"
+					],
+					[
+						"log",
+						"_logobtn"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"contr",
+						"ControlBar"
+					],
+					[
+						"get",
+						"getNumberOfBtn"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"GIT:",
+						"Git: Commit history"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"li",
+						"Permute Lines: Unique→唯一"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"int",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装程序包"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package→删除程序包"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"print(1);",
+					"print(1)",
+					"print \"1\"",
+					"print '1'",
+					"console.info(true)",
+					"print 'll'",
+					"print ll",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscript.xml",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscriptAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/jquery2.0.3.js",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm_v1.0.jsp",
+				"/C/Users/i-robinzhou/Desktop/网盟推广系统.txt",
+				"/C/Users/i-robinzhou/Desktop/syncMaterial.php",
+				"/D/Program Files/apache2.2/htdocs/html5/selected.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/新建文本文档.txt",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/vpaid/BgInterative.xml",
+				"/D/vpaid/Interactive.xml",
+				"/D/vpaid/VPAIDWrapper.js",
+				"/D/html5/vast_selectJsAd.xml",
+				"/D/vpaid/VPAIDSelectAd.js",
+				"/D/vpaid/VPAIDInteractiveAd.js",
+				"/D/vpaid/VPAIDBgInteractiveAd.js",
+				"/D/vpaid/test.html",
+				"/D/vpaid/Impress.js",
+				"/D/Program Files/apache2.2/conf/httpd.conf",
+				"/D/Program Files/httpd-2.4.7/docs/conf/httpd.conf.in",
+				"/D/vpaid/control.html",
+				"/D/vpaid/VPAIDSelectAd(1).js",
+				"/D/html5/js/player.js",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/html5/js/player_ovp.js",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档 (3).txt",
+				"/D/html/bootstrap/css/bootstrap.css",
+				"/D/vpaid/pic/button/1-1.png",
+				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
+				"/D/Python/writepa.py",
+				"/D/ads/adsgit/ovptest/web/js/player.js",
+				"/D/ads/adsgit/ads-vpaid/ad-player/vpaid_test.js",
+				"/D/vpaid/1.mp4",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint62_robinzhou_DBtablefile.sql",
+				"/D/ads/adsgit/ads-vnow/ikandelivery/src/main/webapp/painfo.jsp",
+				"/D/Python/pa.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
+				"/C/Users/i-robinzhou/Desktop/工商接口备份-周强写的.txt",
+				"/C/Users/i-robinzhou/Desktop/xxx.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm.jsp",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
+				"/C/Users/i-robinzhou/Desktop/backup.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_SDKmonitor.sql",
+				"/D/html/test.html",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_list_v2.0.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/css/style.css",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.ftl",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/app.config",
+				"/C/Users/i-robinzhou/Desktop/ad_exchange.log",
+				"/C/Users/i-robinzhou/Desktop/Data Source=192.168.30.116",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/Conf/Subscriptions.xml",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_list.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_detail.jsp",
+				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/customers.xsdconfig",
+				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/vast.xsdconfig",
+				"/E/overFrequency",
+				"/E/btcchina API",
+				"/D/Python/btcchina.py",
+				"/D/Python/json.json",
+				"/D/bip/bip.cmd",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/PPlive.Bip.ReportManager.csproj",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint59_robinzhou_getdatafromc#.sql",
+				"/C/Users/i-robinzhou/Desktop/ad_frequency_monitor.sql",
+				"/D/Python/my_try.py",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Pretty JSON.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/D/frequencyMonitor.json",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.jsp",
+				"/D/html/div.html",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/JsFormat.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint55_robinzhou_deleterelation.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint47_yefeizhang_supportJsvpaidMtr.sql",
+				"/D/home/pplive/web/people_attribute",
+				"/D/home/logs/adlog_131121",
+				"/D/home/logs/adlog_131113",
+				"/D/Python/urlResponseCode.py",
+				"/D/Python/mail_sender.py",
+				"/D/home/logs/adlog_131117",
+				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
+				"/D/html/jquery2.0.3.js",
+				"/D/Python/people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/reporting service.txt",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/pep8_autoformat.sublime-settings",
+				"/D/Python/people attribute.py",
+				"/D/Python/attribute/plt_IAds_UserProperty_Dpid.csv",
+				"/D/Python/attribute/plt_IAds_UserProperty_UserName.csv",
+				"/D/html/html5/Impress.js",
+				"/D/html/Impress/vpaid.html",
+				"/D/html/Impress/Impress.js",
+				"/D/html/Impress/asset2.xml",
+				"/D/Impress.js",
+				"/D/test.html",
+				"/C/Users/i-robinzhou/Desktop/Impress.js",
+				"/C/Users/i-robinzhou/Downloads/秦时明月1-8全集/秦时明月之一荆轲外传【完结】.txt",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/material/material_mod.jsp",
+				"/C/Users/i-robinzhou/Desktop/throwactivity_detail.jsp",
+				"/C/Users/i-robinzhou/Desktop/throwactivity_do.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_detail.jsp",
+				"/C/Users/i-robinzhou/Desktop/order_detail.jsp",
+				"/C/Users/i-robinzhou/Desktop/asset2.xml",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"<video",
+					"settimeout",
+					"_executeSubscribe",
+					"et =",
+					"initReqErrLog",
+					"initReqErrLog(",
+					"initReqErrLog(8",
+					"start",
+					"de.as",
+					"_controlBar",
+					"de.as",
+					"super",
+					"\n",
+					"script",
+					"\n",
+					"delete",
+					"},\n",
+					"	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n",
+					"ctrl+shift+k",
+					"z-index",
+					"de.as.",
+					"de.as.pptv",
+					"console.info",
+					"initControlBar",
+					"vdjump",
+					"send_mail",
+					"_customselect",
+					"destroyVideo",
+					"vpaidStop",
+					"onStopAd",
+					"onAd_complete",
+					"de.as",
+					"destroyVideo",
+					"doEnd",
+					"destroyVideo",
+					"vpaidVideoEnd",
+					"doPauseClose",
+					"destroySelf",
+					"destroyVideo",
+					"vpaidVideoEnd",
+					"vpaidStop",
+					"vpaidVideoEnd",
+					"onStopAd",
+					"AdStopped",
+					"vpaid",
+					"200784",
+					"TA201312261709340015",
+					"O201312261644370003",
+					"destroyTimeInterval",
+					"_getCreative",
+					"destroyAutoMove",
+					"slideDown",
+					"fadeIn",
+					"_auto",
+					"direction",
+					"sps",
+					"margin",
+					"marginLeft",
+					"margin-Left",
+					"document",
+					"documentR",
+					"remove",
+					"url",
+					"_throwMatchEvent",
+					"ad_video_click",
+					"onAd_video_click",
+					"_sd",
+					"onAd_complete",
+					"url",
+					"_executeSubscribe",
+					"click",
+					"1024",
+					"timeout",
+					"+k",
+					"Remain",
+					"{\n",
+					"‘",
+					"’",
+					"‘width’",
+					"/",
+					"/>",
+					" \n",
+					">\n",
+					"-->\n",
+					"function",
+					"left",
+					"absolute",
+					"position",
+					"absolute",
+					"relative",
+					"position",
+					"cccccc",
+					"background",
+					"pointer",
+					"absolute",
+					"position",
+					"solid",
+					"border",
+					"width",
+					"\n#",
+					"initAd",
+					"startAd",
+					"start",
+					"onAd_load",
+					"ad_load",
+					"init",
+					"ad_load",
+					"_executeSubscribe",
+					"_slot",
+					"player.as.pptv.com",
+					"for",
+					"http://www.pptv.com/?page=3&rnd=1388051673102",
+					"http://www.hao123.com/?page=3&rnd=1388051591019",
+					"_isCloseWindow",
+					"ad_time_change",
+					"ad_video_stop",
+					"ad_video_pause",
+					"_isShow",
+					"_countDown",
+					"onAd_Controlbtn_click",
+					"onAd_pop_close",
+					"showVideoSelDiv",
+					"start",
+					"stopAd",
+					"onStartAd",
+					"destroyTimeInterval",
+					"_clearAd",
+					"_countDown"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_direction",
+					"_sps",
+					"onAd_Controlbar_click",
+					"",
+					"_ViewDiv",
+					"View",
+					"_Creative",
+					"_destroyTimeInterval",
+					"P",
+					"F",
+					"$",
+					"@",
+					"that._btntype",
+					"-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 143.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"bgin",
+						"VPAIDBgInteractiveAd.js"
+					],
+					[
+						"vpaid",
+						"VPAIDInteractiveAd.js"
+					],
+					[
+						"impr",
+						"Impress.js"
+					],
+					[
+						"people",
+						"D:\\Python\\incremental_people_attribute.py"
+					],
+					[
+						"",
+						"E:\\vpaid-test\\Impress\\Impress.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 165.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1584.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ads",
+						"ads_request"
+					],
+					[
+						"VV",
+						"VVsum"
+					],
+					[
+						"UV",
+						"UVsum"
+					],
+					[
+						"IP",
+						"IPCity"
+					],
+					[
+						"base",
+						"baseUrl"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"appen",
+						"appendChild"
+					],
+					[
+						"ass",
+						"assets_obj"
+					],
+					[
+						"_init",
+						"_initBackground"
+					],
+					[
+						"_tdC",
+						"_tdCodeDiv"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"last",
+						"_lastvideo"
+					],
+					[
+						"_slider",
+						"_sliderBlock"
+					],
+					[
+						"_sl",
+						"_sliderBlock"
+					],
+					[
+						"_cr",
+						"_Creative"
+					],
+					[
+						"create",
+						"createAutoMove"
+					],
+					[
+						"des",
+						"destroyAutoMove"
+					],
+					[
+						"psu",
+						"pause"
+					],
+					[
+						"sli",
+						"Slider"
+					],
+					[
+						"_s",
+						"_slideWidth"
+					],
+					[
+						"_bg",
+						"_bgWidth"
+					],
+					[
+						"_st",
+						"_startSlideInterval"
+					],
+					[
+						"upd",
+						"updateImage"
+					],
+					[
+						"en",
+						"encodeURIComponent"
+					],
+					[
+						"sin",
+						"sinaRegx"
+					],
+					[
+						"_get",
+						"_getExtensionValue"
+					],
+					[
+						"_ge",
+						"_getExtensionValue"
+					],
+					[
+						"_con",
+						"_containWord"
+					],
+					[
+						"_wo",
+						"_word"
+					],
+					[
+						"_wor",
+						"_wordLeft"
+					],
+					[
+						"wordr",
+						"wordRight"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"Ex",
+						"Extension"
+					],
+					[
+						"touch",
+						"touch"
+					],
+					[
+						"cli",
+						"clientX"
+					],
+					[
+						"mouse",
+						"mousedown	mousedown"
+					],
+					[
+						"pso",
+						"pos_x"
+					],
+					[
+						"sl",
+						"Slider"
+					],
+					[
+						"pos",
+						"pos_x"
+					],
+					[
+						"slid",
+						"sliderBlock"
+					],
+					[
+						"init",
+						"init"
+					],
+					[
+						"up",
+						"updateImage"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"off",
+						"offset	.offset"
+					],
+					[
+						"_ini",
+						"_initialized"
+					],
+					[
+						"backgr",
+						"background-image"
+					],
+					[
+						"_add",
+						"_addSharebtnListener"
+					],
+					[
+						"_time",
+						"_timep"
+					],
+					[
+						"VIdeo",
+						"VideoSel"
+					],
+					[
+						"_video",
+						"_videoSelbtn"
+					],
+					[
+						"_pic",
+						"_picSelbtn"
+					],
+					[
+						"pause",
+						"pauseAd"
+					],
+					[
+						"_see",
+						"_selectType"
+					],
+					[
+						"_control",
+						"_controlBar"
+					],
+					[
+						"start",
+						"startTimeInterval"
+					],
+					[
+						"Pic",
+						"PicSel"
+					],
+					[
+						"_sele",
+						"_selectType"
+					],
+					[
+						"V",
+						"View"
+					],
+					[
+						"_vid",
+						"_video"
+					],
+					[
+						"Video",
+						"Video"
+					],
+					[
+						"Eve",
+						"Event"
+					],
+					[
+						"click",
+						"clicktype"
+					],
+					[
+						"du",
+						"document"
+					],
+					[
+						"_share",
+						"_sharebtn"
+					],
+					[
+						"vd",
+						"vdjump"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"_re",
+						"_remainTime"
+					],
+					[
+						"_select",
+						"_selectType"
+					],
+					[
+						"_la",
+						"_lastvideo"
+					],
+					[
+						"_choose",
+						"_chooseDiv"
+					],
+					[
+						"view",
+						"View"
+					],
+					[
+						"_large",
+						"_largeVideo"
+					],
+					[
+						"_vi",
+						"_video"
+					],
+					[
+						"_ch",
+						"_choose"
+					],
+					[
+						"initL",
+						"initLargeVideo"
+					],
+					[
+						"_lar",
+						"_largeVideo"
+					],
+					[
+						"vide",
+						"VideoView"
+					],
+					[
+						"de",
+						"destroyTimeInterval"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"Ms",
+						"Mask"
+					],
+					[
+						"_se",
+						"_selectpics"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"crea",
+						"_picCreative"
+					],
+					[
+						"choose",
+						"Choose"
+					],
+					[
+						"_in",
+						"_index"
+					],
+					[
+						"_choo",
+						"_choose"
+					],
+					[
+						"picView",
+						"PicView"
+					],
+					[
+						"_ma",
+						"_maskDiv"
+					],
+					[
+						"_img",
+						"_img"
+					],
+					[
+						"sp",
+						"space"
+					],
+					[
+						"_selectP",
+						"_selectpicDiv"
+					],
+					[
+						"creat",
+						"createElement"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"picvie",
+						"PicView"
+					],
+					[
+						"we",
+						"_websitebtn"
+					],
+					[
+						"_tdc",
+						"_tdCodebtn"
+					],
+					[
+						"_picview",
+						"_picViewDiv"
+					],
+					[
+						"show",
+						"showPicSelDiv"
+					],
+					[
+						"hide",
+						"hidePicSelDiv"
+					],
+					[
+						"initp",
+						"initPicView"
+					],
+					[
+						"initTd",
+						"initTdCodeDiv"
+					],
+					[
+						"bg",
+						"bgdiv"
+					],
+					[
+						"_tdco",
+						"_tdCodeDiv"
+					],
+					[
+						"share",
+						"Share"
+					],
+					[
+						"shar",
+						"Share"
+					],
+					[
+						"video",
+						"Video"
+					],
+					[
+						"_lock",
+						"_lock"
+					],
+					[
+						"turn",
+						"_turnback"
+					],
+					[
+						"initlo",
+						"initLockDiv"
+					],
+					[
+						"css",
+						"cssText"
+					],
+					[
+						"sele",
+						"selectIndex"
+					],
+					[
+						"change",
+						"changeStatus"
+					],
+					[
+						"websi",
+						"website"
+					],
+					[
+						"vid",
+						"VideoSel"
+					],
+					[
+						"picS",
+						"PicSel"
+					],
+					[
+						"pic",
+						"PicSel"
+					],
+					[
+						"this",
+						"this_imgsrc"
+					],
+					[
+						"td",
+						"TdCode"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"in",
+						"innerHTML"
+					],
+					[
+						"web",
+						"website"
+					],
+					[
+						"sh",
+						"share"
+					],
+					[
+						"log",
+						"_logobtn"
+					],
+					[
+						"proto",
+						"prototype"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 886,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+					"settings":
+					{
+						"buffer_size": 108565,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+					"settings":
+					{
+						"buffer_size": 204707,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/player.html",
+					"settings":
+					{
+						"buffer_size": 913,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+					"settings":
+					{
+						"buffer_size": 17955,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html/test.html",
+					"settings":
+					{
+						"buffer_size": 235,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+					"settings":
+					{
+						"buffer_size": 4547,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+					"settings":
+					{
+						"buffer_size": 39209,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+					"settings":
+					{
+						"buffer_size": 14152,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
+					"settings":
+					{
+						"buffer_size": 7581,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+					"settings":
+					{
+						"buffer_size": 3250,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/i-robinzhou/Desktop/hive.sql",
+					"settings":
+					{
+						"buffer_size": 4634,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 58.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"GIT:",
+						"Git: Commit history"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"li",
+						"Permute Lines: Unique→唯一"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"int",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"for",
+						"Format: Javascript"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装程序包"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package→删除程序包"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"print(1);",
+					"print(1)",
+					"print \"1\"",
+					"print '1'",
+					"console.info(true)",
+					"print 'll'",
+					"print ll",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_vpaid.js",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscript.xml",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscriptAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/jquery2.0.3.js",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm_v1.0.jsp",
+				"/C/Users/i-robinzhou/Desktop/网盟推广系统.txt",
+				"/C/Users/i-robinzhou/Desktop/syncMaterial.php",
+				"/D/Program Files/apache2.2/htdocs/html5/selected.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/新建文本文档.txt",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/vpaid/BgInterative.xml",
+				"/D/vpaid/Interactive.xml",
+				"/D/vpaid/VPAIDWrapper.js",
+				"/D/html5/vast_selectJsAd.xml",
+				"/D/vpaid/VPAIDSelectAd.js",
+				"/D/vpaid/VPAIDInteractiveAd.js",
+				"/D/vpaid/VPAIDBgInteractiveAd.js",
+				"/D/vpaid/test.html",
+				"/D/vpaid/Impress.js",
+				"/D/Program Files/apache2.2/conf/httpd.conf",
+				"/D/Program Files/httpd-2.4.7/docs/conf/httpd.conf.in",
+				"/D/vpaid/control.html",
+				"/D/vpaid/VPAIDSelectAd(1).js",
+				"/D/html5/js/player.js",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/html5/js/player_ovp.js",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档 (3).txt",
+				"/D/html/bootstrap/css/bootstrap.css",
+				"/D/vpaid/pic/button/1-1.png",
+				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
+				"/D/Python/writepa.py",
+				"/D/ads/adsgit/ovptest/web/js/player.js",
+				"/D/ads/adsgit/ads-vpaid/ad-player/vpaid_test.js",
+				"/D/vpaid/1.mp4",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint62_robinzhou_DBtablefile.sql",
+				"/D/ads/adsgit/ads-vnow/ikandelivery/src/main/webapp/painfo.jsp",
+				"/D/Python/pa.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
+				"/C/Users/i-robinzhou/Desktop/工商接口备份-周强写的.txt",
+				"/C/Users/i-robinzhou/Desktop/xxx.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm.jsp",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
+				"/C/Users/i-robinzhou/Desktop/backup.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_SDKmonitor.sql",
+				"/D/html/test.html",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_list_v2.0.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/css/style.css",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.ftl",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/app.config",
+				"/C/Users/i-robinzhou/Desktop/ad_exchange.log",
+				"/C/Users/i-robinzhou/Desktop/Data Source=192.168.30.116",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/Conf/Subscriptions.xml",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_list.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_detail.jsp",
+				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/customers.xsdconfig",
+				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/vast.xsdconfig",
+				"/E/overFrequency",
+				"/E/btcchina API",
+				"/D/Python/btcchina.py",
+				"/D/Python/json.json",
+				"/D/bip/bip.cmd",
+				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/PPlive.Bip.ReportManager.csproj",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint59_robinzhou_getdatafromc#.sql",
+				"/C/Users/i-robinzhou/Desktop/ad_frequency_monitor.sql",
+				"/D/Python/my_try.py",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Pretty JSON.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/D/frequencyMonitor.json",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.jsp",
+				"/D/html/div.html",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/JsFormat.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint55_robinzhou_deleterelation.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint47_yefeizhang_supportJsvpaidMtr.sql",
+				"/D/home/pplive/web/people_attribute",
+				"/D/home/logs/adlog_131121",
+				"/D/home/logs/adlog_131113",
+				"/D/Python/urlResponseCode.py",
+				"/D/Python/mail_sender.py",
+				"/D/home/logs/adlog_131117",
+				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
+				"/D/html/jquery2.0.3.js",
+				"/D/Python/people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/reporting service.txt",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/pep8_autoformat.sublime-settings",
+				"/D/Python/people attribute.py",
+				"/D/Python/attribute/plt_IAds_UserProperty_Dpid.csv",
+				"/D/Python/attribute/plt_IAds_UserProperty_UserName.csv",
+				"/D/html/html5/Impress.js",
+				"/D/html/Impress/vpaid.html",
+				"/D/html/Impress/Impress.js",
+				"/D/html/Impress/asset2.xml",
+				"/D/Impress.js",
+				"/D/test.html",
+				"/C/Users/i-robinzhou/Desktop/Impress.js",
+				"/C/Users/i-robinzhou/Downloads/秦时明月1-8全集/秦时明月之一荆轲外传【完结】.txt",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/material/material_mod.jsp",
+				"/C/Users/i-robinzhou/Desktop/throwactivity_detail.jsp",
+				"/C/Users/i-robinzhou/Desktop/throwactivity_do.jsp",
+				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_detail.jsp",
+				"/C/Users/i-robinzhou/Desktop/order_detail.jsp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"resizeAd",
+					"resize",
+					"/\";\n",
+					"_getWindowInfo",
+					"resizeAd",
+					"resizeAd\nresizeAd",
+					"resizeAd",
+					"resize",
+					"stopAd",
+					"<video",
+					"settimeout",
+					"_executeSubscribe",
+					"et =",
+					"initReqErrLog",
+					"initReqErrLog(",
+					"initReqErrLog(8",
+					"start",
+					"de.as",
+					"_controlBar",
+					"de.as",
+					"super",
+					"\n",
+					"script",
+					"\n",
+					"delete",
+					"},\n",
+					"	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n",
+					"ctrl+shift+k",
+					"z-index",
+					"de.as.",
+					"de.as.pptv",
+					"console.info",
+					"initControlBar",
+					"vdjump",
+					"send_mail",
+					"_customselect",
+					"destroyVideo",
+					"vpaidStop",
+					"onStopAd",
+					"onAd_complete",
+					"de.as",
+					"destroyVideo",
+					"doEnd",
+					"destroyVideo",
+					"vpaidVideoEnd",
+					"doPauseClose",
+					"destroySelf",
+					"destroyVideo",
+					"vpaidVideoEnd",
+					"vpaidStop",
+					"vpaidVideoEnd",
+					"onStopAd",
+					"AdStopped",
+					"vpaid",
+					"200784",
+					"TA201312261709340015",
+					"O201312261644370003",
+					"destroyTimeInterval",
+					"_getCreative",
+					"destroyAutoMove",
+					"slideDown",
+					"fadeIn",
+					"_auto",
+					"direction",
+					"sps",
+					"margin",
+					"marginLeft",
+					"margin-Left",
+					"document",
+					"documentR",
+					"remove",
+					"url",
+					"_throwMatchEvent",
+					"ad_video_click",
+					"onAd_video_click",
+					"_sd",
+					"onAd_complete",
+					"url",
+					"_executeSubscribe",
+					"click",
+					"1024",
+					"timeout",
+					"+k",
+					"Remain",
+					"{\n",
+					"‘",
+					"’",
+					"‘width’",
+					"/",
+					"/>",
+					" \n",
+					">\n",
+					"-->\n",
+					"function",
+					"left",
+					"absolute",
+					"position",
+					"absolute",
+					"relative",
+					"position",
+					"cccccc",
+					"background",
+					"pointer",
+					"absolute",
+					"position",
+					"solid",
+					"border",
+					"width",
+					"\n#",
+					"initAd",
+					"startAd",
+					"start",
+					"onAd_load",
+					"ad_load",
+					"init",
+					"ad_load",
+					"_executeSubscribe",
+					"_slot",
+					"player.as.pptv.com",
+					"for",
+					"http://www.pptv.com/?page=3&rnd=1388051673102",
+					"http://www.hao123.com/?page=3&rnd=1388051591019",
+					"_isCloseWindow",
+					"ad_time_change",
+					"ad_video_stop",
+					"ad_video_pause",
+					"_isShow",
+					"_countDown"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_direction",
+					"_sps",
+					"onAd_Controlbar_click",
+					"",
+					"_ViewDiv",
+					"View",
+					"_Creative",
+					"_destroyTimeInterval",
+					"P",
+					"F",
+					"$",
+					"@",
+					"that._btntype",
+					"-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 11,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Windows/System32/drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 886,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										835,
+										835
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 108565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3110,
+										3110
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2086.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 204707,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										181798,
+										181798
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 55400.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/player.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 913,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										306,
+										306
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17955,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7192,
+										7202
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 585.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/Program Files/apache2.2/htdocs/html/test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										235,
+										235
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4547,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3196,
+										3196
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 969.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 39209,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										36358,
+										36366
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 668.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6446,
+										6446
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"origin_encoding": "UTF-8 with BOM",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2656.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										351,
+										351
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3250,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2933,
+										2933
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 570.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Users/i-robinzhou/Desktop/hive.sql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4634,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1977,
+										1977
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 798.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 143.0
+			},
+			"position": "0,0,1,-32000,-32000,-1,-1,1190,-73,290,1527",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"bgin",
+						"VPAIDBgInteractiveAd.js"
+					],
+					[
+						"vpaid",
+						"VPAIDInteractiveAd.js"
+					],
+					[
+						"impr",
+						"Impress.js"
+					],
+					[
+						"people",
+						"D:\\Python\\incremental_people_attribute.py"
+					],
+					[
+						"",
+						"E:\\vpaid-test\\Impress\\Impress.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 165.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/vpaid/vpaid.sublime-workspace"
+		]
+	}
+}
