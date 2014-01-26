@@ -7,11 +7,13 @@
 		"jQuery",
 		"JsFormat",
 		"JSONLint",
+		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
-		"SublimeFormatSQL"
+		"SublimeFormatSQL",
+		"SublimeLinter-xmllint"
 	],
 	"repositories":
 	[
