@@ -1599,7 +1599,15 @@
 					"file": "/C/Windows/System32/drivers/etc/hosts",
 					"settings":
 					{
-						"buffer_size": 1079,
+						"buffer_size": 1109,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+					"settings":
+					{
+						"buffer_size": 40294,
 						"line_ending": "Windows"
 					}
 				},
@@ -1779,6 +1787,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
 				"/D/ads/adsgitlab/ovptest/web/js/player_vpaid.js",
 				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
 				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs",
@@ -1905,8 +1914,7 @@
 				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
 				"/C/Users/i-robinzhou/Desktop/sort.txt",
 				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/U/.ssh/known_hosts",
-				"/U/.gitconfig"
+				"/U/.ssh/known_hosts"
 			],
 			"find":
 			{
@@ -2105,10 +2113,17 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Windows\\System32\\drivers\\etc"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2117,20 +2132,21 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1079,
+								"buffer_size": 1109,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										851,
-										851
+										393,
+										393
 									]
 								],
 								"settings":
 								{
-									"encoding_helper_encoding": "UTF-8",
+									"SideBarAutoAddFoldersForOpenedFiles": 1,
+									"encoding_helper_encoding": "cp936",
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -2142,6 +2158,36 @@
 						},
 						{
 							"buffer": 1,
+							"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3212,
+										3212
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1539.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
 							"semi_transient": false,
 							"settings":
@@ -2171,7 +2217,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 3,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
 							"semi_transient": false,
 							"settings":
@@ -2196,13 +2242,13 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 22530.0,
+								"translation.y": 414.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 4,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
 							"semi_transient": false,
 							"settings":
@@ -2225,7 +2271,7 @@
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 20516.0,
+								"translation.y": 14512.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2268,7 +2314,7 @@
 			{
 				"height": 154.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,726,457,210,1456",
+			"position": "0,2,3,-32000,-32000,-1,-1,1060,193,544,1192",
 			"project": "",
 			"replace":
 			{
