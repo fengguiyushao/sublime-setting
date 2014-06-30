@@ -1599,7 +1599,23 @@
 					"file": "/C/Windows/System32/drivers/etc/hosts",
 					"settings":
 					{
-						"buffer_size": 1079,
+						"buffer_size": 1109,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
+					"settings":
+					{
+						"buffer_size": 32439,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+					"settings":
+					{
+						"buffer_size": 40294,
 						"line_ending": "Windows"
 					}
 				},
@@ -2105,10 +2121,17 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Windows\\System32\\drivers\\etc"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2117,31 +2140,91 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1079,
+								"buffer_size": 1109,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										851,
-										851
+										1063,
+										1063
 									]
 								],
 								"settings":
 								{
-									"encoding_helper_encoding": "UTF-8",
+									"SideBarAutoAddFoldersForOpenedFiles": 1,
+									"encoding_helper_encoding": "cp936",
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 114.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32438,
+										32438
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5073.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3212,
+										3212
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1539.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
 							"semi_transient": false,
 							"settings":
@@ -2171,7 +2254,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 4,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
 							"semi_transient": false,
 							"settings":
@@ -2196,13 +2279,13 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 22530.0,
+								"translation.y": 414.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 5,
 							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
 							"semi_transient": false,
 							"settings":
@@ -2225,7 +2308,7 @@
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 20516.0,
+								"translation.y": 14512.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2268,7 +2351,7 @@
 			{
 				"height": 154.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,726,457,210,1456",
+			"position": "0,2,3,-32000,-32000,-1,-1,1060,193,544,1192",
 			"project": "",
 			"replace":
 			{
