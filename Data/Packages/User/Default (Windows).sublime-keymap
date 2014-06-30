@@ -1,1 +1,10 @@
-[{ "keys": ["ctrl+k",], "command": "format_sql" }]
+[{
+	"keys": ["ctrl+k", ],
+	"command": "format_sql"
+}, {
+	"keys": ["ctrl+d"],
+	"command": "run_macro_file",
+	"args": {
+		"file": "res://Packages/Default/Delete Line.sublime-macro"
+	}
+}]

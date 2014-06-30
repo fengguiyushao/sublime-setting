@@ -8,12 +8,14 @@
 		"JsFormat",
 		"JSONLint",
 		"Markdown Preview",
+		"ModernPerl",
 		"Package Control",
 		"Pretty JSON",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
 		"SublimeFormatSQL",
-		"SublimeLinter-xmllint"
+		"SublimeLinter-xmllint",
+		"YUI Compressor"
 	],
 	"repositories":
 	[

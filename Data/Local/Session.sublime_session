@@ -1,15 +1,17 @@
 {
 	"folder_history":
 	[
+		"/D/Program Files/apache2.2/htdocs/html5",
+		"/E/CreateJS",
 		"/D/vpaid",
 		"/C/Users/i-robinzhou/Downloads/7bfb145a-71b7-4ec1-80e6-7fa1bb671b1e"
 	],
 	"last_version": 3038,
-	"last_window_id": 10,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 842.0,
+		"new_window_height": 484.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -17,16 +19,208 @@
 				"selected_items":
 				[
 					[
+						"ads_",
+						"ads_request"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"_left",
+						"_leftadtime"
+					],
+					[
+						"thi",
+						"_thisadtime"
+					],
+					[
+						"_get",
+						"_getLocalProxyUrl"
+					],
+					[
+						"media",
+						"mediafile"
+					],
+					[
+						"local",
+						"localproxy"
+					],
+					[
+						"paras",
+						"parastr"
+					],
+					[
+						"pl",
+						"platform"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"OUT",
+						"OUTFILE2"
+					],
+					[
+						"city",
+						"city"
+					],
+					[
+						"out",
+						"OUTDIFF"
+					],
+					[
+						"db",
+						"dbcity"
+					],
+					[
+						"wh",
+						"whole"
+					],
+					[
+						"area",
+						"area1"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"col",
+						"col_min"
+					],
+					[
+						"col_",
+						"col_min"
+					],
+					[
+						"work",
+						"worksheet"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"inn",
+						"innerhtml"
+					],
+					[
+						"ne",
+						"nextpic"
+					],
+					[
+						"ans",
+						"answer1"
+					],
+					[
+						"pic",
+						"_picindex"
+					],
+					[
+						"creat",
+						"creative"
+					],
+					[
+						"value",
+						"VALUES"
+					],
+					[
+						"vo",
+						"Void"
+					],
+					[
+						"re",
+						"returnType"
+					],
+					[
+						"ad_vid",
+						"ad_video_click"
+					],
+					[
+						"ad",
+						"ad_video_end"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"V",
+						"VpaidEvent3"
+					],
+					[
+						"Vpa",
+						"VpaidEvent2"
+					],
+					[
+						"VpaidE",
+						"VpaidEvent1"
+					],
+					[
+						"a",
+						"ad_answer_open"
+					],
+					[
+						"ani",
+						"animated2"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"start",
+						"startTime"
+					],
+					[
+						"draw",
+						"drawStart"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_re",
+						"_resizeScale"
+					],
+					[
+						"create",
+						"createBtns"
+					],
+					[
+						"_con",
+						"_controlBar"
+					],
+					[
+						"auto",
+						"autobuffer"
+					],
+					[
+						"ads",
+						"ads_request"
+					],
+					[
+						"VV",
+						"VVsum"
+					],
+					[
+						"UV",
+						"UVsum"
+					],
+					[
 						"IP",
 						"IPCity"
 					],
 					[
 						"base",
 						"baseUrl"
-					],
-					[
-						"inn",
-						"innerHTML"
 					],
 					[
 						"appen",
@@ -69,10 +263,6 @@
 						"_Creative"
 					],
 					[
-						"create",
-						"createAutoMove"
-					],
-					[
 						"des",
 						"destroyAutoMove"
 					],
@@ -109,16 +299,8 @@
 						"sinaRegx"
 					],
 					[
-						"_get",
-						"_getExtensionValue"
-					],
-					[
 						"_ge",
 						"_getExtensionValue"
-					],
-					[
-						"_con",
-						"_containWord"
 					],
 					[
 						"_wo",
@@ -225,24 +407,12 @@
 						"_controlBar"
 					],
 					[
-						"start",
-						"startTimeInterval"
-					],
-					[
 						"Pic",
 						"PicSel"
 					],
 					[
 						"_sele",
 						"_selectType"
-					],
-					[
-						"ads",
-						"adsindex"
-					],
-					[
-						"V",
-						"View"
 					],
 					[
 						"_vid",
@@ -275,14 +445,6 @@
 					[
 						"margin",
 						"margin-left"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"_re",
-						"_remainTime"
 					],
 					[
 						"_select",
@@ -367,177 +529,65 @@
 					[
 						"_ma",
 						"_maskDiv"
-					],
-					[
-						"_img",
-						"_img"
-					],
-					[
-						"sp",
-						"space"
-					],
-					[
-						"_selectP",
-						"_selectpicDiv"
-					],
-					[
-						"creat",
-						"createElement"
-					],
-					[
-						"type",
-						"typeof"
-					],
-					[
-						"unde",
-						"undefined"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"picvie",
-						"PicView"
-					],
-					[
-						"we",
-						"_websitebtn"
-					],
-					[
-						"_tdc",
-						"_tdCodebtn"
-					],
-					[
-						"_picview",
-						"_picViewDiv"
-					],
-					[
-						"show",
-						"showPicSelDiv"
-					],
-					[
-						"hide",
-						"hidePicSelDiv"
-					],
-					[
-						"initp",
-						"initPicView"
-					],
-					[
-						"initTd",
-						"initTdCodeDiv"
-					],
-					[
-						"bg",
-						"bgdiv"
-					],
-					[
-						"_tdco",
-						"_tdCodeDiv"
-					],
-					[
-						"share",
-						"Share"
-					],
-					[
-						"shar",
-						"Share"
-					],
-					[
-						"video",
-						"Video"
-					],
-					[
-						"_lock",
-						"_lock"
-					],
-					[
-						"turn",
-						"_turnback"
-					],
-					[
-						"initlo",
-						"initLockDiv"
-					],
-					[
-						"css",
-						"cssText"
-					],
-					[
-						"sele",
-						"selectIndex"
-					],
-					[
-						"change",
-						"changeStatus"
-					],
-					[
-						"websi",
-						"website"
-					],
-					[
-						"vid",
-						"VideoSel"
-					],
-					[
-						"picS",
-						"PicSel"
-					],
-					[
-						"pic",
-						"PicSel"
-					],
-					[
-						"this",
-						"this_imgsrc"
-					],
-					[
-						"td",
-						"TdCode"
-					],
-					[
-						"first",
-						"firstChild"
-					],
-					[
-						"in",
-						"innerHTML"
-					],
-					[
-						"web",
-						"website"
-					],
-					[
-						"sh",
-						"share"
-					],
-					[
-						"log",
-						"_logobtn"
-					],
-					[
-						"proto",
-						"prototype"
-					],
-					[
-						"contr",
-						"ControlBar"
-					],
-					[
-						"get",
-						"getNumberOfBtn"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"forma",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
 						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"back",
+						"Preferences: Browse Packages→浏览程序包"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"mdk",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -549,36 +599,16 @@
 						"Package Control: Install Package"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"GIT:",
 						"Git: Commit history"
-					],
-					[
-						"view",
-						"View: Toggle Side Bar→切换侧栏"
 					],
 					[
 						"li",
 						"Permute Lines: Unique→唯一"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
 						"convert",
 						"Indentation: Convert to Tabs→转换为标签"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
 					],
 					[
 						"remo",
@@ -601,14 +631,6 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
 						"int",
 						"Indentation: Convert to Tabs→转换为标签"
 					],
@@ -629,7 +651,7 @@
 						"Package Control: Remove Package→删除程序包"
 					]
 				],
-				"width": 504.0
+				"width": 576.0
 			},
 			"console":
 			{
@@ -657,134 +679,134 @@
 			},
 			"file_history":
 			[
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/player.html",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
 				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscript.xml",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscriptAd.js",
-				"/D/Program Files/apache2.2/htdocs/html/jquery2.0.3.js",
-				"/D/Python/incremental_people_attribute.py",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
 				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/policy.xml",
+				"/D/Python/memory",
+				"/D/xxxxxxxxx/uv01-27.txt",
+				"/D/xxxxxxxxx/sum.txt",
+				"/D/xxxxxxxxx/uv21-27.txt",
+				"/D/xxxxxxxxx/uv14-20.txt",
+				"/D/xxxxxxxxx/uv07-13.txt",
+				"/D/xxxxxxxxx/uv01-06.txt",
+				"/C/Users/i-robinzhou/Desktop/system.csv",
+				"/C/Users/i-robinzhou/Desktop/查VV数据",
+				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/C/Users/i-robinzhou/Desktop/tmp.txt",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/C/Users/i-robinzhou/Desktop/sort.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/U/.ssh/known_hosts",
+				"/U/.gitconfig",
+				"/C/Program Files (x86)/Git/etc/termcap",
+				"/C/Program Files (x86)/Git/etc/inputrc",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/C/Program Files (x86)/Git/etc/profile",
+				"/C/Program Files (x86)/Git/etc/git-completion.bash",
+				"/C/Program Files (x86)/Git/etc/fileList-bindimage.txt",
+				"/U/.ssh/id_rsa.pub",
+				"/D/ads/robinzhou.txt.pub",
+				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
 				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm_v1.0.jsp",
-				"/C/Users/i-robinzhou/Desktop/网盟推广系统.txt",
-				"/C/Users/i-robinzhou/Desktop/syncMaterial.php",
-				"/D/Program Files/apache2.2/htdocs/html5/selected.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/新建文本文档.txt",
-				"/D/Program Files/apache2.2/htdocs/index.html",
-				"/D/vpaid/BgInterative.xml",
-				"/D/vpaid/Interactive.xml",
-				"/D/vpaid/VPAIDWrapper.js",
-				"/D/html5/vast_selectJsAd.xml",
-				"/D/vpaid/VPAIDSelectAd.js",
-				"/D/vpaid/VPAIDInteractiveAd.js",
-				"/D/vpaid/VPAIDBgInteractiveAd.js",
-				"/D/vpaid/test.html",
-				"/D/vpaid/Impress.js",
-				"/D/Program Files/apache2.2/conf/httpd.conf",
-				"/D/Program Files/httpd-2.4.7/docs/conf/httpd.conf.in",
-				"/D/vpaid/control.html",
-				"/D/vpaid/VPAIDSelectAd(1).js",
-				"/D/html5/js/player.js",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
 				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
-				"/D/html5/js/player_ovp.js",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档 (3).txt",
-				"/D/html/bootstrap/css/bootstrap.css",
-				"/D/vpaid/pic/button/1-1.png",
-				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
-				"/D/Python/writepa.py",
 				"/D/ads/adsgit/ovptest/web/js/player.js",
-				"/D/ads/adsgit/ads-vpaid/ad-player/vpaid_test.js",
-				"/D/vpaid/1.mp4",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint62_robinzhou_DBtablefile.sql",
-				"/D/ads/adsgit/ads-vnow/ikandelivery/src/main/webapp/painfo.jsp",
-				"/D/Python/pa.py",
-				"/D/Python/test.py",
-				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
-				"/C/Users/i-robinzhou/Desktop/工商接口备份-周强写的.txt",
-				"/C/Users/i-robinzhou/Desktop/xxx.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm.jsp",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
-				"/C/Users/i-robinzhou/Desktop/backup.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_SDKmonitor.sql",
-				"/D/html/test.html",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_list_v2.0.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/css/style.css",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.ftl",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/app.config",
-				"/C/Users/i-robinzhou/Desktop/ad_exchange.log",
-				"/C/Users/i-robinzhou/Desktop/Data Source=192.168.30.116",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/Conf/Subscriptions.xml",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_list.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_detail.jsp",
-				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/customers.xsdconfig",
-				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/vast.xsdconfig",
-				"/E/overFrequency",
-				"/E/btcchina API",
-				"/D/Python/btcchina.py",
-				"/D/Python/json.json",
-				"/D/bip/bip.cmd",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/PPlive.Bip.ReportManager.csproj",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint59_robinzhou_getdatafromc#.sql",
-				"/C/Users/i-robinzhou/Desktop/ad_frequency_monitor.sql",
-				"/D/Python/my_try.py",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Pretty JSON.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
-				"/D/frequencyMonitor.json",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.jsp",
-				"/D/html/div.html",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/JsFormat.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/EncodingHelper/EncodingHelper.sublime-settings",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint55_robinzhou_deleterelation.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint47_yefeizhang_supportJsvpaidMtr.sql",
-				"/D/home/pplive/web/people_attribute",
-				"/D/home/logs/adlog_131121",
-				"/D/home/logs/adlog_131113",
-				"/D/Python/urlResponseCode.py",
-				"/D/Python/mail_sender.py",
-				"/D/home/logs/adlog_131117",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_selectJsAd.xml",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
 				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
-				"/D/html/jquery2.0.3.js",
-				"/D/Python/people_attribute.py",
-				"/C/Users/i-robinzhou/Desktop/reporting service.txt",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/pep8_autoformat.sublime-settings",
-				"/D/Python/people attribute.py",
-				"/D/Python/attribute/plt_IAds_UserProperty_Dpid.csv",
-				"/D/Python/attribute/plt_IAds_UserProperty_UserName.csv",
-				"/D/html/html5/Impress.js",
-				"/D/html/Impress/vpaid.html",
-				"/D/html/Impress/Impress.js",
-				"/D/html/Impress/asset2.xml",
-				"/D/Impress.js",
-				"/D/test.html",
-				"/C/Users/i-robinzhou/Desktop/Impress.js",
-				"/C/Users/i-robinzhou/Downloads/秦时明月1-8全集/秦时明月之一荆轲外传【完结】.txt",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/material/material_mod.jsp",
-				"/C/Users/i-robinzhou/Desktop/throwactivity_detail.jsp",
-				"/C/Users/i-robinzhou/Desktop/throwactivity_do.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_detail.jsp",
-				"/C/Users/i-robinzhou/Desktop/order_detail.jsp",
-				"/C/Users/i-robinzhou/Desktop/asset2.xml",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/CHANGELOG"
+				"/D/Python/writepa.py",
+				"/D/Program Files/apache2.2/htdocs/html/test.html",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_vpaid.js",
+				"/C/Users/i-robinzhou/Desktop/IMPortant.txt",
+				"/D/Program Files/apache2.2/htdocs/html5/js/ovp.js",
+				"/D/ads/adsgit/ovptest/web/js/ovp.js",
+				"/D/ads/adsgit/db-mysql/src/main/sql/000015.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/E/analyse.pl",
+				"/C/Users/i-robinzhou/Desktop/temp",
+				"/C/Users/i-robinzhou/Desktop/final.sql",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_positionfix.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/D/Python/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/.m2/settings.xml",
+				"/C/Users/i-robinzhou/.m2/archetype-catalog.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.txt",
+				"/D/Python/pa.py",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/vpaid/VPAIDSelectAd.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/ads/adsgit/q",
+				"/D/ads/html5svn/js/player.js",
+				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
+				"/E/IP库对比/IP_20131211库/20140311guangxie.txt",
+				"/C/Users/i-robinzhou/Downloads/coreutils-8.22.tar/coreutils-8.22/src/sort.c",
+				"/E/IP库对比/IP_20131211库/youku.patch",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/E/sort.txt",
+				"/C/Users/i-robinzhou/Desktop/vast.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/E/苏宁电商/sort.txt",
+				"/E/苏宁电商/ipTA201403131610000006.txt",
+				"/E/IP库对比/IP_20131211库/ipCompare.pl",
+				"/E/苏宁电商/useragent.txt",
+				"/E/苏宁电商/TA201403061222440353.txt",
+				"/E/24G/see.pl",
+				"/E/24G/small.txt",
+				"/E/24G/18762_pptv_log_result.txt",
+				"/E/24G/18762_pptv_log_result.csv",
+				"/E/24G/small.csv",
+				"/E/ap.txt",
+				"/C/Users/i-robinzhou/Downloads/main401/displayinfo.htm",
+				"/C/Users/i-robinzhou/Downloads/main401/main.htm",
+				"/C/Users/i-robinzhou/Downloads/main401/css/global.css",
+				"/C/Users/i-robinzhou/Downloads/main401/css/reset.css",
+				"/D/people/attribute.csv",
+				"/D/people/see.csv",
+				"/D/people/unique.csv.001",
+				"/D/people/unique.csv.004",
+				"/D/people/Div_unique_1.csv",
+				"/D/people/Div_unique_5.csv",
+				"/D/people/Div_unique_4.csv",
+				"/D/people/unique.csv",
+				"/D/ads/adsgit/db-mysql/src/main/sql/000017_shahu.sql",
+				"/E/IP库对比/IP_20131211库/20130520youku.txt",
+				"/E/IP库对比/IP_20131211库/ip.txt",
+				"/E/IP库对比/IP_20131211库/diff.txt",
+				"/E/IP库对比/IP_20131211库/diff2.txt",
+				"/E/IP库对比/IP_20131211库/20130520miaozhen.txt",
+				"/E/IP库对比/JAVA/AreaBean.java",
+				"/E/IP库对比/ad-iplib-miaozhen/20130520miaozhen.txt",
+				"/E/IP库对比/IP_20131211库/superadmin.csv",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
+				"/E/IP库对比/IP_20131211库/iparea.xlsx",
+				"/E/IP库对比/IP_20131211库/IP鍦扮悊淇℃伅鏍囧噯搴撴牸寮忚鏄_doc",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql"
 			],
 			"find":
 			{
@@ -803,134 +825,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"<video",
-					"settimeout",
-					"_executeSubscribe",
-					"et =",
-					"initReqErrLog",
-					"initReqErrLog(",
-					"initReqErrLog(8",
-					"start",
+					"adType",
+					"jpg",
 					"de.as",
-					"_controlBar",
-					"de.as",
-					"super",
-					"\n",
-					"script",
-					"\n",
-					"delete",
-					"},\n",
-					"	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n",
-					"ctrl+shift+k",
-					"z-index",
-					"de.as.",
-					"de.as.pptv",
-					"console.info",
-					"initControlBar",
-					"vdjump",
-					"send_mail",
-					"_customselect",
-					"destroyVideo",
-					"vpaidStop",
-					"onStopAd",
-					"onAd_complete",
-					"de.as",
-					"destroyVideo",
-					"doEnd",
-					"destroyVideo",
-					"vpaidVideoEnd",
-					"doPauseClose",
-					"destroySelf",
-					"destroyVideo",
-					"vpaidVideoEnd",
-					"vpaidStop",
-					"vpaidVideoEnd",
-					"onStopAd",
-					"AdStopped",
-					"vpaid",
-					"200784",
-					"TA201312261709340015",
-					"O201312261644370003",
-					"destroyTimeInterval",
-					"_getCreative",
-					"destroyAutoMove",
-					"slideDown",
-					"fadeIn",
-					"_auto",
-					"direction",
-					"sps",
-					"margin",
-					"marginLeft",
-					"margin-Left",
-					"document",
-					"documentR",
-					"remove",
-					"url",
-					"_throwMatchEvent",
-					"ad_video_click",
-					"onAd_video_click",
-					"_sd",
-					"onAd_complete",
-					"url",
-					"_executeSubscribe",
-					"click",
-					"1024",
-					"timeout",
-					"+k",
-					"Remain",
-					"{\n",
-					"‘",
-					"’",
-					"‘width’",
-					"/",
-					"/>",
-					" \n",
-					">\n",
-					"-->\n",
-					"function",
-					"left",
-					"absolute",
-					"position",
-					"absolute",
-					"relative",
-					"position",
-					"cccccc",
-					"background",
-					"pointer",
-					"absolute",
-					"position",
-					"solid",
-					"border",
-					"width",
-					"\n#",
-					"initAd",
-					"startAd",
-					"start",
-					"onAd_load",
-					"ad_load",
+					"ip=",
+					"TA201402181754550551",
+					"TA201402261547200160",
+					"TA201404111613020220",
+					"TA201404091804490495",
+					"TA201404141808110576",
+					"TA201402281759500479",
+					"TA201404101609560020",
+					"TA201404111847050363",
+					"TA201404091804490495",
+					"TA201404111613020219",
+					"TA201404091804490495",
+					"TA201402261547200160",
+					"getProxyUrl",
+					"getMediaSuffixFromUrl",
+					"mp4",
+					"startTimeInterval",
 					"init",
-					"ad_load",
-					"_executeSubscribe",
-					"_slot",
-					"player.as.pptv.com",
-					"for",
-					"http://www.pptv.com/?page=3&rnd=1388051673102",
-					"http://www.hao123.com/?page=3&rnd=1388051591019",
-					"_isCloseWindow",
-					"ad_time_change",
-					"ad_video_stop",
-					"ad_video_pause",
-					"_isShow",
-					"_countDown",
-					"onAd_Controlbtn_click",
-					"onAd_pop_close",
-					"showVideoSelDiv",
+					"id_r",
+					"ssh",
 					"start",
-					"stopAd",
-					"onStartAd",
-					"destroyTimeInterval",
-					"_clearAd",
-					"_countDown"
+					"em",
+					"skipAd",
+					"ovp-panelcontainer-novolume",
+					"duration",
+					"ctrl+shift",
+					"d",
+					"_countDown",
+					"de.as.pptv",
+					"creativeData",
+					"de.as.",
+					"&&",
+					"fileSrc",
+					"_getLocalProxyUrl",
+					"decodeURIComponent",
+					"localproxy",
+					"_getAssetsUrl",
+					"preloadAdList",
+					"VideoConfig",
+					"mp4",
+					"mp3",
+					"getMediaSuffixFromUrl",
+					"extension",
+					"needPreLoading",
+					"localproxy",
+					"VideoConfig",
+					"genPlayConfig",
+					"VideoConfig",
+					"videoConfig",
+					"localproxy",
+					"creative",
+					"localproxy",
+					"execute",
+					"de.as",
+					"}\n",
+					"4",
+					"fileS",
+					"Files",
+					"FileS",
+					"aderrbiplog",
+					"4",
+					"fileSrc",
+					"de.as",
+					"de",
+					"doEnd",
+					"test",
+					"test3",
+					"doEnd",
+					"islocked",
+					"source",
+					"et = 5",
+					"7",
+					"fileS",
+					"wrapperNode",
+					"html",
+					"HTML5Video",
+					"_getVideoObject",
+					"_playerRender",
+					"VideoConfig",
+					"vc",
+					"playVideo",
+					"_playerRender",
+					"parseFromDomNode",
+					"7",
+					"vpaidStop",
+					"doStart",
+					"dosStart",
+					"dostart",
+					"onstart",
+					"start",
+					"de.as",
+					"fileSrc",
+					"7",
+					"fileSrc",
+					"7",
+					"localproxy",
+					"reqErrBipLog",
+					"Log",
+					"reqErrBipLog",
+					"initReqErrLog",
+					"et",
+					"execute",
+					"9",
+					"de.as",
+					"MediaFile",
+					"parseAd",
+					"callVast",
+					"maxPlayTime",
+					"playmidroll",
+					"ipd_title_height",
+					"callVast",
+					"_playerRender",
+					"playVideo",
+					"callVast",
+					"html5_vars",
+					"callVast",
+					"parseAd",
+					"callVast",
+					"de.as.pp",
+					"parseAd",
+					"callVast",
+					"parseRequestPara",
+					");\n",
+					"localproxy",
+					"extractUrlComponent"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -938,6 +960,22 @@
 				"regex": false,
 				"replace_history":
 				[
+					"140401",
+					"@dt",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"ik_StartDelay",
+					"pltb_play",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"clt",
+					"cl_Play",
+					"iphone",
+					"102",
+					"",
+					"int",
+					"",
+					"id",
 					"_direction",
 					"_sps",
 					"onAd_Controlbar_click",
@@ -971,7 +1009,7 @@
 			"menu_visible": false,
 			"output.exec":
 			{
-				"height": 143.0
+				"height": 154.0
 			},
 			"replace":
 			{
@@ -984,16 +1022,16 @@
 				"selected_items":
 				[
 					[
+						"impr",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
+					],
+					[
 						"bgin",
 						"VPAIDBgInteractiveAd.js"
 					],
 					[
 						"vpaid",
 						"VPAIDInteractiveAd.js"
-					],
-					[
-						"impr",
-						"Impress.js"
 					],
 					[
 						"people",
@@ -1008,11 +1046,11 @@
 			},
 			"select_project":
 			{
-				"height": 500.0,
+				"height": 838.0,
 				"selected_items":
 				[
 				],
-				"width": 380.0
+				"width": 1600.0
 			},
 			"select_symbol":
 			{
@@ -1023,16 +1061,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 165.0,
+			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1584.0
+		"new_window_width": 983.0
 	},
 	"windows":
 	[
@@ -1041,6 +1079,270 @@
 			{
 				"selected_items":
 				[
+					[
+						"call",
+						"callNotice"
+					],
+					[
+						"posi",
+						"position"
+					],
+					[
+						"else",
+						"else块"
+					],
+					[
+						"local",
+						"localurl"
+					],
+					[
+						"start",
+						"startDate"
+					],
+					[
+						"order",
+						"orderCode"
+					],
+					[
+						"add",
+						"addcptamount"
+					],
+					[
+						"ad",
+						"AdPostionId"
+					],
+					[
+						"cus",
+						"CustomerName"
+					],
+					[
+						"cpt",
+						"cptplay"
+					],
+					[
+						"orde",
+						"orderName"
+					],
+					[
+						"write",
+						"writeIframe"
+					],
+					[
+						"abs",
+						"absPos"
+					],
+					[
+						"pre",
+						"preyear"
+					],
+					[
+						"cont",
+						"contents	.contents()"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"end",
+						"endTA"
+					],
+					[
+						"sra",
+						"startTA"
+					],
+					[
+						"nostart",
+						"nostartTA"
+					],
+					[
+						"020c",
+						"020C"
+					],
+					[
+						"vpaid",
+						"vpaidcss"
+					],
+					[
+						"ads_",
+						"ads_request"
+					],
+					[
+						"_left",
+						"_leftadtime"
+					],
+					[
+						"thi",
+						"_thisadtime"
+					],
+					[
+						"_get",
+						"_getLocalProxyUrl"
+					],
+					[
+						"media",
+						"mediafile"
+					],
+					[
+						"paras",
+						"parastr"
+					],
+					[
+						"pl",
+						"platform"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"OUT",
+						"OUTFILE2"
+					],
+					[
+						"city",
+						"city"
+					],
+					[
+						"out",
+						"OUTDIFF"
+					],
+					[
+						"db",
+						"dbcity"
+					],
+					[
+						"wh",
+						"whole"
+					],
+					[
+						"area",
+						"area1"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"col",
+						"col_min"
+					],
+					[
+						"col_",
+						"col_min"
+					],
+					[
+						"work",
+						"worksheet"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"inn",
+						"innerhtml"
+					],
+					[
+						"ne",
+						"nextpic"
+					],
+					[
+						"ans",
+						"answer1"
+					],
+					[
+						"pic",
+						"_picindex"
+					],
+					[
+						"creat",
+						"creative"
+					],
+					[
+						"value",
+						"VALUES"
+					],
+					[
+						"vo",
+						"Void"
+					],
+					[
+						"re",
+						"returnType"
+					],
+					[
+						"ad_vid",
+						"ad_video_click"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"V",
+						"VpaidEvent3"
+					],
+					[
+						"Vpa",
+						"VpaidEvent2"
+					],
+					[
+						"VpaidE",
+						"VpaidEvent1"
+					],
+					[
+						"a",
+						"ad_answer_open"
+					],
+					[
+						"ani",
+						"animated2"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"draw",
+						"drawStart"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_re",
+						"_resizeScale"
+					],
+					[
+						"create",
+						"createBtns"
+					],
+					[
+						"_con",
+						"_controlBar"
+					],
 					[
 						"auto",
 						"autobuffer"
@@ -1064,10 +1366,6 @@
 					[
 						"base",
 						"baseUrl"
-					],
-					[
-						"inn",
-						"innerHTML"
 					],
 					[
 						"appen",
@@ -1110,10 +1408,6 @@
 						"_Creative"
 					],
 					[
-						"create",
-						"createAutoMove"
-					],
-					[
 						"des",
 						"destroyAutoMove"
 					],
@@ -1150,16 +1444,8 @@
 						"sinaRegx"
 					],
 					[
-						"_get",
-						"_getExtensionValue"
-					],
-					[
 						"_ge",
 						"_getExtensionValue"
-					],
-					[
-						"_con",
-						"_containWord"
 					],
 					[
 						"_wo",
@@ -1230,10 +1516,6 @@
 						"_initialized"
 					],
 					[
-						"backgr",
-						"background-image"
-					],
-					[
 						"_add",
 						"_addSharebtnListener"
 					],
@@ -1266,20 +1548,12 @@
 						"_controlBar"
 					],
 					[
-						"start",
-						"startTimeInterval"
-					],
-					[
 						"Pic",
 						"PicSel"
 					],
 					[
 						"_sele",
 						"_selectType"
-					],
-					[
-						"V",
-						"View"
 					],
 					[
 						"_vid",
@@ -1310,248 +1584,12 @@
 						"vdjump"
 					],
 					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"font",
-						"font-family"
-					],
-					[
-						"_re",
-						"_remainTime"
-					],
-					[
 						"_select",
 						"_selectType"
 					],
 					[
 						"_la",
 						"_lastvideo"
-					],
-					[
-						"_choose",
-						"_chooseDiv"
-					],
-					[
-						"view",
-						"View"
-					],
-					[
-						"_large",
-						"_largeVideo"
-					],
-					[
-						"_vi",
-						"_video"
-					],
-					[
-						"_ch",
-						"_choose"
-					],
-					[
-						"initL",
-						"initLargeVideo"
-					],
-					[
-						"_lar",
-						"_largeVideo"
-					],
-					[
-						"vide",
-						"VideoView"
-					],
-					[
-						"de",
-						"destroyTimeInterval"
-					],
-					[
-						"add",
-						"addEventListener"
-					],
-					[
-						"Ms",
-						"Mask"
-					],
-					[
-						"_se",
-						"_selectpics"
-					],
-					[
-						"l",
-						"length"
-					],
-					[
-						"crea",
-						"_picCreative"
-					],
-					[
-						"choose",
-						"Choose"
-					],
-					[
-						"_in",
-						"_index"
-					],
-					[
-						"_choo",
-						"_choose"
-					],
-					[
-						"picView",
-						"PicView"
-					],
-					[
-						"_ma",
-						"_maskDiv"
-					],
-					[
-						"_img",
-						"_img"
-					],
-					[
-						"sp",
-						"space"
-					],
-					[
-						"_selectP",
-						"_selectpicDiv"
-					],
-					[
-						"creat",
-						"createElement"
-					],
-					[
-						"type",
-						"typeof"
-					],
-					[
-						"unde",
-						"undefined"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"picvie",
-						"PicView"
-					],
-					[
-						"we",
-						"_websitebtn"
-					],
-					[
-						"_tdc",
-						"_tdCodebtn"
-					],
-					[
-						"_picview",
-						"_picViewDiv"
-					],
-					[
-						"show",
-						"showPicSelDiv"
-					],
-					[
-						"hide",
-						"hidePicSelDiv"
-					],
-					[
-						"initp",
-						"initPicView"
-					],
-					[
-						"initTd",
-						"initTdCodeDiv"
-					],
-					[
-						"bg",
-						"bgdiv"
-					],
-					[
-						"_tdco",
-						"_tdCodeDiv"
-					],
-					[
-						"share",
-						"Share"
-					],
-					[
-						"shar",
-						"Share"
-					],
-					[
-						"video",
-						"Video"
-					],
-					[
-						"_lock",
-						"_lock"
-					],
-					[
-						"turn",
-						"_turnback"
-					],
-					[
-						"initlo",
-						"initLockDiv"
-					],
-					[
-						"css",
-						"cssText"
-					],
-					[
-						"sele",
-						"selectIndex"
-					],
-					[
-						"change",
-						"changeStatus"
-					],
-					[
-						"websi",
-						"website"
-					],
-					[
-						"vid",
-						"VideoSel"
-					],
-					[
-						"picS",
-						"PicSel"
-					],
-					[
-						"pic",
-						"PicSel"
-					],
-					[
-						"this",
-						"this_imgsrc"
-					],
-					[
-						"td",
-						"TdCode"
-					],
-					[
-						"first",
-						"firstChild"
-					],
-					[
-						"in",
-						"innerHTML"
-					],
-					[
-						"web",
-						"website"
-					],
-					[
-						"sh",
-						"share"
-					],
-					[
-						"log",
-						"_logobtn"
 					]
 				]
 			},
@@ -1561,82 +1599,31 @@
 					"file": "/C/Windows/System32/drivers/etc/hosts",
 					"settings":
 					{
-						"buffer_size": 918,
+						"buffer_size": 1079,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "LinearAd = function() {\n	this._slot = null;\n	this._videoSlot = null;\n	//creatives\n	this._assets = null;\n\n	this._callbackFnMap = {};\n	this._callbackContextMap = {};\n\n	this._background = null;\n	this._video = null;\n	this._controlBar = null;\n	this._lock = null;\n	this._remainTime = null;\n	this._btntype = {\n		logo: '1',\n		share: '2',\n		tdCode: '4',\n		videoSel: '8',\n		picSel: '16',\n		website: '32',\n	};\n	this._selectSize = {\n		space: 5,\n		height: 85,\n		width: 160,\n		border: 1\n	};\n\n	this._countDown = 30;\n\n	this._customselect = 0;\n	this._selectType = null;\n	this._isCloseWindow = null;\n	this._isShow = false;\n	var that = this;\n	var static_path = \"http://static9.pplive.cn/oth/2012/10/html5/v_20131205110236/\";\n\n	if (typeof LinearAd.prototype._initialized != 'undefined') return;\n	//默认开始时播放的视频贴片\n	var Video = function() {\n		this._videodiv = null;\n		this._video = null;\n		this._src = that._assets.ads;\n		if (typeof Video.prototype._initialized != 'undefined') return;\n		Video.prototype.initVideo = function() {\n			this._videodiv = document.createElement('div');\n			this._videodiv.style.cssText = 'position:absolute;width:100%;height:100%';\n			var videos = [];\n			videos.push('<video id=\"video\" src=\"' + this._src[0].vd + '\" width=\"100%\" height=\"100%\" autobuffer=\"true\"></video>');\n			this._videodiv.innerHTML = videos.join(\"\");\n			document.getElementById('bgdiv').appendChild(this._videodiv);\n			this._video = document.getElementById('video');\n			this._addListener();\n		};\n		Video.prototype._addListener = function() {\n			var self = this;\n			this._video.addEventListener('playing', function() {\n				that._remainTime.startTimeInterval();\n				if (that._controlBar === null) {\n					that._controlBar = new ControlBar();\n					that._controlBar.initControlBar();\n				}\n				if (!that._isShow) {\n					that._isShow = true;\n					that._executeSubscribe(\"ad_start\");\n				}\n			});\n			this._video.addEventListener('touchstart', function() {\n				that._executeSubscribe('ad_video_click', [that._assets.ads[0].vdjump, 0, true]);\n			});\n		};\n		Video.prototype.start = function() {\n			this._video.play();\n		};\n		Video.prototype.pause = function() {\n			this._video.pause();\n		};\n		Video.prototype._initialized = true;\n	};\n\n	//下方的互动栏\n	var ControlBar = function() {\n		this._controldiv = null;\n\n		this._sharebtn = null;\n		this._tdCodebtn = null;\n		this._logobtn = null;\n		this._videoSelbtn = null;\n		this._picSelbtn = null;\n		this._websitebtn = null;\n		this._selectedbtn = -1;\n\n		this._number = 0;\n		this._margin = 0;\n\n		if (typeof ControlBar.prototype._initialized != 'undefined') return;\n		ControlBar.prototype.initControlBar = function() {\n			this._controldiv = document.createElement('div');\n			this._controldiv.style.cssText = 'position:absolute;width:490px;height:70px;bottom:0px;left:50%;margin-left:-245px';\n			var innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180123_BOX.png\" style =\"width:100%;height:100%;position:absolute;z-index:-1\"/>';\n			this._controldiv.innerHTML = innerhtml;\n			this._controldiv.id = 'controlbar';\n\n			document.body.appendChild(this._controldiv);\n\n			this._number = this._getNumberOfBtn();\n			this._margin = (400 - 50 * this._number) / (2 + this._number);\n\n			this.createBtns();\n		}\n\n		ControlBar.prototype.createBtns = function() {\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				switch (that._assets.ads[i].id) {\n					case that._btntype.logo:\n						if (this._logobtn) break;\n						this._logobtn = new Logo();\n						this._logobtn.initLogo(this._margin, i);\n						break;\n					case that._btntype.share:\n						if (this._sharebtn) break;\n						this._sharebtn = new Share();\n						this._sharebtn.initShare(this._margin, i);\n						break;\n					case that._btntype.tdCode:\n						if (this._tdCodebtn) break;\n						this._tdCodebtn = new TdCode();\n						this._tdCodebtn.initTdCode(this._margin, i);\n						break;\n					case that._btntype.videoSel:\n						if (this._videoSelbtn) break;\n						this._videoSelbtn = new VideoSel();\n						this._videoSelbtn.initVideoSel(this._margin, i);\n						break;\n					case that._btntype.picSel:\n						if (this._picSelbtn) break;\n						this._picSelbtn = new PicSel();\n						this._picSelbtn.initPicSel(this._margin, i);\n						break;\n					case that._btntype.website:\n						if (this._websitebtn) break;\n						this._websitebtn = new Website();\n						this._websitebtn.initWebsite(this._margin, i);\n						break;\n				}\n			}\n		};\n\n		ControlBar.prototype._getNumberOfBtn = function() {\n			var number = 0;\n			var tmp = 0;\n			for (var i = that._assets.ads.length - 1; i >= 0; i--) {\n				if (that._assets.ads[i].id > 1) {\n					tmp = tmp | that._assets.ads[i].id;\n				}\n			};\n			// number = tmp.toString(2).replace('0', '').length;\n			number = this._bitCount5(tmp);\n			return number;\n		};\n\n		//计算2进制数中1的个数\n		ControlBar.prototype._bitCount5 = function(n) {\n			var tmp = n - ((n >> 1) & 033333333333) - ((n >> 2) & 011111111111);\n			return ((tmp + (tmp >> 3)) & 030707070707) % 63;\n		}\n\n		ControlBar.prototype.changeStatus = function(selectIndex) {\n			if (selectIndex == this._selectedbtn) return;\n			if (this._selectedbtn > 0) {\n				switch (this._selectedbtn) {\n					case that._btntype.logo:\n						this._logobtn.resize(0);\n						break;\n					case that._btntype.share:\n						this._sharebtn.resize(0);\n						this._sharebtn.hideShareDiv();\n						break;\n					case that._btntype.tdCode:\n						this._tdCodebtn.resize(0);\n						this._tdCodebtn.hideTdCodeDiv();\n						break;\n					case that._btntype.videoSel:\n						this._videoSelbtn.resize(0);\n						this._videoSelbtn.hideVideoSelDiv();\n						break;\n					case that._btntype.picSel:\n						this._picSelbtn.resize(0);\n						this._picSelbtn.hidePicSelDiv();\n						break;\n					case that._btntype.website:\n						this._websitebtn.resize(0);\n						break;\n				}\n			}\n			this._selectedbtn = selectIndex;\n			switch (this._selectedbtn) {\n				case that._btntype.logo:\n					this._logobtn.resize(1);\n					break;\n				case that._btntype.share:\n					this._sharebtn.resize(1);\n					this._sharebtn.showShareDiv();\n					break;\n				case that._btntype.tdCode:\n					this._tdCodebtn.resize(1);\n					this._tdCodebtn.showTdCodeDiv();\n					break;\n				case that._btntype.videoSel:\n					this._videoSelbtn.resize(1);\n					this._videoSelbtn.showVideoSelDiv();\n					break;\n				case that._btntype.picSel:\n					this._picSelbtn.resize(1);\n					this._picSelbtn.showPicSelDiv();\n					break;\n				case that._btntype.website:\n					this._websitebtn.resize(1);\n					break;\n			}\n		};\n\n		ControlBar.prototype.pauseAd = function() {\n			switch (this._selectedbtn) {\n				case that._btntype.videoSel:\n					this._videoSelbtn.pause();\n				case that._btntype.picSel:\n					this._picSelbtn.pause();\n					break;\n			}\n		};\n		ControlBar.prototype.resumeAd = function() {\n			switch (this._selectedbtn) {\n				case that._btntype.videoSel:\n					this._videoSelbtn.start();\n				case that._btntype.PicSel:\n					this._picSelbtn.start();\n					break;\n			}\n		};\n		ControlBar.prototype._initialized = true;\n	};\n	var FuncBtn = function() {};\n\n	FuncBtn.prototype.initfuncBtn = function(marginsize) {\n		this._div = document.createElement('div');\n		this._div.style.cssText = 'width:50px;height:50px;display:-webkit-inline-box;margin-left:' + marginsize;\n		var innerhtml = '<img src=\"\" style=\"width:50px;height:50px\"/>';\n		this._div.innerHTML = innerhtml;\n		document.getElementById('controlbar').appendChild(this._div);\n	};\n\n	FuncBtn.prototype.display = function(selected, srcimg) {\n		if (!this._img) return;\n		if (selected == 1) {\n			this._img.style.cssText = 'width:60px;height:60px;margin-left:-5px;margin-top:-5px;';\n		} else {\n			this._img.style.cssText = 'width:50px;height:50px;';\n		}\n		this._img.src = srcimg[selected];\n	};\n\n	//分享按钮\n	var Share = function() {\n		this._div = null;\n		this._img = null;\n		this._sharediv = null;\n		this._index = null;\n		this._Creative = [];\n		this._number = 0;\n		this._sharebtn = [];\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175619_2-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175633_2-1.png'];\n		if (typeof Share.prototype._initialized != 'undefined') return;\n		Share.prototype.initShare = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n\n			this._getCreative();\n			this._initShareDiv();\n\n			this._addListener();\n		};\n		Share.prototype._getCreative = function() {\n			var index = 0;\n			var ads = null;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.share) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'type': that._getExtensionValue(i, 'type'),\n						'jumpurl': this._generateJumpUrl(that._getExtensionValue(i, 'type'), that._getExtensionValue(i, 'url'), that._getExtensionValue(i, 'title'), that._getExtensionValue(i, 'pic')),\n						'innerhtml': this.generateInnerhtml(that._getExtensionValue(i, 'type'))\n					};\n					index++;\n					this._number++;\n				}\n			}\n		};\n		Share.prototype._generateJumpUrl = function(type, url, title, pic) {\n			var tencentRegx = /tencent/i;\n			var sinaRegx = /sina/i;\n			var jumpurl = null;\n			if (tencentRegx.test(type)) {\n				jumpurl = 'http://share.v.t.qq.com/index.php?c=share&a=index';\n			} else if (sinaRegx.test(type)) {\n				jumpurl = 'http://service.weibo.com/share/share.php?c=spr_web_bd_pplive_weibo';\n			}\n			url && (jumpurl += '&url=' + url);\n			title && (jumpurl += '&title=' + encodeURIComponent(title));\n			pic && (jumpurl += '&pic=' + pic);\n			return jumpurl;\n		};\n		Share.prototype.generateInnerhtml = function(type) {\n			var tencentRegx = /tencent/i;\n			var sinaRegx = /sina/i;\n			var innerhtml = null;\n			if (tencentRegx.test(type)) {\n				innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181638_tencent.png\" style=\"position:absolute;left:35px;top:30px;\"/><span style=\"color:white;left:110px;top:35px;font-size:35px;position:absolute;font-family:微软雅黑;\">腾讯微博</span><img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181652_sharebtn.png\" style=\"position:absolute;left:365px;top:44px;\">';\n			} else if (sinaRegx.test(type)) {\n				innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181738_sina.png\" style=\"position:absolute;left:35px;top:30px;\"/><span style=\"color:white;left:110px;top:35px;font-size:35px;position:absolute;font-family:微软雅黑;\">新浪微博</span><img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181652_sharebtn.png\" style=\"position:absolute;left:365px;top:44px;\">';\n			}\n			return innerhtml;\n		}\n		Share.prototype._initShareDiv = function() {\n			this._sharediv = document.createElement('div');\n			this._sharediv.style.cssText = 'display:none;position:absolute;left:265px;bottom:100px;width:498px;height:' + this._number * 111 + 'px;border:3px solid #333333;border-radius: 10px;z-index:2';\n			if (this._number == 1) {\n				var innerhtml = '<div id=\"div_0\" style=\"position:absolute;width:100%;height:100%\">' + this._Creative[0].innerhtml + '</div>';\n\n			} else {\n				var innerhtml = '<div id=\"div_0\" style=\"position:absolute;width:498px;height:111px;border-bottom:3px solid #333333\">' + this._Creative[0].innerhtml + '</div><div id=\"div_1\" style=\"position:absolute;width:498px;height:111px;top:111px;\">' + this._Creative[1].innerhtml + '</div>';\n			}\n			this._sharediv.innerHTML = innerhtml;\n			document.getElementById('bgdiv').appendChild(this._sharediv);\n\n			for (var i = 0; i < this._number; i++) {\n				this._sharebtn[i] = document.getElementById('div_' + i).childNodes[2];\n			}\n			// that.resizeAd.call(that,245,105,null,49/21,this._sharediv);\n		};\n\n		Share.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n\n		Share.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.share);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n\n			for (var i = 0; i < this._number; i++) {\n				this._addSharebtnListener(i);\n			}\n		};\n		Share.prototype._addSharebtnListener = function(index) {\n			var self = this;\n			this._sharebtn[index].addEventListener('click', function() {\n				that._executeSubscribe('ad_video_click', [self._Creative[index].jumpurl, self._Creative[index].adsindex, true]);\n			})\n		};\n		Share.prototype.showShareDiv = function() {\n			this._sharediv.style.display = '';\n		};\n		Share.prototype.hideShareDiv = function() {\n			this._sharediv.style.display = 'none';\n		};\n		Share.prototype._initialized = true;\n	};\n	Extend(FuncBtn, Share);\n\n	//二维码按钮\n	var TdCode = function() {\n		this._div = null;\n		this._img = null;\n		this._pic = null;\n		this._tdCodeDiv = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175716_3-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175705_3-1.png'];\n		if (typeof TdCode.prototype._initialized != 'undefined') return;\n		TdCode.prototype.initTdCode = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this.initTdCodeDiv();\n			this._addListener();\n		};\n		TdCode.prototype.initTdCodeDiv = function() {\n			this._tdCodeDiv = document.createElement('div');\n			this._tdCodeDiv.style.cssText = 'display:none;position:absolute;left:420px;top:290px;width:180px;height:180px;z-index:2';\n			var innerhtml = '<img src=\"' + that._assets.ads[this._index].vd + '\" style=\"height:100%;width:100%\"/>';\n			this._tdCodeDiv.innerHTML = innerhtml;\n			this._pic = this._tdCodeDiv.firstChild;\n			document.getElementById('bgdiv').appendChild(this._tdCodeDiv);\n		}\n		TdCode.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		TdCode.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.tdCode);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n			this._pic.addEventListener('click', function() {\n				that._executeSubscribe('ad_video_click', [that._assets.ads[self._index].vdjump, self._index, true]);\n			});\n		};\n		TdCode.prototype.showTdCodeDiv = function() {\n			this._tdCodeDiv.style.display = '';\n		};\n		TdCode.prototype.hideTdCodeDiv = function() {\n			this._tdCodeDiv.style.display = 'none';\n		};\n		TdCode.prototype._initialized = true;\n	};\n	Extend(FuncBtn, TdCode);\n\n	//下方中间的Logo\n	var Logo = function() {\n		this._div = null;\n		this._index = null;\n		if (typeof Logo.prototype._initialized != 'undefined') return;\n		Logo.prototype.initLogo = function(marginsize, index) {\n			this._index = index;\n			this._div = document.createElement('div');\n			this._div.style.cssText = 'width:90px;height:90px;display:-webkit-inline-box;margin-top:-30px;margin-left:' + marginsize;\n			var innerhtml = '<img src=\"' + that._assets.ads[this._index].vd + '\" style=\"width:100%;height:100%\"/>';\n			this._div.innerHTML = innerhtml;\n			document.getElementById('controlbar').appendChild(this._div);\n		};\n		Logo.prototype._initialized = true;\n	}\n\n	//互动栏上的多贴片按钮\n	var VideoSel = function() {\n		this._div = null;\n		this._img = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175936_4-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175910_4-1.png'];\n		this._Creative = [];\n		this._videoView = null;\n		if (typeof VideoSel.prototype._initialized != 'undefined') return;\n		VideoSel.prototype.initVideoSel = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n			this._init();\n		};\n		VideoSel.prototype._init = function() {\n			this._getCreative();\n			this._videoView = new VideoView();\n			this._videoView.initVideoView(this._Creative);\n		};\n\n		VideoSel.prototype._getCreative = function() {\n			var index = 0;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.videoSel) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'largevideo': that._assets.ads[i].vd,\n						'vdjump': that._assets.ads[i].vdjump,\n						'smallpic': that._assets.ads[i].poster\n					};\n					index++;\n				}\n			};\n		};\n		VideoSel.prototype.pause = function() {\n			this._videoView.pause();\n		};\n		VideoSel.prototype.start = function() {\n			this._videoView.start();\n		};\n		VideoSel.prototype.showVideoSelDiv = function() {\n			this._videoView.show();\n		};\n		VideoSel.prototype.hideVideoSelDiv = function() {\n			this._videoView.hide();\n		};\n		VideoSel.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		VideoSel.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.videoSel);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n		}\n		VideoSel.prototype._initialized = true;\n	};\n	Extend(FuncBtn, VideoSel);\n\n	//选择贴片的展示区域\n	var VideoView = function() {\n		this._Creative = null;\n		this._index = 0;\n		this._ViewDiv = null;\n		this._largeVideo = null;\n		this._choose = null;\n\n		if (typeof VideoView.prototype._initialized != 'undefined') return;\n\n		var LargeVideo = function() {\n			this._largeVideoDiv = null;\n			this._video = null;\n			this._lastvideo = null;\n			var View = null;\n			if (typeof LargeVideo.prototype._initialized != 'undefined') return;\n			LargeVideo.prototype.initLargeVideo = function(parent) {\n				View = parent;\n				this._largeVideoDiv = document.createElement('div');\n				this._largeVideoDiv.style.cssText = 'position:absolute;height:360px;width:640px;';\n				document.getElementById('videoViewDiv').appendChild(this._largeVideoDiv);\n				var videos = [];\n				for (var i = 0, len = View._Creative.length; i < len; i++) {\n					videos.push('<video id=\"video_' + i + '\" src=\"' + View._Creative[i].largevideo + '\" width=\"100%\" height=\"100%\" style=\"cursor:pointer;display:none;\" autobuffer=\"true\"></video>');\n				}\n				this._largeVideoDiv.innerHTML = videos.join(\"\");\n				for (var i = 0, len = View._Creative.length; i < len; i++) {\n					this._addListener(document.getElementById('video_' + i), i);\n				}\n				this._video = document.getElementById('video_' + View._index);\n\n				this._addListener();\n			}\n			LargeVideo.prototype._addListener = function(_video, index) {\n				var self = this;\n				if (!_video) return;\n				_video.addEventListener('playing', function() {\n					if (that._isCloseWindow) {\n						//发现是关闭弹窗导致视频重新播放，则进入这个逻辑\n						that._isCloseWindow = false;\n						return;\n					}\n					that._executeSubscribe('ad_video_start', [View._Creative[View._index].adsindex]);\n					if (self._lastvideo) {\n						self._lastvideo.pause();\n						self._lastvideo.currentTime = 0.1;\n						self._videoHideShow(self._lastvideo, self._largeVideoDiv, false);\n					}\n					self._lastvideo = self._video;\n					self._videoHideShow(self._video, self._largeVideoDiv, true);\n				});\n\n				_video.addEventListener('touchstart', function() {\n					that._executeSubscribe('ad_video_click', [View._Creative[View._index].vdjump, View._Creative[View._index].adsindex, true]);\n				});\n\n				_video.addEventListener('ended', function() {\n					that._executeSubscribe('ad_video_end', [View._Creative[View._index].adsindex]);\n					View._doChoose((View._index + 1) % View._Creative.length);\n				});\n			};\n			LargeVideo.prototype._videoHideShow = function(_video, _videodiv, isShow) {\n				if (isShow) {\n					_video && (_video.style.display = \"block\");\n					_videodiv && (_videodiv.style.display = \"block\");\n				} else {\n					_videodiv && (_videodiv.style.display = \"none\");\n					_video && (_video.style.display = \"none\");\n				}\n			};\n\n			LargeVideo.prototype.reset = function() {\n				this._video = document.getElementById('video_' + View._index);\n				that._isCloseWindow = false;\n				this.play();\n			}\n			LargeVideo.prototype.play = function() {\n				this._video && this._video.play();\n			}\n			LargeVideo.prototype.stop = function() {\n				this._video && this._video.pause();\n			}\n			LargeVideo.prototype.cleanLastVideo = function() {\n				if (this._lastvideo) {\n					this._lastvideo.pause();\n					this._lastvideo.currentTime = 0.1;\n					this._videoHideShow(this._lastvideo, this._largeVideoDiv, false);\n				}\n				this._lastvideo = null;\n			}\n			LargeVideo.prototype._initialized = true;\n		}\n\n		VideoView.prototype.initVideoView = function(videoCreative) {\n			this._Creative = videoCreative;\n			this._ViewDiv = document.createElement('div');\n			this._ViewDiv.style.cssText = 'display:none;position:absolute;width:810px;height:360px;top:120px;left:105px;z-index:2';\n			this._ViewDiv.id = 'videoViewDiv';\n			document.getElementById('bgdiv').appendChild(this._ViewDiv);\n			this._init();\n		}\n\n		VideoView.prototype._doChoose = function(index) {\n			this._index = index;\n			this._changeVideo();\n		}\n\n		VideoView.prototype._init = function() {\n			this._largeVideo = new LargeVideo;\n			this._largeVideo.initLargeVideo(this);\n\n			this._choose = new Choose();\n			this._choose.initChoose(this);\n		};\n		VideoView.prototype.pause = function() {\n			this._largeVideo.stop();\n		};\n		VideoView.prototype.start = function() {\n			this._largeVideo.play();\n		}\n		VideoView.prototype._changeVideo = function() {\n			this._choose.reset();\n			this._largeVideo.reset();\n		};\n		VideoView.prototype.show = function() {\n			this._index = 0;\n			this._changeVideo();\n			this._ViewDiv.style.display = '';\n		};\n		VideoView.prototype.hide = function() {\n			this._ViewDiv.style.display = 'none';\n			this._largeVideo.cleanLastVideo();\n		};\n\n		VideoView.prototype._initialized = true;\n	}\n\n	//互动栏上的多图片展示按钮\n	var PicSel = function() {\n		this._div = null;\n		this._img = null;\n		this._index;\n		this._picView = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180010_5-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180000_5-1.png'];\n		this._Creative = [];\n		if (typeof PicSel.prototype._initialized != 'undefined') return;\n		PicSel.prototype.initPicSel = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n			this._init();\n		};\n		PicSel.prototype._init = function() {\n			this._getCreative();\n			this._picView = new PicView();\n			this._picView.initPicView(this._Creative);\n		};\n		PicSel.prototype._getCreative = function() {\n			var index = 0;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.picSel) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'largepic': that._assets.ads[i].vd,\n						'vdjump': that._assets.ads[i].vdjump,\n						'smallpic': that._assets.ads[i].poster\n					};\n					index++;\n				}\n			};\n		};\n		PicSel.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		PicSel.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.picSel);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n		};\n		PicSel.prototype.showPicSelDiv = function() {\n			this._picView.show();\n		};\n		PicSel.prototype.pause = function() {\n			this._picView.destroyTimeInterval();\n		};\n		PicSel.prototype.start = function() {\n			this._picView.startTimeInterval();\n		};\n		PicSel.prototype.hidePicSelDiv = function() {\n			this._picView.hide();\n		};\n		PicSel.prototype._initialized = true;\n	}\n	Extend(FuncBtn, PicSel);\n\n	//多图片轮播的展示层\n	var PicView = function() {\n		this._Creative = null;\n		this._index = 0;\n		this._ViewDiv = null;\n\n		this._largePic = null;\n		this._choose = null;\n		this._e = null;\n\n		var P = this;\n		if (typeof PicView.prototype._initialized != 'undefined') return;\n\n\n		var LargePic = function() {\n			this._largePicDiv = null;\n			this._img = null;\n			var View = null;\n			if (typeof LargePic.prototype._initialized != 'undefined') return;\n			LargePic.prototype.initLargePic = function(parent) {\n				View = parent;\n				this._largePicDiv = document.createElement('div');\n				this._largePicDiv.style.cssText = 'position:absolute;height:360px;width:640px;border:1px solid black;';\n				var innerhtml = '<img src =\"' + View._Creative[View._index].largepic + '\" style=\"width:100%;height:100%\"/>';\n				this._largePicDiv.innerHTML = innerhtml;\n				this._img = this._largePicDiv.firstChild;\n				document.getElementById('picViewDiv').appendChild(this._largePicDiv);\n				this._addListener();\n			};\n			LargePic.prototype._addListener = function() {\n				var self = this;\n				this._img.addEventListener('click', function() {\n					that._executeSubscribe('ad_video_click', [View._Creative[View._index].vdjump, View._Creative[View._index].adsindex, true]);\n				});\n			}\n			LargePic.prototype.reset = function() {\n				this._img.src = View._Creative[View._index].largepic;\n				that._executeSubscribe('ad_video_start', [View._Creative[View._index].adsindex]);\n			};\n			LargePic.prototype._initialized = true;\n		}\n\n		PicView.prototype.initPicView = function(picCreative) {\n			this._Creative = picCreative;\n			this._ViewDiv = document.createElement('div');\n			this._ViewDiv.style.cssText = 'display:none;position:absolute;width:810px;height:360px;top:120px;left:105px;z-index:2';\n			this._ViewDiv.id = 'picViewDiv';\n			document.getElementById('bgdiv').appendChild(this._ViewDiv);\n			this._init();\n		}\n		PicView.prototype._init = function() {\n			this._largePic = new LargePic();\n			this._largePic.initLargePic(this);\n\n			this._choose = new Choose();\n			this._choose.initChoose(this);\n		}\n		PicView.prototype._setTimeInterval = function() {\n			if (this._e) return;\n			var self = this;\n			this._e = setInterval(function() {\n				self._index = (self._index + 1) % self._Creative.length;\n				self._changePic();\n			}, 3000);\n		};\n		PicView.prototype.destroyTimeInterval = function() {\n			window.clearInterval(this._e);\n			this._e = null;\n		};\n		PicView.prototype.startTimeInterval = function() {\n			this._setTimeInterval();\n		}\n		PicView.prototype._changePic = function() {\n			this._choose.reset();\n			this._largePic.reset();\n		}\n		PicView.prototype._doChoose = function(index) {\n			this._index = index;\n			this._changePic();\n			this.destroyTimeInterval();\n			this.startTimeInterval();\n		}\n		PicView.prototype.show = function() {\n			this._index = 0;\n			this._changePic();\n			this._ViewDiv.style.display = '';\n			this.startTimeInterval();\n		}\n		PicView.prototype.hide = function() {\n			this._ViewDiv.style.display = 'none';\n			this.destroyTimeInterval();\n		}\n		PicView.prototype._initialized = true;\n	}\n\n	//互动栏上点击展示官网的按钮\n	var Website = function() {\n		this._div = null;\n		this._img = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180037_1-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180025_1-1.png'];\n		if (typeof Website.prototype._initialized != 'undefined') return;\n		Website.prototype.initWebsite = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n		};\n		Website.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		}\n		Website.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.website);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n				that._executeSubscribe('ad_bg_click', [that._assets.ads[self._index].bgjump, self._index, true]);\n			});\n		}\n		Website.prototype._initialized = true;\n	}\n	Extend(FuncBtn, Website);\n\n	//多视频和多图片的选择区域\n	var Choose = function() {\n		this._chooseDiv = null;\n		this._selectpics = [];\n		this.View = null;\n		if (typeof Choose.prototype._initialized != 'undefined') return;\n\n		var Selectpic = function(parent) {\n			this._selectpicDiv = null;\n			this._img = null;\n			this._mask = null;\n			this._index;\n			this.View = parent;\n			if (typeof Selectpic.prototype._initialized != 'undefined') return;\n			Selectpic.prototype.initSelectpic = function(top, index) {\n				this._index = index;\n				this._selectpicDiv = document.createElement('div');\n				this._selectpicDiv.style.cssText = 'position:absolute;height:' + that._selectSize.height + ';width:' + that._selectSize.width + ';right:0px;top:' + top + ';border:1px solid black;';\n				var innerhtml = '<img src=\"' + this.View._Creative[index].smallpic + '\" style=\"width:100%;height:100%\"/>';\n				this._selectpicDiv.innerHTML = innerhtml;\n				this._img = this._selectpicDiv.firstChild;\n				this._mask = new Mask();\n				this._selectpicDiv.appendChild(this._mask.initMask(!index));\n				this._addListener();\n				return this._selectpicDiv;\n			};\n			Selectpic.prototype._addListener = function() {\n				var self = this;\n				this._selectpicDiv.addEventListener('click', function() {\n					self.View._doChoose(self._index);\n					that._executeSubscribe('ad_select_change', [self.View._Creative[self._index].adsindex]);\n				});\n			};\n			Selectpic.prototype.reset = function(selected) {\n				this._mask.reset(selected);\n			};\n			Selectpic.prototype._initialized = true;\n		}\n\n		var Mask = function() {\n			this._mask = null;\n			if (typeof Mask.prototype._initialized != 'undefined') return;\n			Mask.prototype.initMask = function(selected) {\n				this._mask = document.createElement('div');\n				this._mask.style.cssText = 'position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:black;opacity:0.7;display:' + ((selected) ? 'none' : 'block') + ';';\n				return this._mask;\n			}\n			Mask.prototype.reset = function(selected) {\n				this._mask.style.display = ((selected) ? \"none\" : \"block\");\n			};\n			Mask.prototype._initialized = true;\n		}\n\n		Choose.prototype.initChoose = function(parent) {\n			this.View = parent;\n			this._chooseDiv = document.createElement('div');\n			this._chooseDiv.style.cssText = 'position:absolute;right:0px;top:0px;height:360px;';\n			parent._ViewDiv.appendChild(this._chooseDiv);\n\n			for (var i = 0, len = this.View._Creative.length; i < len; i++) {\n				this._selectpics[i] = new Selectpic(this.View);\n				this._chooseDiv.appendChild(this._selectpics[i].initSelectpic(i * (that._selectSize.height + that._selectSize.space + 2 * that._selectSize.border) - 1, i));\n			};\n		};\n		Choose.prototype.reset = function() {\n			for (var i = 0, len = this._selectpics.length; i < len; i++) {\n				this._selectpics[i].reset(i == this.View._index);\n			}\n		}\n\n		Choose.prototype._initialized = true;\n	};\n\n	//互动时背景遮盖层\n	var Lock = function() {\n		this._lockdiv = null;\n		this._turnback = null;\n		if (typeof Lock.prototype._initialized != 'undefined') return;\n		Lock.prototype.initLock = function() {\n			this._lockdiv = document.createElement('div');\n			this._lockdiv.style.cssText = 'position:absolute;width:100%;height:100%;background-color:#000000;opacity:0.6;z-index:1;display:none;';\n			this._turnback = document.createElement('img');\n			this._turnback.src = 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181510_turnback.png';\n			this._turnback.style.cssText = 'position:absolute;top:70px;right:20px;';\n			this._lockdiv.appendChild(this._turnback);\n			document.getElementById('bgdiv').appendChild(this._lockdiv);\n			this._addListener();\n		};\n		Lock.prototype._addListener = function() {\n			this._turnback.addEventListener('click', function() {\n				that.onAd_Controlbar_click(-1);\n			});\n		};\n		Lock.prototype.show = function() {\n			this._lockdiv.style.display = '';\n		};\n\n		Lock.prototype.hide = function() {\n			this._lockdiv.style.display = 'none';\n		};\n		Lock.prototype._initialized = true;\n	};\n\n	var RemainTime = function() {\n		this._timediv = null;\n		this._skipdiv = null;\n		this._timep = null;\n		this._time = null;\n		this._currentTime = that._countDown;\n		this._e = null;\n\n		if (typeof this._initialized != 'undefined') return;\n		RemainTime.prototype.initRemainTime = function() {\n			this._timediv = document.createElement('div');\n			this._timediv.style.cssText = \"display:none;position:absolute;cursor:pointer;right:6px;top:8px;width:100px;height:30px;margin-top:10px;margin-right:7px;\";\n			document.body.appendChild(this._timediv);\n			//\n			this._timep = document.createElement('p');\n			this._timep.style.cssText = 'font-family:\"宋体\"; font-size:14px; color:#FFFFFF; background:url(' + static_path + '/images/panel_bg1.png) repeat-x; display:inline-block; height:30px; padding:8px 5px 0 5px;';\n			this._timep.innerHTML = '广告还有<span id=\"number\"></span>秒';\n			this._timediv.appendChild(this._timep);\n			//\n			this._time = document.getElementById('number');\n			this._time.style.cssText = \"color:#FFFF00;\";\n			this._time.innerHTML = (this._currentTime >= 10 ? this._currentTime : '0' + this._currentTime);\n			//\n		};\n		RemainTime.prototype._setTimeInterval = function() {\n			if (this._e) return;\n			var self = this;\n			this._e = setInterval(function() {\n				self._currentTime -= 0.1;\n				self._updateTime();\n			}, 100);\n		};\n		RemainTime.prototype._updateTime = function() {\n			var showTime = Math.floor(this._currentTime) + 1;\n			if (showTime >= 0) {\n				this._time.innerHTML = (showTime >= 10 ? showTime : '0' + showTime);\n			} else {\n				clearInterval(this._e);\n				if (that._customselect == 1) {\n					//用户做过点击操作\n					this._timep.style.cssText = \"margin-top:18px;\"\n					this._timep.innerHTML = '<img style=\"margin:-4px 5px 0 0; vertical-align:middle;\" src=\"' + static_path + 'images/close.jpg' + '\">';\n					this._timep.addEventListener('click', function() {\n						that._clearAd();\n						that._executeSubscribe('ad_complete', []);\n					}, false);\n				} else {\n					that._clearAd();\n					that._executeSubscribe('ad_complete', []);\n				}\n			}\n		};\n		RemainTime.prototype.destroyTimeInterval = function() {\n			window.clearInterval(this._e);\n			this._e = null;\n		};\n		RemainTime.prototype.startTimeInterval = function() {\n			this._setTimeInterval();\n			this._timediv.style.display = '';\n		};\n		this._initialized = true;\n	};\n\n	LinearAd.prototype.handshakeVersion = function() {\n		return '2.0.00';\n	};\n	LinearAd.prototype.init = function(assets_obj, environmentVars) {\n		this._slot = environmentVars.slot;\n		this._videoSlot = environmentVars.videoSlot;\n\n		this._assets = assets_obj;\n		if (!this._assets) return;\n\n		if (this._assets.general) {\n			this._countDown = this._assets.general.duration || this._countDown;\n		}\n\n		this._initAd(null, null, 'normal', null, null, null);\n		this._executeSubscribe(\"ad_load\");\n	};\n	LinearAd.prototype._initAd = function(width, height, viewMode, desiredBitrate, creativeData, environmentVars) {\n		this._initBackground();\n		this._video = new Video();\n		this._video.initVideo();\n\n		this._lock = new Lock();\n		this._lock.initLock();\n\n		this._remainTime = new RemainTime();\n		this._remainTime.initRemainTime();\n	};\n\n	LinearAd.prototype.start = function() {\n		this._video.start();\n	};\n\n	LinearAd.prototype._initBackground = function() {\n		document.body.style.marginTop = '0px';\n		document.body.style.marginBottom = '0px';\n		this._background = document.createElement('div');\n		var _bgWidth = this._assets.general.width,\n			_bgHeight = this._assets.general.height;\n		this._background.id = 'bgdiv';\n		this._background.style.cssText = 'position:relative;left:50%;top:50%;margin-left:' + (-_bgWidth / 2) + ';margin-top:' + (-_bgHeight / 2) + ';width:' + _bgWidth + ';height:' + _bgHeight;\n		document.body.appendChild(this._background);\n	};\n\n	LinearAd.prototype.onAd_Controlbar_click = function(selectType) {\n		this._customselect = 1;\n		if (selectType > 0) {\n			this._lock.show();\n			this._video.pause();\n		} else {\n			this._lock.hide();\n			this._video.start();\n		}\n		this._selectType = selectType;\n		this._controlBar.changeStatus(selectType);\n	};\n	LinearAd.prototype._getExtensionValue = function(index, key) {\n		var value = null,\n			id = parseInt(index);\n		if (typeof id != \"number\" || !key || !this._assets || !this._assets.ads || this._assets.ads.length <= 0) return value;\n		var ads = this._assets.ads,\n			ad = ads[index];\n		if (!ad || !ad.extensions || ad.extensions.length <= 0) return value;\n		var extensions = ad.extensions;\n		extensions.forEach(function(element, index, array) {\n			if (element.name == key) {\n				value = element.value;\n			}\n		});\n		return value;\n	};\n	LinearAd.prototype.resizeAd = function(newWidth, newHight, viewMode, resizeRato, element) {\n		if (!this._background) return;\n		var rsDom = element || this._background;\n		var w = rsDom.style.width,\n			h = rsDom.style.height;\n		if (newWidth / newHight > resizeRato) {\n			newWidth = Math.round(newHight * resizeRato);\n			newHight = newHight;\n		} else {\n			newWidth = newWidth;\n			newHight = Math.round(newWidth / resizeRato);\n		}\n		var x = parseFloat(newWidth) / parseFloat(w),\n			y = parseFloat(newHight) / parseFloat(h);\n		this._resizeScale(x, y, rsDom);\n	};\n	LinearAd.prototype._resizeScale = function(x, y, dom) {\n		if (!dom) return;\n		var arrPriex = [\"O\", \"Ms\", \"Moz\", \"Webkit\", \"\"],\n			len = arrPriex.length;\n		for (var i = 0; i < len; i++) {\n			dom.style[arrPriex[i] + \"Transform\"] = 'matrix(' + x + ',0,0,' + y + ',0,0)';\n		}\n	};\n	//must implement function end\n	LinearAd.prototype.stopAd = function(e, p) {\n		console.log(\"Stopping ad\");\n	};\n	LinearAd.prototype.skipAd = function() {\n		this._executeSubscribe('ad_skip');\n	};\n	LinearAd.prototype.pauseAd = function() {\n		that._remainTime && that._remainTime.destroyTimeInterval();\n		if (this._selectType == -1) {\n			this._video.pause();\n		}\n		this._controlBar.pauseAd();\n	};\n	LinearAd.prototype.resumeAd = function() {\n		this._isCloseWindow = true;\n		this._remainTime && this._remainTime.startTimeInterval();\n		switch (this._selectType) {\n			case -1:\n				this._video.start();\n				break;\n			case that._btntype.website:\n				this.onAd_Controlbar_click(-1);\n				break;\n		}\n		this._controlBar.resumeAd();\n	};\n	LinearAd.prototype.subscribe = function(callback, eventName, listenerScope) {\n		this._callbackFnMap[eventName] = callback;\n		this._callbackContextMap[eventName] = listenerScope;\n	};\n	LinearAd.prototype.unsubscribe = function(callback, eventName) {\n		this._callbackFnMap[eventName] = undefined;\n		this._callbackContextMap[eventName] = undefined;\n	};\n	LinearAd.prototype._executeSubscribe = function(eventName, args) {\n		if (!eventName) return;\n		var that = this;\n		var calFunc = that._callbackFnMap[eventName];\n		var calContext = that._callbackContextMap[eventName];\n		calFunc && calContext && calFunc.apply(calContext, args);\n	};\n	LinearAd.prototype._clearAd = function() {\n		this.onAd_Controlbar_click(-1);\n		this._video.pause();\n		console.info('complete');\n	};\n\n	LinearAd.prototype.getAdVolume = function() {\n		return -1;\n	};\n	LinearAd.prototype.getAdRemainingTime = function() {\n		return -1;\n	};\n	LinearAd.prototype.expandAd = function() {};\n	LinearAd.prototype.collapseAd = function() {};\n	LinearAd.prototype._initialized = true;\n\n	function Extend(baseclass, subclass) {\n		var tmp = function() {};\n		tmp.prototype = baseclass.prototype;\n		subclass.prototype = new tmp();\n		subclass.prototype.constructor = subclass;\n		subclass.baseclass = baseclass;\n	}\n};\ngetVPAIDAd = function() {\n	return new LinearAd();\n};",
-					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDTest.js",
-					"file_size": 0,
-					"file_write_time": 130349341194076497,
+					"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
 					"settings":
 					{
-						"buffer_size": 39179,
+						"buffer_size": 1705,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "LinearAd = function() {\n	this._slot = null;\n	this._videoSlot = null;\n	//creatives\n	this._assets = null;\n\n	this._callbackFnMap = {};\n	this._callbackContextMap = {};\n\n	this._background = null;\n	this._video = null;\n	this._controlBar = null;\n	this._lock = null;\n	this._remainTime = null;\n	this._btntype = {\n		logo: '1',\n		share: '2',\n		tdCode: '4',\n		videoSel: '8',\n		picSel: '16',\n		website: '32',\n	};\n	this._selectSize = {\n		space: 5,\n		height: 85,\n		width: 160,\n		border: 1\n	};\n\n	this._countDown = 30;\n\n	this._customselect = 0;\n	this._selectType = null;\n	this._isCloseWindow = null;\n	this._isShow = false;\n	var that = this;\n	var static_path = \"http://static9.pplive.cn/oth/2012/10/html5/v_20131205110236/\";\n\n	if (typeof LinearAd.prototype._initialized != 'undefined') return;\n	//默认开始时播放的视频贴片\n	var Video = function() {\n		this._videodiv = null;\n		this._video = null;\n		this._src = that._assets.ads;\n		if (typeof Video.prototype._initialized != 'undefined') return;\n		Video.prototype.initVideo = function() {\n			this._videodiv = document.createElement('div');\n			this._videodiv.style.cssText = 'position:absolute;width:100%;height:100%';\n			var videos = [];\n			videos.push('<video id=\"video\" src=\"' + this._src[0].vd + '\" preload=\"auto\" width=\"100%\" height=\"100%\"></video>');\n			this._videodiv.innerHTML = videos.join(\"\");\n			document.getElementById('bgdiv').appendChild(this._videodiv);\n			this._video = document.getElementById('video');\n			this._addListener();\n		};\n		Video.prototype._addListener = function() {\n			var self = this;\n			this._video.addEventListener('playing', function() {\n				that._remainTime.startTimeInterval();\n				if (!that._isShow) {\n					that._isShow = true;\n					that._executeSubscribe(\"ad_start\");\n				}\n			});\n			this._video.addEventListener('touchstart', function() {\n				that._executeSubscribe('ad_video_click', [that._assets.ads[0].vdjump, 0, true]);\n			});\n		};\n		Video.prototype.start = function() {\n			this._video.play();\n		};\n		Video.prototype.pause = function() {\n			this._video.pause();\n		};\n		Video.prototype._initialized = true;\n	};\n\n	//下方的互动栏\n	var ControlBar = function() {\n		this._controldiv = null;\n\n		this._sharebtn = null;\n		this._tdCodebtn = null;\n		this._logobtn = null;\n		this._videoSelbtn = null;\n		this._picSelbtn = null;\n		this._websitebtn = null;\n		this._selectedbtn = -1;\n\n		this._number = 0;\n		this._margin = 0;\n\n		if (typeof ControlBar.prototype._initialized != 'undefined') return;\n		ControlBar.prototype.initControlBar = function() {\n			this._controldiv = document.createElement('div');\n			this._controldiv.style.cssText = 'position:absolute;width:490px;height:70px;bottom:50px;left:50%;margin-left:-245px';\n			var innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180123_BOX.png\" style =\"width:100%;height:100%;position:absolute;z-index:-1\"/>';\n			this._controldiv.innerHTML = innerhtml;\n			this._controldiv.id = 'controlbar';\n\n			document.body.appendChild(this._controldiv);\n\n			this._number = this._getNumberOfBtn();\n			this._margin = (400 - 50 * this._number) / (2 + this._number);\n\n			this.createBtns();\n		}\n\n		ControlBar.prototype.createBtns = function() {\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				switch (that._assets.ads[i].id) {\n					case that._btntype.logo:\n						if (this._logobtn) break;\n						this._logobtn = new Logo();\n						this._logobtn.initLogo(this._margin, i);\n						break;\n					case that._btntype.share:\n						if (this._sharebtn) break;\n						this._sharebtn = new Share();\n						this._sharebtn.initShare(this._margin, i);\n						break;\n					case that._btntype.tdCode:\n						if (this._tdCodebtn) break;\n						this._tdCodebtn = new TdCode();\n						this._tdCodebtn.initTdCode(this._margin, i);\n						break;\n					case that._btntype.videoSel:\n						if (this._videoSelbtn) break;\n						this._videoSelbtn = new VideoSel();\n						this._videoSelbtn.initVideoSel(this._margin, i);\n						break;\n					case that._btntype.picSel:\n						if (this._picSelbtn) break;\n						this._picSelbtn = new PicSel();\n						this._picSelbtn.initPicSel(this._margin, i);\n						break;\n					case that._btntype.website:\n						if (this._websitebtn) break;\n						this._websitebtn = new Website();\n						this._websitebtn.initWebsite(this._margin, i);\n						break;\n				}\n			}\n		};\n\n		ControlBar.prototype._getNumberOfBtn = function() {\n			var number = 0;\n			var tmp = 0;\n			for (var i = that._assets.ads.length - 1; i >= 0; i--) {\n				if (that._assets.ads[i].id > 1) {\n					tmp = tmp | that._assets.ads[i].id;\n				}\n			};\n			// number = tmp.toString(2).replace('0', '').length;\n			number = this._bitCount5(tmp);\n			return number;\n		};\n\n		//计算2进制数中1的个数\n		ControlBar.prototype._bitCount5 = function(n) {\n			var tmp = n - ((n >> 1) & 033333333333) - ((n >> 2) & 011111111111);\n			return ((tmp + (tmp >> 3)) & 030707070707) % 63;\n		}\n\n		ControlBar.prototype.changeStatus = function(selectIndex) {\n			if (selectIndex == this._selectedbtn) return;\n			if (this._selectedbtn > 0) {\n				switch (this._selectedbtn) {\n					case that._btntype.logo:\n						this._logobtn.resize(0);\n						break;\n					case that._btntype.share:\n						this._sharebtn.resize(0);\n						this._sharebtn.hideShareDiv();\n						break;\n					case that._btntype.tdCode:\n						this._tdCodebtn.resize(0);\n						this._tdCodebtn.hideTdCodeDiv();\n						break;\n					case that._btntype.videoSel:\n						this._videoSelbtn.resize(0);\n						this._videoSelbtn.hideVideoSelDiv();\n						break;\n					case that._btntype.picSel:\n						this._picSelbtn.resize(0);\n						this._picSelbtn.hidePicSelDiv();\n						break;\n					case that._btntype.website:\n						this._websitebtn.resize(0);\n						break;\n				}\n			}\n			this._selectedbtn = selectIndex;\n			switch (this._selectedbtn) {\n				case that._btntype.logo:\n					this._logobtn.resize(1);\n					break;\n				case that._btntype.share:\n					this._sharebtn.resize(1);\n					this._sharebtn.showShareDiv();\n					break;\n				case that._btntype.tdCode:\n					this._tdCodebtn.resize(1);\n					this._tdCodebtn.showTdCodeDiv();\n					break;\n				case that._btntype.videoSel:\n					this._videoSelbtn.resize(1);\n					this._videoSelbtn.showVideoSelDiv();\n					break;\n				case that._btntype.picSel:\n					this._picSelbtn.resize(1);\n					this._picSelbtn.showPicSelDiv();\n					break;\n				case that._btntype.website:\n					this._websitebtn.resize(1);\n					break;\n			}\n		};\n\n		ControlBar.prototype.pauseAd = function() {\n			switch (this._selectedbtn) {\n				case that._btntype.videoSel:\n					this._videoSelbtn.pause();\n				case that._btntype.picSel:\n					this._picSelbtn.pause();\n					break;\n			}\n		};\n		ControlBar.prototype.resumeAd = function() {\n			switch (this._selectedbtn) {\n				case that._btntype.videoSel:\n					this._videoSelbtn.start();\n				case that._btntype.PicSel:\n					this._picSelbtn.start();\n					break;\n			}\n		};\n		ControlBar.prototype._initialized = true;\n	};\n	var FuncBtn = function() {};\n\n	FuncBtn.prototype.initfuncBtn = function(marginsize) {\n		this._div = document.createElement('div');\n		this._div.style.cssText = 'width:50px;height:50px;display:-webkit-inline-box;margin-left:' + marginsize;\n		var innerhtml = '<img src=\"\" style=\"width:50px;height:50px\"/>';\n		this._div.innerHTML = innerhtml;\n		document.getElementById('controlbar').appendChild(this._div);\n	};\n\n	FuncBtn.prototype.display = function(selected, srcimg) {\n		if (!this._img) return;\n		if (selected == 1) {\n			this._img.style.cssText = 'width:60px;height:60px;margin-left:-5px;margin-top:-5px;';\n		} else {\n			this._img.style.cssText = 'width:50px;height:50px;';\n		}\n		this._img.src = srcimg[selected];\n	};\n\n	//分享按钮\n	var Share = function() {\n		this._div = null;\n		this._img = null;\n		this._sharediv = null;\n		this._index = null;\n		this._Creative = [];\n		this._number = 0;\n		this._sharebtn = [];\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175619_2-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175633_2-1.png'];\n		if (typeof Share.prototype._initialized != 'undefined') return;\n		Share.prototype.initShare = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n\n			this._getCreative();\n			this._initShareDiv();\n\n			this._addListener();\n		};\n		Share.prototype._getCreative = function() {\n			var index = 0;\n			var ads = null;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.share) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'type': that._getExtensionValue(i, 'type'),\n						'jumpurl': this._generateJumpUrl(that._getExtensionValue(i, 'type'), that._getExtensionValue(i, 'url'), that._getExtensionValue(i, 'title'), that._getExtensionValue(i, 'pic')),\n						'innerhtml': this.generateInnerhtml(that._getExtensionValue(i, 'type'))\n					};\n					index++;\n					this._number++;\n				}\n			}\n		};\n		Share.prototype._generateJumpUrl = function(type, url, title, pic) {\n			var tencentRegx = /tencent/i;\n			var sinaRegx = /sina/i;\n			var jumpurl = null;\n			if (tencentRegx.test(type)) {\n				jumpurl = 'http://share.v.t.qq.com/index.php?c=share&a=index';\n			} else if (sinaRegx.test(type)) {\n				jumpurl = 'http://service.weibo.com/share/share.php?c=spr_web_bd_pplive_weibo';\n			}\n			url && (jumpurl += '&url=' + url);\n			title && (jumpurl += '&title=' + encodeURIComponent(title));\n			pic && (jumpurl += '&pic=' + pic);\n			return jumpurl;\n		};\n		Share.prototype.generateInnerhtml = function(type) {\n			var tencentRegx = /tencent/i;\n			var sinaRegx = /sina/i;\n			var innerhtml = null;\n			if (tencentRegx.test(type)) {\n				innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181638_tencent.png\" style=\"position:absolute;left:35px;top:30px;\"/><span style=\"color:white;left:110px;top:35px;font-size:35px;position:absolute;font-family:微软雅黑;\">腾讯微博</span><img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181652_sharebtn.png\" style=\"position:absolute;left:365px;top:44px;\">';\n			} else if (sinaRegx.test(type)) {\n				innerhtml = '<img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181738_sina.png\" style=\"position:absolute;left:35px;top:30px;\"/><span style=\"color:white;left:110px;top:35px;font-size:35px;position:absolute;font-family:微软雅黑;\">新浪微博</span><img src=\"http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181652_sharebtn.png\" style=\"position:absolute;left:365px;top:44px;\">';\n			}\n			return innerhtml;\n		}\n		Share.prototype._initShareDiv = function() {\n			this._sharediv = document.createElement('div');\n			this._sharediv.style.cssText = 'display:none;position:absolute;left:265px;bottom:100px;width:498px;height:' + this._number * 111 + 'px;border:3px solid #333333;border-radius: 10px;z-index:2';\n			if (this._number == 1) {\n				var innerhtml = '<div id=\"div_0\" style=\"position:absolute;width:100%;height:100%\">' + this._Creative[0].innerhtml + '</div>';\n\n			} else {\n				var innerhtml = '<div id=\"div_0\" style=\"position:absolute;width:498px;height:111px;border-bottom:3px solid #333333\">' + this._Creative[0].innerhtml + '</div><div id=\"div_1\" style=\"position:absolute;width:498px;height:111px;top:111px;\">' + this._Creative[1].innerhtml + '</div>';\n			}\n			this._sharediv.innerHTML = innerhtml;\n			document.getElementById('bgdiv').appendChild(this._sharediv);\n\n			for (var i = 0; i < this._number; i++) {\n				this._sharebtn[i] = document.getElementById('div_' + i).childNodes[2];\n			}\n			// that.resizeAd.call(that,245,105,null,49/21,this._sharediv);\n		};\n\n		Share.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n\n		Share.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.share);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n\n			for (var i = 0; i < this._number; i++) {\n				this._addSharebtnListener(i);\n			}\n		};\n		Share.prototype._addSharebtnListener = function(index) {\n			var self = this;\n			this._sharebtn[index].addEventListener('click', function() {\n				that._executeSubscribe('ad_video_click', [self._Creative[index].jumpurl, self._Creative[index].adsindex, true]);\n			})\n		};\n		Share.prototype.showShareDiv = function() {\n			this._sharediv.style.display = '';\n		};\n		Share.prototype.hideShareDiv = function() {\n			this._sharediv.style.display = 'none';\n		};\n		Share.prototype._initialized = true;\n	};\n	Extend(FuncBtn, Share);\n\n	//二维码按钮\n	var TdCode = function() {\n		this._div = null;\n		this._img = null;\n		this._tdCodeDiv = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175716_3-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175705_3-1.png'];\n		if (typeof TdCode.prototype._initialized != 'undefined') return;\n		TdCode.prototype.initTdCode = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n			this.initTdCodeDiv();\n		};\n		TdCode.prototype.initTdCodeDiv = function() {\n			this._tdCodeDiv = document.createElement('div');\n			this._tdCodeDiv.style.cssText = 'display:none;position:absolute;left:420px;top:290px;width:180px;height:180px;z-index:2';\n			var innerhtml = '<img src=\"' + that._assets.ads[this._index].vd + '\" style=\"height:100%;width:100%\"/>';\n			this._tdCodeDiv.innerHTML = innerhtml;\n			document.getElementById('bgdiv').appendChild(this._tdCodeDiv);\n		}\n		TdCode.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		TdCode.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.tdCode);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n		};\n		TdCode.prototype.showTdCodeDiv = function() {\n			this._tdCodeDiv.style.display = '';\n		};\n		TdCode.prototype.hideTdCodeDiv = function() {\n			this._tdCodeDiv.style.display = 'none';\n		};\n		TdCode.prototype._initialized = true;\n	};\n	Extend(FuncBtn, TdCode);\n\n	//下方中间的Logo\n	var Logo = function() {\n		this._div = null;\n		this._index = null;\n		if (typeof Logo.prototype._initialized != 'undefined') return;\n		Logo.prototype.initLogo = function(marginsize, index) {\n			this._index = index;\n			this._div = document.createElement('div');\n			this._div.style.cssText = 'width:90px;height:90px;display:-webkit-inline-box;margin-top:-30px;margin-left:' + marginsize;\n			var innerhtml = '<img src=\"' + that._assets.ads[this._index].vd + '\" style=\"width:100%;height:100%\"/>';\n			this._div.innerHTML = innerhtml;\n			document.getElementById('controlbar').appendChild(this._div);\n		};\n		Logo.prototype._initialized = true;\n	}\n\n	//互动栏上的多贴片按钮\n	var VideoSel = function() {\n		this._div = null;\n		this._img = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175936_4-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225175910_4-1.png'];\n		this._Creative = [];\n		this._videoView = null;\n		if (typeof VideoSel.prototype._initialized != 'undefined') return;\n		VideoSel.prototype.initVideoSel = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n			this._init();\n		};\n		VideoSel.prototype._init = function() {\n			this._getCreative();\n			this._videoView = new VideoView();\n			this._videoView.initVideoView(this._Creative);\n		};\n\n		VideoSel.prototype._getCreative = function() {\n			var index = 0;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.videoSel) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'largevideo': that._assets.ads[i].vd,\n						'vdjump': that._assets.ads[i].vdjump,\n						'smallpic': that._assets.ads[i].poster\n					};\n					index++;\n				}\n			};\n		};\n		VideoSel.prototype.pause = function() {\n			this._videoView.pause();\n		};\n		VideoSel.prototype.start = function() {\n			this._videoView.start();\n		};\n		VideoSel.prototype.showVideoSelDiv = function() {\n			this._videoView.show();\n		};\n		VideoSel.prototype.hideVideoSelDiv = function() {\n			this._videoView.hide();\n		};\n		VideoSel.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		VideoSel.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.videoSel);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n		}\n		VideoSel.prototype._initialized = true;\n	};\n	Extend(FuncBtn, VideoSel);\n\n	//选择贴片的展示区域\n	var VideoView = function() {\n		this._Creative = null;\n		this._index = 0;\n		this._ViewDiv = null;\n		this._largeVideo = null;\n		this._choose = null;\n\n		if (typeof VideoView.prototype._initialized != 'undefined') return;\n\n		var LargeVideo = function() {\n			this._largeVideoDiv = null;\n			this._video = null;\n			this._lastvideo = null;\n			var View = null;\n			if (typeof LargeVideo.prototype._initialized != 'undefined') return;\n			LargeVideo.prototype.initLargeVideo = function(parent) {\n				View = parent;\n				this._largeVideoDiv = document.createElement('div');\n				this._largeVideoDiv.style.cssText = 'position:absolute;height:360px;width:640px;';\n				document.getElementById('videoViewDiv').appendChild(this._largeVideoDiv);\n				var videos = [];\n				for (var i = 0, len = View._Creative.length; i < len; i++) {\n					videos.push('<video id=\"video_' + i + '\" src=\"' + View._Creative[i].largevideo + '\" preload=\"auto\" width=\"100%\" height=\"100%\" style=\"cursor:pointer;display:none;\" autobuffer=\"true\"></video>');\n				}\n				this._largeVideoDiv.innerHTML = videos.join(\"\");\n				for (var i = 0, len = View._Creative.length; i < len; i++) {\n					this._addListener(document.getElementById('video_' + i), i);\n				}\n				this._video = document.getElementById('video_' + View._index);\n\n				this._addListener();\n			}\n			LargeVideo.prototype._addListener = function(_video, index) {\n				var self = this;\n				if (!_video) return;\n				_video.addEventListener('playing', function() {\n					if (that._isCloseWindow) {\n						//发现是关闭弹窗导致视频重新播放，则进入这个逻辑\n						that._isCloseWindow = false;\n						return;\n					}\n					that._executeSubscribe('ad_video_start', [View._Creative[View._index].adsindex]);\n					if (self._lastvideo) {\n						self._lastvideo.pause();\n						self._lastvideo.currentTime = 0.1;\n						self._videoHideShow(self._lastvideo, self._largeVideoDiv, false);\n					}\n					self._lastvideo = self._video;\n					self._videoHideShow(self._video, self._largeVideoDiv, true);\n				});\n\n				_video.addEventListener('touchstart', function() {\n					that._executeSubscribe('ad_video_click', [View._Creative[View._index].vdjump, View._Creative[View._index].adsindex, true]);\n				});\n\n				_video.addEventListener('ended', function() {\n					that._executeSubscribe('ad_video_end', [View._Creative[View._index].adsindex]);\n					View._doChoose((View._index + 1) % View._Creative.length);\n				});\n			};\n			LargeVideo.prototype._videoHideShow = function(_video, _videodiv, isShow) {\n				if (isShow) {\n					_video && (_video.style.display = \"block\");\n					_videodiv && (_videodiv.style.display = \"block\");\n				} else {\n					_videodiv && (_videodiv.style.display = \"none\");\n					_video && (_video.style.display = \"none\");\n				}\n			};\n\n			LargeVideo.prototype.reset = function() {\n				this._video = document.getElementById('video_' + View._index);\n				that._isCloseWindow = false;\n				this.play();\n			}\n			LargeVideo.prototype.play = function() {\n				this._video && this._video.play();\n			}\n			LargeVideo.prototype.stop = function() {\n				this._video && this._video.pause();\n			}\n			LargeVideo.prototype.cleanLastVideo = function() {\n				if (this._lastvideo) {\n					this._lastvideo.pause();\n					this._lastvideo.currentTime = 0.1;\n					this._videoHideShow(this._lastvideo, this._largeVideoDiv, false);\n				}\n				this._lastvideo = null;\n			}\n			LargeVideo.prototype._initialized = true;\n		}\n\n		VideoView.prototype.initVideoView = function(videoCreative) {\n			this._Creative = videoCreative;\n			this._ViewDiv = document.createElement('div');\n			this._ViewDiv.style.cssText = 'display:none;position:absolute;width:810px;height:360px;top:120px;left:105px;z-index:2';\n			this._ViewDiv.id = 'videoViewDiv';\n			document.getElementById('bgdiv').appendChild(this._ViewDiv);\n			this._init();\n		}\n\n		VideoView.prototype._doChoose = function(index) {\n			this._index = index;\n			this._changeVideo();\n		}\n\n		VideoView.prototype._init = function() {\n			this._largeVideo = new LargeVideo;\n			this._largeVideo.initLargeVideo(this);\n\n			this._choose = new Choose();\n			this._choose.initChoose(this);\n		};\n		VideoView.prototype.pause = function() {\n			this._largeVideo.stop();\n		};\n		VideoView.prototype.start = function() {\n			this._largeVideo.play();\n		}\n		VideoView.prototype._changeVideo = function() {\n			this._choose.reset();\n			this._largeVideo.reset();\n		};\n		VideoView.prototype.show = function() {\n			this._index = 0;\n			this._changeVideo();\n			this._ViewDiv.style.display = '';\n		};\n		VideoView.prototype.hide = function() {\n			this._ViewDiv.style.display = 'none';\n			this._largeVideo.cleanLastVideo();\n		};\n\n		VideoView.prototype._initialized = true;\n	}\n\n	//互动栏上的多图片展示按钮\n	var PicSel = function() {\n		this._div = null;\n		this._img = null;\n		this._index;\n		this._picView = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180010_5-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180000_5-1.png'];\n		this._Creative = [];\n		if (typeof PicSel.prototype._initialized != 'undefined') return;\n		PicSel.prototype.initPicSel = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n			this._init();\n		};\n		PicSel.prototype._init = function() {\n			this._getCreative();\n			this._picView = new PicView();\n			this._picView.initPicView(this._Creative);\n		};\n		PicSel.prototype._getCreative = function() {\n			var index = 0;\n			for (var i = 0, len = that._assets.ads.length; i < len; i++) {\n				if (that._assets.ads[i].id == that._btntype.picSel) {\n					this._Creative[index] = {\n						'adsindex': i,\n						'largepic': that._assets.ads[i].vd,\n						'vdjump': that._assets.ads[i].vdjump,\n						'smallpic': that._assets.ads[i].poster\n					};\n					index++;\n				}\n			};\n		};\n		PicSel.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		};\n		PicSel.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.picSel);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n			});\n		};\n		PicSel.prototype.showPicSelDiv = function() {\n			this._picView.show();\n		};\n		PicSel.prototype.pause = function() {\n			this._picView.destroyTimeInterval();\n		};\n		PicSel.prototype.start = function() {\n			this._picView.startTimeInterval();\n		};\n		PicSel.prototype.hidePicSelDiv = function() {\n			this._picView.hide();\n		};\n		PicSel.prototype._initialized = true;\n	}\n	Extend(FuncBtn, PicSel);\n\n	//多图片轮播的展示层\n	var PicView = function() {\n		this._Creative = null;\n		this._index = 0;\n		this._ViewDiv = null;\n\n		this._largePic = null;\n		this._choose = null;\n		this._e = null;\n\n		var P = this;\n		if (typeof PicView.prototype._initialized != 'undefined') return;\n\n\n		var LargePic = function() {\n			this._largePicDiv = null;\n			this._img = null;\n			var View = null;\n			if (typeof LargePic.prototype._initialized != 'undefined') return;\n			LargePic.prototype.initLargePic = function(parent) {\n				View = parent;\n				this._largePicDiv = document.createElement('div');\n				this._largePicDiv.style.cssText = 'position:absolute;height:360px;width:640px;border:1px solid black;';\n				var innerhtml = '<img src =\"' + View._Creative[View._index].largepic + '\" style=\"width:100%;height:100%\"/>';\n				this._largePicDiv.innerHTML = innerhtml;\n				this._img = this._largePicDiv.firstChild;\n				document.getElementById('picViewDiv').appendChild(this._largePicDiv);\n				this._addListener();\n			};\n			LargePic.prototype._addListener = function() {\n				var self = this;\n				this._img.addEventListener('click', function() {\n					that._executeSubscribe('ad_video_click', [View._Creative[View._index].vdjump, View._Creative[View._index].adsindex, true]);\n				});\n			}\n			LargePic.prototype.reset = function() {\n				this._img.src = View._Creative[View._index].largepic;\n			};\n			LargePic.prototype._initialized = true;\n		}\n\n		PicView.prototype.initPicView = function(picCreative) {\n			this._Creative = picCreative;\n			this._ViewDiv = document.createElement('div');\n			this._ViewDiv.style.cssText = 'display:none;position:absolute;width:810px;height:360px;top:120px;left:105px;z-index:2';\n			this._ViewDiv.id = 'picViewDiv';\n			document.getElementById('bgdiv').appendChild(this._ViewDiv);\n			this._init();\n		}\n		PicView.prototype._init = function() {\n			this._largePic = new LargePic();\n			this._largePic.initLargePic(this);\n\n			this._choose = new Choose();\n			this._choose.initChoose(this);\n		}\n		PicView.prototype._setTimeInterval = function() {\n			if (this._e) return;\n			var self = this;\n			this._e = setInterval(function() {\n				self._index = (self._index + 1) % self._Creative.length;\n				self._changePic();\n			}, 3000);\n		};\n		PicView.prototype.destroyTimeInterval = function() {\n			window.clearInterval(this._e);\n			this._e = null;\n		};\n		PicView.prototype.startTimeInterval = function() {\n			this._setTimeInterval();\n		}\n		PicView.prototype._changePic = function() {\n			this._choose.reset();\n			this._largePic.reset();\n		}\n		PicView.prototype._doChoose = function(index) {\n			this._index = index;\n			this._changePic();\n			this.destroyTimeInterval();\n			this.startTimeInterval();\n		}\n		PicView.prototype.show = function() {\n			this._index = 0;\n			this._changePic();\n			this._ViewDiv.style.display = '';\n			this.startTimeInterval();\n		}\n		PicView.prototype.hide = function() {\n			this._ViewDiv.style.display = 'none';\n			this.destroyTimeInterval();\n		}\n		PicView.prototype._initialized = true;\n	}\n\n	//互动栏上点击展示官网的按钮\n	var Website = function() {\n		this._div = null;\n		this._img = null;\n		this._index = null;\n		this._imgsrc = ['http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180037_1-2.png', 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225180025_1-1.png'];\n		if (typeof Website.prototype._initialized != 'undefined') return;\n		Website.prototype.initWebsite = function(marginsize, index) {\n			this._index = index;\n			this.initfuncBtn(marginsize);\n			this._img = this._div.firstChild;\n			this.display(0, this._imgsrc);\n			this._addListener();\n		};\n		Website.prototype.resize = function(selected) {\n			this.display(selected, this._imgsrc);\n		}\n		Website.prototype._addListener = function() {\n			var self = this;\n			this._img.addEventListener('click', function() {\n				that.onAd_Controlbar_click(that._btntype.website);\n				that._executeSubscribe('ad_controlbar_click', [self._index]);\n				that._executeSubscribe('ad_bg_click', [that._assets.ads[self._index].bgjump, self._index, true]);\n			});\n		}\n		Website.prototype._initialized = true;\n	}\n	Extend(FuncBtn, Website);\n\n	//多视频和多图片的选择区域\n	var Choose = function() {\n		this._chooseDiv = null;\n		this._selectpics = [];\n		this.View = null;\n		if (typeof Choose.prototype._initialized != 'undefined') return;\n\n		var Selectpic = function(parent) {\n			this._selectpicDiv = null;\n			this._img = null;\n			this._mask = null;\n			this._index;\n			this.View = parent;\n			if (typeof Selectpic.prototype._initialized != 'undefined') return;\n			Selectpic.prototype.initSelectpic = function(top, index) {\n				this._index = index;\n				this._selectpicDiv = document.createElement('div');\n				this._selectpicDiv.style.cssText = 'position:absolute;height:' + that._selectSize.height + ';width:' + that._selectSize.width + ';right:0px;top:' + top + ';border:1px solid black;';\n				var innerhtml = '<img src=\"' + this.View._Creative[index].smallpic + '\" style=\"width:100%;height:100%\"/>';\n				this._selectpicDiv.innerHTML = innerhtml;\n				this._img = this._selectpicDiv.firstChild;\n				this._mask = new Mask();\n				this._selectpicDiv.appendChild(this._mask.initMask(!index));\n				this._addListener();\n				return this._selectpicDiv;\n			};\n			Selectpic.prototype._addListener = function() {\n				var self = this;\n				this._selectpicDiv.addEventListener('click', function() {\n					self.View._doChoose(self._index);\n					that._executeSubscribe('ad_select_change', [self.View._Creative[self._index].adsindex]);\n				});\n			};\n			Selectpic.prototype.reset = function(selected) {\n				this._mask.reset(selected);\n			};\n			Selectpic.prototype._initialized = true;\n		}\n\n		var Mask = function() {\n			this._mask = null;\n			if (typeof Mask.prototype._initialized != 'undefined') return;\n			Mask.prototype.initMask = function(selected) {\n				this._mask = document.createElement('div');\n				this._mask.style.cssText = 'position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:black;opacity:0.7;display:' + ((selected) ? 'none' : 'block') + ';';\n				return this._mask;\n			}\n			Mask.prototype.reset = function(selected) {\n				this._mask.style.display = ((selected) ? \"none\" : \"block\");\n			};\n			Mask.prototype._initialized = true;\n		}\n\n		Choose.prototype.initChoose = function(parent) {\n			this.View = parent;\n			this._chooseDiv = document.createElement('div');\n			this._chooseDiv.style.cssText = 'position:absolute;right:0px;top:0px;height:360px;';\n			parent._ViewDiv.appendChild(this._chooseDiv);\n\n			for (var i = 0, len = this.View._Creative.length; i < len; i++) {\n				this._selectpics[i] = new Selectpic(this.View);\n				this._chooseDiv.appendChild(this._selectpics[i].initSelectpic(i * (that._selectSize.height + that._selectSize.space + 2 * that._selectSize.border) - 1, i));\n			};\n		};\n		Choose.prototype.reset = function() {\n			for (var i = 0, len = this._selectpics.length; i < len; i++) {\n				this._selectpics[i].reset(i == this.View._index);\n			}\n		}\n\n		Choose.prototype._initialized = true;\n	};\n\n	//互动时背景遮盖层\n	var Lock = function() {\n		this._lockdiv = null;\n		this._turnback = null;\n		if (typeof Lock.prototype._initialized != 'undefined') return;\n		Lock.prototype.initLock = function() {\n			this._lockdiv = document.createElement('div');\n			this._lockdiv.style.cssText = 'position:absolute;width:100%;height:100%;background-color:#000000;opacity:0.6;z-index:1;display:none;';\n			this._turnback = document.createElement('img');\n			this._turnback.src = 'http://asimgs.pplive.cn/imgs/materials/2013/12/25/20131225181510_turnback.png';\n			this._turnback.style.cssText = 'position:absolute;top:70px;right:20px;';\n			this._lockdiv.appendChild(this._turnback);\n			document.getElementById('bgdiv').appendChild(this._lockdiv);\n			this._addListener();\n		};\n		Lock.prototype._addListener = function() {\n			this._turnback.addEventListener('click', function() {\n				that.onAd_Controlbar_click(-1);\n			});\n		};\n		Lock.prototype.show = function() {\n			this._lockdiv.style.display = '';\n		};\n\n		Lock.prototype.hide = function() {\n			this._lockdiv.style.display = 'none';\n		};\n		Lock.prototype._initialized = true;\n	};\n\n	var RemainTime = function() {\n		this._timediv = null;\n		this._skipdiv = null;\n		this._timep = null;\n		this._time = null;\n		this._currentTime = that._countDown;\n		this._e = null;\n\n		if (typeof this._initialized != 'undefined') return;\n		RemainTime.prototype.initRemainTime = function() {\n			this._timediv = document.createElement('div');\n			this._timediv.style.cssText = \"display:none;position:absolute;cursor:pointer;right:6px;top:8px;width:100px;height:30px;margin-top:10px;margin-right:7px;\";\n			document.body.appendChild(this._timediv);\n			//\n			this._timep = document.createElement('p');\n			this._timep.style.cssText = 'font-family:\"宋体\"; font-size:14px; color:#FFFFFF; background:url(' + static_path + '/images/panel_bg1.png) repeat-x; display:inline-block; height:30px; padding:8px 5px 0 5px;';\n			this._timep.innerHTML = '广告还有<span id=\"number\"></span>秒';\n			this._timediv.appendChild(this._timep);\n			//\n			this._time = document.getElementById('number');\n			this._time.style.cssText = \"color:#FFFF00;\";\n			this._time.innerHTML = (this._currentTime >= 10 ? this._currentTime : '0' + this._currentTime);\n			//\n		};\n		RemainTime.prototype._setTimeInterval = function() {\n			if (this._e) return;\n			var self = this;\n			this._e = setInterval(function() {\n				self._currentTime -= 0.1;\n				self._updateTime();\n			}, 100);\n		};\n		RemainTime.prototype._updateTime = function() {\n			var showTime = Math.floor(this._currentTime) + 1;\n			if (showTime >= 0) {\n				this._time.innerHTML = (showTime >= 10 ? showTime : '0' + showTime);\n			} else {\n				clearInterval(this._e);\n				if (that._customselect == 1) {\n					//用户做过点击操作\n					this._timep.style.cssText = \"margin-top:18px;\"\n					this._timep.innerHTML = '<img style=\"margin:-4px 5px 0 0; vertical-align:middle;\" src=\"' + static_path + 'images/close.jpg' + '\">';\n					this._timep.addEventListener('click', function() {\n						that._clearAd();\n						that._executeSubscribe('ad_complete', []);\n					}, false);\n				} else {\n					that._clearAd();\n					that._executeSubscribe('ad_complete', []);\n				}\n			}\n		};\n		RemainTime.prototype.destroyTimeInterval = function() {\n			window.clearInterval(this._e);\n			this._e = null;\n		};\n		RemainTime.prototype.startTimeInterval = function() {\n			this._setTimeInterval();\n			this._timediv.style.display = '';\n		};\n		this._initialized = true;\n	};\n\n	LinearAd.prototype.handshakeVersion = function() {\n		return '2.0.00';\n	};\n	LinearAd.prototype.init = function(assets_obj, environmentVars) {\n		this._slot = environmentVars.slot;\n		this._videoSlot = environmentVars.videoSlot;\n\n		this._assets = assets_obj;\n		if (!this._assets) return;\n\n		if (this._assets.general) {\n			this._countDown = this._assets.general.duration || this._countDown;\n		}\n\n		this._initAd(null, null, 'normal', null, null, null);\n		this._executeSubscribe(\"ad_load\");\n\n\n	};\n	LinearAd.prototype._initAd = function(width, height, viewMode, desiredBitrate, creativeData, environmentVars) {\n		this._initBackground();\n		this._video = new Video();\n		this._video.initVideo();\n\n		this._controlBar = new ControlBar();\n		this._controlBar.initControlBar();\n\n		this._lock = new Lock();\n		this._lock.initLock();\n\n		this._remainTime = new RemainTime();\n		this._remainTime.initRemainTime();\n	};\n\n	LinearAd.prototype.start = function() {\n		this._video.start();\n	};\n\n	LinearAd.prototype._initBackground = function() {\n		document.body.style.marginTop = '0px';\n		document.body.style.marginBottom = '0px';\n		this._background = document.createElement('div');\n		var _bgWidth = this._assets.general.width,\n			_bgHeight = this._assets.general.height;\n		this._background.id = 'bgdiv';\n		this._background.style.cssText = 'position:relative;left:50%;top:50%;margin-left:' + (-_bgWidth / 2) + ';margin-top:' + (-_bgHeight / 2) + ';width:' + _bgWidth + ';height:' + _bgHeight;\n		document.body.appendChild(this._background);\n	};\n\n	LinearAd.prototype.onAd_Controlbar_click = function(selectType) {\n		this._customselect = 1;\n		if (selectType > 0) {\n			this._lock.show();\n			this._video.pause();\n		} else {\n			this._lock.hide();\n			this._video.start();\n		}\n		this._selectType = selectType;\n		this._controlBar.changeStatus(selectType);\n	};\n	LinearAd.prototype._getExtensionValue = function(index, key) {\n		var value = null,\n			id = parseInt(index);\n		if (typeof id != \"number\" || !key || !this._assets || !this._assets.ads || this._assets.ads.length <= 0) return value;\n		var ads = this._assets.ads,\n			ad = ads[index];\n		if (!ad || !ad.extensions || ad.extensions.length <= 0) return value;\n		var extensions = ad.extensions;\n		extensions.forEach(function(element, index, array) {\n			if (element.name == key) {\n				value = element.value;\n			}\n		});\n		return value;\n	};\n	LinearAd.prototype.resizeAd = function(newWidth, newHight, viewMode, resizeRato, element) {\n		if (!this._background) return;\n		var rsDom = element || this._background;\n		var w = rsDom.style.width,\n			h = rsDom.style.height;\n		if (newWidth / newHight > resizeRato) {\n			newWidth = Math.round(newHight * resizeRato);\n			newHight = newHight;\n		} else {\n			newWidth = newWidth;\n			newHight = Math.round(newWidth / resizeRato);\n		}\n		var x = parseFloat(newWidth) / parseFloat(w),\n			y = parseFloat(newHight) / parseFloat(h);\n		this._resizeScale(x, y, rsDom);\n	};\n	LinearAd.prototype._resizeScale = function(x, y, dom) {\n		if (!dom) return;\n		var arrPriex = [\"O\", \"Ms\", \"Moz\", \"Webkit\", \"\"],\n			len = arrPriex.length;\n		for (var i = 0; i < len; i++) {\n			dom.style[arrPriex[i] + \"Transform\"] = 'matrix(' + x + ',0,0,' + y + ',0,0)';\n		}\n	};\n	//must implement function end\n	LinearAd.prototype.stopAd = function(e, p) {\n		console.log(\"Stopping ad\");\n	};\n	LinearAd.prototype.skipAd = function() {\n		this._executeSubscribe('ad_skip');\n	};\n	LinearAd.prototype.pauseAd = function() {\n		that._remainTime && that._remainTime.destroyTimeInterval();\n		if (this._selectType == -1) {\n			this._video.pause();\n		}\n		this._controlBar.pauseAd();\n	};\n	LinearAd.prototype.resumeAd = function() {\n		this._isCloseWindow = true;\n		this._remainTime && this._remainTime.startTimeInterval();\n		switch (this._selectType) {\n			case -1:\n				this._video.start();\n				break;\n			case that._btntype.website:\n				this.onAd_Controlbar_click(-1);\n				break;\n		}\n		this._controlBar.resumeAd();\n	};\n	LinearAd.prototype.subscribe = function(callback, eventName, listenerScope) {\n		this._callbackFnMap[eventName] = callback;\n		this._callbackContextMap[eventName] = listenerScope;\n	};\n	LinearAd.prototype.unsubscribe = function(callback, eventName) {\n		this._callbackFnMap[eventName] = undefined;\n		this._callbackContextMap[eventName] = undefined;\n	};\n	LinearAd.prototype._executeSubscribe = function(eventName, args) {\n		if (!eventName) return;\n		var that = this;\n		var calFunc = that._callbackFnMap[eventName];\n		var calContext = that._callbackContextMap[eventName];\n		calFunc && calContext && calFunc.apply(calContext, args);\n	};\n	LinearAd.prototype._clearAd = function() {\n		this.onAd_Controlbar_click(-1);\n		this._video.pause();\n		console.info('complete');\n	};\n\n	LinearAd.prototype.getAdVolume = function() {\n		return -1;\n	};\n	LinearAd.prototype.getAdRemainingTime = function() {\n		return -1;\n	};\n	LinearAd.prototype.expandAd = function() {};\n	LinearAd.prototype.collapseAd = function() {};\n	LinearAd.prototype._initialized = true;\n\n	function Extend(baseclass, subclass) {\n		var tmp = function() {};\n		tmp.prototype = baseclass.prototype;\n		subclass.prototype = new tmp();\n		subclass.prototype.constructor = subclass;\n		subclass.baseclass = baseclass;\n	}\n};\ngetVPAIDAd = function() {\n	return new LinearAd();\n};",
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
 					"settings":
 					{
-						"buffer_size": 38833,
+						"buffer_size": 127099,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
 					"settings":
 					{
-						"buffer_size": 14152,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/index.html",
-					"settings":
-					{
-						"buffer_size": 254,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
-					"settings":
-					{
-						"buffer_size": 39425,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
-					"settings":
-					{
-						"buffer_size": 7507,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/VPAID.xsd",
-					"settings":
-					{
-						"buffer_size": 535,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-					"settings":
-					{
-						"buffer_size": 3250,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/i-robinzhou/Desktop/hive.sql",
-					"settings":
-					{
-						"buffer_size": 4638,
+						"buffer_size": 208109,
 						"line_ending": "Windows"
 					}
 				}
@@ -1644,15 +1631,63 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 58.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"forma",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"back",
+						"Preferences: Browse Packages→浏览程序包"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"instal",
+						"markdown",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"mdk",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -1664,32 +1699,16 @@
 						"Package Control: Install Package"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"GIT:",
 						"Git: Commit history"
-					],
-					[
-						"view",
-						"View: Toggle Side Bar→切换侧栏"
 					],
 					[
 						"li",
 						"Permute Lines: Unique→唯一"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
 						"convert",
 						"Indentation: Convert to Tabs→转换为标签"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
 					],
 					[
 						"remo",
@@ -1712,14 +1731,6 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
 						"int",
 						"Indentation: Convert to Tabs→转换为标签"
 					],
@@ -1740,7 +1751,7 @@
 						"Package Control: Remove Package→删除程序包"
 					]
 				],
-				"width": 504.0
+				"width": 576.0
 			},
 			"console":
 			{
@@ -1768,134 +1779,134 @@
 			},
 			"file_history":
 			[
-				"/C/Users/i-robinzhou/Desktop/~WRL1159.tmp",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscript.xml",
-				"/D/Program Files/apache2.2/htdocs/index.html",
-				"/C/Program Files (x86)/Sublime Text3/README.md",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
-				"/D/Program Files/apache2.2/htdocs/html5/player.html",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html/test.html",
-				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/ads/adsgitlab/ovptest/web/js/player_vpaid.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/C/Users/i-robinzhou/Desktop/analyse.pl",
+				"/D/ads/adsgitlab/ovptest/web/js/flxhr/flXHR.js",
+				"/D/perl/stat2013.pl",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd.xml",
+				"/C/Users/i-robinzhou/Desktop/search.pl",
 				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
-				"/D/Program Files/apache2.2/htdocs/html5/index.html",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_vpaid.js",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
+				"/E/analyse.pl",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/C/Users/i-robinzhou/Desktop/查VV数据.sql",
+				"/C/Users/i-robinzhou/Desktop/temp",
+				"/D/perl/order.pm",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/result",
 				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSubscriptAd.js",
-				"/D/Program Files/apache2.2/htdocs/html/jquery2.0.3.js",
-				"/D/Python/incremental_people_attribute.py",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm_v1.0.jsp",
-				"/C/Users/i-robinzhou/Desktop/网盟推广系统.txt",
-				"/C/Users/i-robinzhou/Desktop/syncMaterial.php",
-				"/D/Program Files/apache2.2/htdocs/html5/selected.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/新建文本文档.txt",
-				"/D/vpaid/BgInterative.xml",
-				"/D/vpaid/Interactive.xml",
-				"/D/vpaid/VPAIDWrapper.js",
-				"/D/html5/vast_selectJsAd.xml",
-				"/D/vpaid/VPAIDSelectAd.js",
-				"/D/vpaid/VPAIDInteractiveAd.js",
-				"/D/vpaid/VPAIDBgInteractiveAd.js",
-				"/D/vpaid/test.html",
-				"/D/vpaid/Impress.js",
-				"/D/Program Files/apache2.2/conf/httpd.conf",
-				"/D/Program Files/httpd-2.4.7/docs/conf/httpd.conf.in",
-				"/D/vpaid/control.html",
-				"/D/vpaid/VPAIDSelectAd(1).js",
-				"/D/html5/js/player.js",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
-				"/D/html5/js/player_ovp.js",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档 (3).txt",
-				"/D/html/bootstrap/css/bootstrap.css",
-				"/D/vpaid/pic/button/1-1.png",
-				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
-				"/D/Python/writepa.py",
-				"/D/ads/adsgit/ovptest/web/js/player.js",
-				"/D/ads/adsgit/ads-vpaid/ad-player/vpaid_test.js",
-				"/D/vpaid/1.mp4",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint62_robinzhou_DBtablefile.sql",
-				"/D/ads/adsgit/ads-vnow/ikandelivery/src/main/webapp/painfo.jsp",
-				"/D/Python/pa.py",
-				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/system.sql",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档 (2).txt",
+				"/C/Users/i-robinzhou/Desktop/final.sql",
+				"/C/Users/i-robinzhou/Desktop/hive.sql",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/js/monthpicker/monthpicker.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_robinzhou_posmod_style.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql",
+				"/C/Users/i-robinzhou/Desktop/change ad position.sql",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/application.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/html_actuator.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/game_manager.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/grid.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/ai.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/jquery2.0.3.js",
+				"/D/Program Files/apache2.2/htdocs/monthpicker.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/test.html",
+				"/D/Program Files/apache2.2/htdocs/html/增加事件.html",
+				"/D/Program Files/apache2.2/htdocs/html/video.html",
+				"/D/Program Files/apache2.2/htdocs/html/div.html",
+				"/C/Users/i-robinzhou/Desktop/taobao/taobao.xml",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint14_robinzhou_getinfofix.sql",
+				"/C/Users/i-robinzhou/Desktop/test url.sh",
+				"/C/Users/i-robinzhou/Desktop/vpaid3.xml",
+				"/C/Users/i-robinzhou/Desktop/adlist.txt",
 				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
-				"/C/Users/i-robinzhou/Desktop/工商接口备份-周强写的.txt",
-				"/C/Users/i-robinzhou/Desktop/xxx.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/query/history_stat_cpm.jsp",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
-				"/C/Users/i-robinzhou/Desktop/backup.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_SDKmonitor.sql",
-				"/D/html/test.html",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/order/order_list_v2.0.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/css/style.css",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.ftl",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/app.config",
-				"/C/Users/i-robinzhou/Desktop/ad_exchange.log",
-				"/C/Users/i-robinzhou/Desktop/Data Source=192.168.30.116",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/Conf/Subscriptions.xml",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_list.jsp",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/exchange/dsp_detail.jsp",
-				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/customers.xsdconfig",
-				"/C/Users/i-robinzhou/Downloads/xmlbeans-2.6.0/bin/vast.xsdconfig",
-				"/E/overFrequency",
-				"/E/btcchina API",
-				"/D/Python/btcchina.py",
-				"/D/Python/json.json",
-				"/D/bip/bip.cmd",
-				"/D/bip/trunk/products/BIPlatform/CSharp.NET/BIPReportManagement/PPlive.Bip.ReportManager.csproj",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint59_robinzhou_getdatafromc#.sql",
-				"/C/Users/i-robinzhou/Desktop/ad_frequency_monitor.sql",
-				"/D/Python/my_try.py",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Pretty JSON.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
-				"/D/frequencyMonitor.json",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/overFrequencyWarn_v1.0.jsp",
-				"/D/html/div.html",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/JsFormat.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/EncodingHelper/EncodingHelper.sublime-settings",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint55_robinzhou_deleterelation.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-vnext_sprint47_yefeizhang_supportJsvpaidMtr.sql",
-				"/D/home/pplive/web/people_attribute",
-				"/D/home/logs/adlog_131121",
-				"/D/home/logs/adlog_131113",
-				"/D/Python/urlResponseCode.py",
-				"/D/Python/mail_sender.py",
-				"/D/home/logs/adlog_131117",
-				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
-				"/D/html/jquery2.0.3.js",
-				"/D/Python/people_attribute.py",
-				"/C/Users/i-robinzhou/Desktop/reporting service.txt",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/pep8_autoformat.sublime-settings",
-				"/D/Python/people attribute.py",
-				"/D/Python/attribute/plt_IAds_UserProperty_Dpid.csv",
-				"/D/Python/attribute/plt_IAds_UserProperty_UserName.csv",
-				"/D/html/html5/Impress.js",
-				"/D/html/Impress/vpaid.html",
-				"/D/html/Impress/Impress.js",
-				"/D/html/Impress/asset2.xml",
-				"/D/Impress.js",
-				"/D/test.html",
+				"/C/Users/i-robinzhou/Desktop/tmp.txt",
+				"/C/Users/i-robinzhou/Desktop/getChannelFile.sh",
+				"/C/Users/i-robinzhou/Downloads/ad_all.xml/ad_all.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/vpaid.xsd",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_ehtanren_adlog_throw.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_tagselector.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_districtdefine.sql",
+				"/C/Windows/System32/drivers/etc/test url.sh",
+				"/E/Music/许嵩.-.[自定义].专辑.(APE).cue",
+				"/E/Music/许嵩.-.[寻雾启示].专辑.(flac).cue",
+				"/E/Music/许嵩.-.[苏格拉没有底].专辑.(FLAC).cue",
+				"/E/Music/许嵩.-.[梦游计].专辑.(FLAC).cue",
+				"/E/Music/许嵩 - 梦游.cue",
+				"/E/Music/许嵩 - 梦游.aue",
+				"/E/Music/The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD3.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD2.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
+				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD3.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD2.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD1.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD2.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD3.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-I Had a Great Time.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅 - 问号.cue",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/policy.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd2.xml",
+				"/C/Users/i-robinzhou/Desktop/PPTV_DAAT.sql",
+				"/C/Users/i-robinzhou/Desktop/district.sql",
 				"/C/Users/i-robinzhou/Desktop/Impress.js",
-				"/C/Users/i-robinzhou/Downloads/秦时明月1-8全集/秦时明月之一荆轲外传【完结】.txt",
-				"/D/ads/adsgit/ads-vnow/ppAdManager/src/main/webapp/material/material_mod.jsp"
+				"/C/Users/i-robinzhou/Desktop/20140307184919_Impress.js",
+				"/C/Users/i-robinzhou/Downloads/svg/css/style.css",
+				"/C/Users/i-robinzhou/Downloads/svg/index.html",
+				"/C/Users/i-robinzhou/Downloads/svg/js/raphael.js",
+				"/C/Users/i-robinzhou/Downloads/svg/js/script.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/C/Users/i-robinzhou/Downloads/svg/js/raphael-min.js",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/policy.xml",
+				"/D/Python/memory",
+				"/D/xxxxxxxxx/uv01-27.txt",
+				"/D/xxxxxxxxx/sum.txt",
+				"/D/xxxxxxxxx/uv21-27.txt",
+				"/D/xxxxxxxxx/uv14-20.txt",
+				"/D/xxxxxxxxx/uv07-13.txt",
+				"/D/xxxxxxxxx/uv01-06.txt",
+				"/C/Users/i-robinzhou/Desktop/system.csv",
+				"/C/Users/i-robinzhou/Desktop/查VV数据",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/C/Users/i-robinzhou/Desktop/sort.txt",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/U/.ssh/known_hosts",
+				"/U/.gitconfig"
 			],
 			"find":
 			{
@@ -1914,141 +1925,164 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"showFirstVideo",
-					"show",
-					"showVideoSelDiv",
-					"autobuffer",
-					"resizeAd",
-					"resize",
-					"/\";\n",
-					"_getWindowInfo",
-					"resizeAd",
-					"resizeAd\nresizeAd",
-					"resizeAd",
-					"resize",
-					"stopAd",
-					"<video",
-					"settimeout",
-					"_executeSubscribe",
-					"et =",
-					"initReqErrLog",
-					"initReqErrLog(",
-					"initReqErrLog(8",
-					"start",
-					"de.as",
-					"_controlBar",
-					"de.as",
-					"super",
-					"\n",
-					"script",
-					"\n",
-					"delete",
-					"},\n",
-					"	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n",
-					"ctrl+shift+k",
-					"z-index",
-					"de.as.",
-					"de.as.pptv",
-					"console.info",
-					"initControlBar",
-					"vdjump",
-					"send_mail",
-					"_customselect",
-					"destroyVideo",
-					"vpaidStop",
-					"onStopAd",
-					"onAd_complete",
-					"de.as",
-					"destroyVideo",
-					"doEnd",
-					"destroyVideo",
-					"vpaidVideoEnd",
+					"StartOverlapPoint",
+					"doUnMute",
+					"finishPlay",
+					"playAds",
+					"callback",
 					"doPauseClose",
-					"destroySelf",
-					"destroyVideo",
-					"vpaidVideoEnd",
-					"vpaidStop",
-					"vpaidVideoEnd",
-					"onStopAd",
-					"AdStopped",
-					"vpaid",
-					"200784",
-					"TA201312261709340015",
-					"O201312261644370003",
-					"destroyTimeInterval",
-					"_getCreative",
-					"destroyAutoMove",
-					"slideDown",
-					"fadeIn",
-					"_auto",
-					"direction",
-					"sps",
-					"margin",
-					"marginLeft",
-					"margin-Left",
-					"document",
-					"documentR",
-					"remove",
-					"url",
-					"_throwMatchEvent",
-					"ad_video_click",
-					"onAd_video_click",
-					"_sd",
-					"onAd_complete",
-					"url",
-					"_executeSubscribe",
+					"overlayclose",
+					"isNonLinear",
+					"isSpecialAd",
+					"isNonLinear",
+					"console.",
+					"isSpecialAd",
+					"VideoConfig",
+					"ovp-video",
+					"shade",
+					"shape",
+					"isPauseAd",
+					"isSpecialAd",
+					"isNonLinear",
+					"managedVideo",
+					"overlayclose",
 					"click",
-					"1024",
-					"timeout",
-					"+k",
-					"Remain",
-					"{\n",
-					"‘",
-					"’",
-					"‘width’",
-					"/",
-					"/>",
-					" \n",
-					">\n",
-					"-->\n",
-					"function",
-					"left",
-					"absolute",
-					"position",
-					"absolute",
-					"relative",
-					"position",
-					"cccccc",
-					"background",
-					"pointer",
-					"absolute",
-					"position",
-					"solid",
-					"border",
-					"width",
-					"\n#",
-					"initAd",
-					"startAd",
-					"start",
-					"onAd_load",
-					"ad_load",
-					"init",
-					"ad_load",
-					"_executeSubscribe",
-					"_slot",
-					"player.as.pptv.com",
-					"for",
-					"http://www.pptv.com/?page=3&rnd=1388051673102",
-					"http://www.hao123.com/?page=3&rnd=1388051591019",
-					"_isCloseWindow",
-					"ad_time_change"
+					"addEvent",
+					"de.as",
+					"doClick",
+					"doSpecialClose",
+					"doMute",
+					"inish",
+					"isFinish",
+					"doClick",
+					"callNotice",
+					"callbackNo",
+					"10",
+					"isPauseAd",
+					"isVpaidAd",
+					"callbackN",
+					"req",
+					"cltIsMinwindow",
+					"_ovp",
+					"ovp",
+					"callbackNotice",
+					"callback",
+					"isPauseAd",
+					"cltAdType",
+					"pos",
+					"isNonLinear",
+					"callbackNotice",
+					"pauseclick",
+					"AdOpenUrl",
+					"pauseclick",
+					"callbackNotice",
+					"pauseclick",
+					"doClick",
+					"click",
+					"onclick",
+					"异形",
+					"linear",
+					"showPanel",
+					"embedSWF",
+					"srctype",
+					"canPlay",
+					"img",
+					"jpg",
+					"canPlay",
+					"vpaidAdPlayer",
+					"isVpaidSupported",
+					"_pluginCaller",
+					"_getPlayerTestFunction",
+					"_config",
+					"_getPlayerTestFunction",
+					"_getVideoObject",
+					"_pluginCaller",
+					"_getVideoObject",
+					"_getPlayerTestFunction",
+					"_pluginCaller",
+					"strategy",
+					"plugins",
+					"_pluginCaller",
+					"_getPlayerTestFunction",
+					"_pluginCaller",
+					"_getVideoObject",
+					"_playerRender",
+					"playVideo",
+					"genPlayConfig",
+					"NonLin",
+					"doStart",
+					"genPlayConfig",
+					"_playerRender",
+					"playVideo",
+					"genPlayConfig",
+					"doStart",
+					"genPlayConfig",
+					"showEx",
+					"playAds",
+					"startPlay",
+					"callNotice",
+					"异形气泡",
+					"callNotice",
+					"cal",
+					"pos",
+					"callNotice",
+					"adsLong",
+					"startPlay",
+					"callVast",
+					"parseAd",
+					"_parseNonLinearAd",
+					"IgnoreAdvert",
+					"_parseNonLinearAd",
+					"parseAd",
+					"_parseNonLinearAd",
+					"NonLinear",
+					"nonliner",
+					"nonLinear",
+					"callVast",
+					"getAdAndPlay",
+					"rebuildVasturl",
+					"isPauseAd",
+					"rebuildVasturl",
+					"callNotice",
+					"parseRequestPara",
+					"CHANNEL_LOCALFILE",
+					"volumebtn",
+					"parseRequestPara",
+					"cltad",
+					"getClientWindowAd",
+					"external",
+					"AdWebCallBack",
+					"external"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"01",
+					"amount",
+					"\"",
+					"",
+					"'",
+					"1556",
+					"ad_PPTV_DAAT",
+					"140401",
+					"@dt",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"ik_StartDelay",
+					"pltb_play",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"clt",
+					"cl_Play",
+					"iphone",
+					"102",
+					"",
+					"int",
+					"",
+					"id",
 					"_direction",
 					"_sps",
 					"onAd_Controlbar_click",
@@ -2074,7 +2108,7 @@
 			"groups":
 			[
 				{
-					"selected": 7,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -2083,20 +2117,20 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 918,
+								"buffer_size": 1079,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										677,
-										677
+										851,
+										851
 									]
 								],
 								"settings":
 								{
-									"encoding_helper_encoding": "cp936",
+									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
@@ -2108,264 +2142,90 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDTest.js",
+							"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 39179,
+								"buffer_size": 1705,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										39179,
-										39179
+										435,
+										435
 									]
 								],
 								"settings":
 								{
-									"encoding_helper_encoding": "cp936",
+									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"syntax": "Packages/XML/XML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 21599.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 38833,
+								"buffer_size": 127099,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										34372,
-										34297
+										43149,
+										43149
 									]
 								],
 								"settings":
 								{
-									"encoding_helper_encoding": "",
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 19226.0,
+								"translation.y": 22530.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 14152,
+								"buffer_size": 208109,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1241,
-										1241
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "cp936",
-									"origin_encoding": "UTF-8 with BOM",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 490.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/Program Files/apache2.2/htdocs/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 254,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										254,
-										254
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/HTML/HTML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 39425,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										20479,
-										20479
+										118418,
+										118418
 									]
 								],
 								"settings":
 								{
 									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1231.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/Interactive.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7507,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1394,
-										1394
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/VPAID.xsd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 535,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										357,
-										357
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/XML/XML.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3250,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2990,
-										2995
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "cp936",
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 570.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/C/Users/i-robinzhou/Desktop/hive.sql",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4638,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4638,
-										4638
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"syntax": "Packages/SQL/SQL.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 722.0,
+								"translation.y": 20516.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2406,9 +2266,9 @@
 			"menu_visible": false,
 			"output.exec":
 			{
-				"height": 143.0
+				"height": 154.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,900,0,0,1600",
+			"position": "0,2,3,-32000,-32000,-1,-1,726,457,210,1456",
 			"project": "",
 			"replace":
 			{
@@ -2421,16 +2281,16 @@
 				"selected_items":
 				[
 					[
+						"impr",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
+					],
+					[
 						"bgin",
 						"VPAIDBgInteractiveAd.js"
 					],
 					[
 						"vpaid",
 						"VPAIDInteractiveAd.js"
-					],
-					[
-						"impr",
-						"Impress.js"
 					],
 					[
 						"people",
@@ -2445,11 +2305,11 @@
 			},
 			"select_project":
 			{
-				"height": 500.0,
+				"height": 838.0,
 				"selected_items":
 				[
 				],
-				"width": 380.0
+				"width": 1600.0
 			},
 			"select_symbol":
 			{
@@ -2463,15 +2323,15 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 165.0,
+			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 13,
 			"workspace_name": ""
 		}
 	],
@@ -2479,7 +2339,6 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/vpaid/vpaid.sublime-workspace"
 		]
 	}
 }

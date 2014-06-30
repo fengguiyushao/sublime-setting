@@ -1,59 +1,9 @@
 {
-	"packages":
-	[
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SublimeFormatSQL",
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SublimeFormatSQL",
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SublimeFormatSQL",
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SublimeFormatSQL",
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SublimeFormatSQL",
-		"Git",
-		"jQuery",
-		"JsFormat",
-		"JSONLint",
-		"Package Control",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"SublimeFormatSQL",
-		"SublimeLinter-xmllint"
-	],
 	"syntax":
 	{
-		"HTML": 1,
-		"XML": 7
+		"JavaScript": 386,
+		"Plain text": 87,
+		"XML": 18
 	},
-	"time": 1390701286
+	"time": 1403489356
 }
