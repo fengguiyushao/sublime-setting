@@ -1,0 +1,2369 @@
+{
+	"folder_history":
+	[
+		"/D/ads/adsgitlab/ovptest",
+		"/D/Python",
+		"/D/Program Files/apache2.2/htdocs/html5",
+		"/E/CreateJS",
+		"/D/vpaid",
+		"/C/Users/i-robinzhou/Downloads/7bfb145a-71b7-4ec1-80e6-7fa1bb671b1e"
+	],
+	"last_version": 3038,
+	"last_window_id": 20,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 591.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"crea",
+						"createElement"
+					],
+					[
+						"_bg",
+						"_bgPic"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"vaspop",
+						"vaspopupClickTrackings"
+					],
+					[
+						"ins",
+						"instname"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"click",
+						"clickHref"
+					],
+					[
+						"window",
+						"Windows"
+					],
+					[
+						"File",
+						"FileUrl"
+					],
+					[
+						"m3",
+						"m3u8file"
+					],
+					[
+						"m3u8",
+						"m3u8file"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"mp4",
+						"mp4name"
+					],
+					[
+						"v",
+						"vpaidType"
+					],
+					[
+						"ThirdM",
+						"ThirdMonitorJson"
+					],
+					[
+						"Thir",
+						"ThirdMonitorClick"
+					],
+					[
+						"font",
+						"fontbold"
+					],
+					[
+						"fon",
+						"fontsize"
+					],
+					[
+						"Thrid",
+						"ThirdMonitorEnd"
+					],
+					[
+						"Third",
+						"ThirdMonitorStart"
+					],
+					[
+						"l",
+						"link"
+					],
+					[
+						"Crea",
+						"CreateUser"
+					],
+					[
+						"ex",
+						"extraMacros"
+					],
+					[
+						"se",
+						"Sequence"
+					],
+					[
+						"mediaTy",
+						"mediaTypeArr"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"shade",
+						"_shadeAddListener"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"backgr",
+						"background-size"
+					],
+					[
+						"exten",
+						"extendedClass"
+					],
+					[
+						"posid",
+						"posid"
+					],
+					[
+						"sptH",
+						"sptHardTemplate"
+					],
+					[
+						"video",
+						"videoconf"
+					],
+					[
+						"preload",
+						"preloadSrc"
+					],
+					[
+						"api",
+						"apiurl"
+					],
+					[
+						"choo",
+						"chooseTime"
+					],
+					[
+						"answer",
+						"answerParam"
+					],
+					[
+						"third",
+						"thirdmonitor"
+					],
+					[
+						"vpa",
+						"vpaidXml"
+					],
+					[
+						"q",
+						"questioncount"
+					],
+					[
+						"answe",
+						"answercount"
+					],
+					[
+						"lastp",
+						"lastPicjump"
+					],
+					[
+						"lastP",
+						"lastPic"
+					],
+					[
+						"Extension",
+						"Extensions"
+					],
+					[
+						"ext",
+						"Extensions"
+					],
+					[
+						"ad_video",
+						"ad_video_click"
+					],
+					[
+						"post",
+						"poster"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"ad_",
+						"ad_video_click"
+					],
+					[
+						"tri",
+						"trigger	.trigger()"
+					],
+					[
+						"_cur",
+						"_curIndex"
+					],
+					[
+						"pause",
+						"pause"
+					],
+					[
+						"choose",
+						"chooseimg"
+					],
+					[
+						"choosei",
+						"chooseImgSrc"
+					],
+					[
+						"node",
+						"nodeName"
+					],
+					[
+						"_sele",
+						"_selectedIndex"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_",
+						"_currentTime"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"child",
+						"child"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"getE",
+						"getElementsByTagName"
+					],
+					[
+						"answerco",
+						"answercount"
+					],
+					[
+						"_get",
+						"_getAnswerPosLeft"
+					],
+					[
+						"answ",
+						"answerDivWidth"
+					],
+					[
+						"anse",
+						"answerimg"
+					],
+					[
+						"answerd",
+						"answerdiv"
+					],
+					[
+						"not",
+						"notchoosed"
+					],
+					[
+						"creat",
+						"creatives"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"css",
+						"cssText"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"bg",
+						"bgdiv"
+					],
+					[
+						"_add",
+						"_addListener"
+					],
+					[
+						"_vi",
+						"_videoJump"
+					],
+					[
+						"fs",
+						"fsipd"
+					],
+					[
+						"plat",
+						"platform"
+					],
+					[
+						"fsi",
+						"fsiph"
+					],
+					[
+						"encode",
+						"encodeURIComponent"
+					],
+					[
+						"back",
+						"backupAdList"
+					],
+					[
+						"play",
+						"playcontext"
+					],
+					[
+						"file",
+						"fileUrlList"
+					],
+					[
+						"show",
+						"showt"
+					],
+					[
+						"cont",
+						"context"
+					],
+					[
+						"platc",
+						"playcontext"
+					],
+					[
+						"or",
+						"oralAdTime"
+					],
+					[
+						"recal",
+						"recalcOralAdTime"
+					],
+					[
+						"ads",
+						"adsposibility"
+					],
+					[
+						"iph",
+						"iph"
+					],
+					[
+						"vol",
+						"volume_on"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"div",
+						"div_id"
+					],
+					[
+						"scr",
+						"screen"
+					],
+					[
+						"resize",
+						"resizeRato"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"send",
+						"sendMonitorUrl"
+					],
+					[
+						"ismid",
+						"isMidRollAd_global"
+					],
+					[
+						"compa",
+						"compareVersion"
+					],
+					[
+						"volu",
+						"volume_on"
+					],
+					[
+						"monit",
+						"monitor"
+					],
+					[
+						"medi",
+						"mediaFile"
+					],
+					[
+						"rebuild",
+						"rebuildWebAdUrl"
+					],
+					[
+						"gene",
+						"generateWebAdUrl"
+					],
+					[
+						"silver",
+						"SilverlightVideo"
+					],
+					[
+						"mana",
+						"managedVideo"
+					],
+					[
+						"clt",
+						"cltIsAdMute"
+					],
+					[
+						"isSP",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"seq",
+						"sequence"
+					],
+					[
+						"getPo",
+						"getAdPositionId"
+					],
+					[
+						"ob",
+						"Object"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"ge",
+						"generateJsonUrl"
+					],
+					[
+						"reb",
+						"rebuildJsonurl"
+					],
+					[
+						"initReq",
+						"initReqErrLog"
+					],
+					[
+						"before",
+						"beforeSend"
+					],
+					[
+						"ajaxt",
+						"ajaxTimes"
+					],
+					[
+						"ajaxTime",
+						"ajaxTimeouts"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"callback",
+						"callbackFn"
+					],
+					[
+						"isspec",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"cltad",
+						"cltad"
+					],
+					[
+						"isspe",
+						"isSpecialAd_global"
+					],
+					[
+						"add",
+						"addLoop"
+					],
+					[
+						"call",
+						"callNotice"
+					],
+					[
+						"posi",
+						"position"
+					],
+					[
+						"else",
+						"else块"
+					],
+					[
+						"local",
+						"localurl"
+					],
+					[
+						"start",
+						"startDate"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"selected_items":
+				[
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"mp",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"back",
+						"Preferences: Browse Packages→浏览程序包"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"mdk",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"GIT:",
+						"Git: Commit history"
+					],
+					[
+						"li",
+						"Permute Lines: Unique→唯一"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"int",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装程序包"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package→删除程序包"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"print(1);",
+					"print(1)",
+					"print \"1\"",
+					"print '1'",
+					"console.info(true)",
+					"print 'll'",
+					"print ll",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDImpressAd2.0.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/C/Users/i-robinzhou/Desktop/10.csv",
+				"/C/Users/i-robinzhou/Desktop/30.csv",
+				"/C/Users/i-robinzhou/Desktop/39.csv",
+				"/C/Users/i-robinzhou/Desktop/12.csv",
+				"/C/Users/i-robinzhou/Desktop/11.csv",
+				"/C/Users/i-robinzhou/Desktop/m3u8.py",
+				"/D/ads/adsgitlab/peopleAttributeRedis/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/nocrm.sql",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/C/Users/i-robinzhou/Desktop/hosts - 快捷方式.lnk",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-template/m3u8.py",
+				"/D/ads/adsgitlab/ads-template/ppx_common.js",
+				"/D/Python/m3u8.py",
+				"/C/Users/i-robinzhou/Downloads/fedora-163.repo",
+				"/D/Python/ipaddress/test.py",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/Python/ad_position_daily_pv.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.py",
+				"/C/Users/i-robinzhou/Desktop/IP_20131211库/superadmin.csv",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.txt",
+				"/D/Python/ipaddress/ip_address.py",
+				"/D/Python/ipaddress/data/116.txt",
+				"/D/perl/analyse.pl",
+				"/D/Python/pyftp.py",
+				"/D/Python/IP.py",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/i-robinzhou/Desktop/ads_sprint_30_robinzhou_ordermail_baseonorderMVC.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint59-Jackli-PPAdExchange-SystemVar-Config.sql",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/throwInfoChange_v1.0.ftl",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/C/Users/i-robinzhou/Desktop/公益频道.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/C/Users/i-robinzhou/Desktop/error (2)",
+				"/E/material/m3u8/bose141008tyqt30s.m3u8",
+				"/C/Users/i-robinzhou/Desktop/ed141007",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/i-robinzhou/Desktop/ed",
+				"/E/material/20140929101453_guangliang.m3u8",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/C/Users/i-robinzhou/Desktop/error",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2 (2).m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/C/Users/i-robinzhou/Desktop/ed (2)",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2.m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/intractivead.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/ads/adsgitlab/ovptest/web/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/css/vpaid.css",
+				"/C/Users/i-robinzhou/Downloads/vast3_draft.xsd (1)/vast3_draft.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/ads/adsgitlab/ovptest/web/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_batch_create_throwactivity.jsp",
+				"/C/Users/i-robinzhou/Downloads/683213d3e2558e2e5b5a3a72b044d626 (1).m3u8",
+				"/C/Users/i-robinzhou/Downloads/13de45d549c48ea4d4f9043759766ece.m3u8",
+				"/D/ed (2)",
+				"/C/Users/i-robinzhou/Desktop/errorType",
+				"/D/ads/adsgitlab/ads-vpaid/configXML/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/mutils.xml",
+				"/D/ed",
+				"/D/error",
+				"/C/Users/i-robinzhou/Desktop/customer2.csv",
+				"/C/Users/i-robinzhou/Desktop/customer1.csv",
+				"/D/error (2)",
+				"/C/Users/i-robinzhou/Desktop/daat.csv",
+				"/U/.ssh/id_rsa.pub",
+				"/D/Program Files/apache2.2/htdocs/vpaid/Interactive.xml",
+				"/E/material/ed",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_ad_list.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/tgvasttag.xml",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/system variable.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/Wrapper.swf",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/wrapper_test.js",
+				"/D/Program Files/apache2.2/htdocs/html5/ImpressBuild.xml",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.txt",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/vpaid/vpaid_material_Impress.jsp",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.json",
+				"/C/Users/i-robinzhou/Desktop/chargeType.csv",
+				"/D/ads/adsgitlab/ads-vpaid/flashsource/Wrapper/Wrapper.as3proj",
+				"/D/ads/adsgitlab/.gitignore",
+				"/C/Windows/System32/drivers/etc/lmhosts.sam",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/test.html",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint20_robinzhou_pagead.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint16_suliangbo_positionListPage.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint19_suliangbo_peopleAttributePopPage.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
+				"/D/Program Files/apache2.2/htdocs/vpaid/BgInterative.xml",
+				"/D/Python/writepa.py",
+				"/C/ProgramData/PPLive/PPTV/Cache/pluginad/AdPolicy.Xml",
+				"/C/Users/i-robinzhou/Desktop/taobao/taobao.xml",
+				"/D/ads/adsgitlab/ovptest/web/js/ovp.js",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/policy.xsd",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint19_robinzhou_tagEdit.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_selectJsAd.xml",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_thirdAd.xml",
+				"/D/home/pplive/web/people_attribute",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/target/ppadmanager/admin.jsp",
+				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"pauseAd",
+					"stopAd",
+					"_executeSubscribe",
+					"_isPause",
+					"cssText",
+					"_lastPicDiv",
+					"_videoSize",
+					"_calc_videoSize",
+					"LastPic",
+					"getCurrentTime",
+					"currentTime",
+					"resumeAd",
+					"暂停",
+					"subject",
+					"divWidth",
+					"application/javascript",
+					"choosed",
+					"CASUSLLOOKVIDEO",
+					"defaultstr",
+					"parsePolicy",
+					"getPolicy",
+					"300100",
+					"fop",
+					"浮层",
+					"parsePolicy",
+					"getPolicy",
+					"浮层",
+					"SDKMatcher",
+					"createMonitorObj",
+					"ownerMatcher",
+					"needUseSDK",
+					"monitorurl",
+					"protectiontime",
+					"MAX_VALUE",
+					"rlen",
+					"后贴",
+					"initReqErrLog(4",
+					"4",
+					"et = 4",
+					"et = 101",
+					"sendExceptionLog",
+					"et = 20",
+					"CASUSLLOOKVIDEO",
+					"渠道",
+					"checkUrl",
+					"sendMonitorUrl",
+					"createMonitorObj",
+					"vaspopupClickTrackings",
+					"sendMonitorUrl",
+					"checkUrl",
+					"sendMonitorUrl",
+					"vaspopupClickTrackings",
+					"alert",
+					"vaspopupClickTrackings",
+					"callbackNotice",
+					"creative",
+					"callNotice",
+					"doStart",
+					"clickTrackings",
+					"概率",
+					"callbackNotice",
+					"CHANNEL_LOCALFILE",
+					"callbackNotice",
+					"clickTrackings",
+					"ProductTypeId(.*),",
+					"ProductTypeId(\": 0),",
+					"ProductTypeId.*,",
+					".*UpDate.*",
+					"\\n",
+					".*\"CreateDate\".*",
+					"\"CreateDate.*",
+					"\"",
+					"\");",
+					"\", \"",
+					"This XML file does not appear to have any style information associated with it. The document tree is shown below.\n<AD width=\"0\" height=\"0\" type=\"String\" startPlay=\"0\" pos=\"String\" duration=\"15\" id=\"String\">\n<Player frameRate=\"24\">\n<![CDATA[\nhttp://asimgs.pplive.cn/imgs/materials/2014/10/22/20141022162330_Taobao.swf\n]]>\n</Player>\n<Interactions>\n<Events>\n<!-- 【通用事件】 -->\n<Event name=\"ad_load\" match=\"AdLoaded\"/>\n<!-- 广告UI展示层被加载完毕  -->\n<Event name=\"ad_start\" match=\"AdStarted\"/>\n<!-- 广告UI展示层开始展示，开始播放 -->\n<Event name=\"ad_skip\" match=\"AdSkipped\"/>\n<!-- 广告跳过  -->\n\n<Event name=\"ad_complete\" match=\"AdStopped\"/>\n<!-- 广告UI展示层播放结束，开始播放其他广告或者正片 -->\n<Event name=\"ad_error\" match=\"AdError\"/>\n<!-- 广告UI展示层发生错误，通知wrapper，进行相应处理 -->\n<Event name=\"ad_time_change\" match=\"AdRemainingTimeChange\"/>\n<!-- 广告时间发生改变 -->\n<!-- 【视频事件】 -->\n<Event name=\"ad_video_start\" match=\"AdVideoStart\"/>\n<!-- 视频资源开始播放 -->\n<Event name=\"ad_video_complete\" match=\"AdVideoComplete\"/>\n<!-- 视频资源播放结束 -->\n<Event name=\"ad_volume_change\" match=\"AdVolumeChange\"/>\n<!-- 视频声音发生改变 -->\n<Event name=\"ad_video_1stQ\" match=\"AdVideoFirstQuartile\"/>\n<!-- 视频25% -->\n<Event name=\"ad_video_2ndQ\" match=\"AdVideoMidpoint\"/>\n<!-- 视频50% -->\n<Event name=\"ad_video_3rdQ\" match=\"AdVideoThirdQuartile\"/>\n<!-- 视频75% -->\n<Event name=\"ad_video_pause\"/>\n<!-- 广告内的视频播放，应对交互暂停的情况 -->\n<Event name=\"ad_video_click\" match=\"AdClickThru\"/>\n<!-- 视频素材被点击 -->\n</Events>\n<Methods>\n<Method name=\"init\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"object\" optional=\"false\"/>\n</Method>\n<Method name=\"resize\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"width\" optional=\"false\"/>\n<Param index=\"2\" type=\"Number\" name=\"height\" optional=\"false\"/>\n<Param index=\"3\" type=\"String\" name=\"mode\" optional=\"true\"/>\n</Method>\n<Method name=\"startup\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"object\" optional=\"false\"/>\n</Method>\n<Method name=\"erase\" returnType=\"Void\"/>\n</Methods>\n</Interactions>\n<Assets>\n<Asset id=\"0\" width=\"640\" duration=\"15\" height=\"360\" type=\"swf\" bitrate=\"516\">\n<Url>\n<![CDATA[\nhttp://cdn.tanx.com/t/v/paster.swf?pid=mm_15191080_2147689_25770393&u=http://pptv.com&show=1\n]]>\n</Url>\n<Traces>\n<Tracing trigger=\"ad_start\"/>\n<Tracing trigger=\"ad_complete\"/>\n<Tracing trigger=\"ad_video_click\"/>\n</Traces>\n</Asset>\n</Assets>\n</AD>",
+					"rlen",
+					"doVpaidClick",
+					"act",
+					"IsSerial",
+					"7",
+					"sendM",
+					"ver",
+					"sendMonitorUrl",
+					"cltclick",
+					"pauseclick",
+					"cltclick",
+					"doEnd",
+					"]]>",
+					"<![CDATA[",
+					"ptye",
+					"protype",
+					"ptye",
+					"log",
+					"protype",
+					"pos",
+					"notifier",
+					"v",
+					"clickTrackings",
+					"CREATE TABLE `ad_throwgroup` (\n  `Uid` char(255) NOT NULL DEFAULT '',\n  `GroupCode` varchar(50) NOT NULL,\n  `StartDate` datetime NOT NULL,\n  `EndDate` datetime NOT NULL,\n  `AdPositionId` bigint(20) NOT NULL,\n  `VastPlatformValue` bigint(20) NOT NULL DEFAULT '0',\n  `MaterialPlayType` int(11) DEFAULT '0',\n  `ACnielsenFlag` int(11) NOT NULL DEFAULT '0',\n  `PlayHourPeriod` varchar(255) NOT NULL,\n  `ChargeType` bigint(20) NOT NULL,\n  `CreateTime` datetime DEFAULT '1900-01-01 01:01:01',\n  `CreateUser` varchar(50) DEFAULT NULL,\n  `Status` int(11) DEFAULT '0',\n  `exclusiveFlag` int(11) DEFAULT NULL,\n  `Frequency` longtext,\n  `BindAdCode` varchar(255) DEFAULT NULL,\n  `AllowEndAd` int(11) DEFAULT NULL,\n  `OrderCode` varchar(50) NOT NULL,\n  `SaleType` bigint(20) DEFAULT NULL,\n  `ProductId` bigint(20) DEFAULT NULL,\n  `FeeRange` bigint(20) DEFAULT NULL,\n  `Amount` double DEFAULT NULL,\n  `Discount` float DEFAULT NULL,\n  `Cpm` bigint(20) NOT NULL,\n  `CPMAverage` int(11) NOT NULL DEFAULT '1',\n  `Deleted` tinyint(4) NOT NULL DEFAULT '0',\n  `ModifiedBy` varchar(255) DEFAULT NULL,\n  `ModifiedOn` datetime DEFAULT NULL,\n  `Version` bigint(20) NOT NULL DEFAULT '0',\n  `Extended` longtext,\n  `MaxFrequency` int(11) NOT NULL DEFAULT '0',\n  `frequencyPeriod` int(11) NOT NULL DEFAULT '0',\n  `MinFrequency` int(11) NOT NULL DEFAULT '0',\n  `Priority` int(11) NOT NULL DEFAULT '0',\n  `MaterialStatus` int(11) NOT NULL DEFAULT '0',\n  `Title` char(255) NOT NULL,\n  `CustomerId` bigint(20) NOT NULL,\n  `IsAutoResupply` int(4) DEFAULT '0' COMMENT '是否自动补量',\n  `IpLib` varchar(50) NOT NULL DEFAULT '001',\n  `CompetingCustomerIds` text,\n  `hourPeriodJson` text,\n  `isBlackAd` int(4) NOT NULL DEFAULT '0',\n  `statUrlConfig` varchar(255) DEFAULT '1000,1001',\n  `adExchangeType` int(10) DEFAULT NULL COMMENT '选择的adexchange',\n  `adExchangeAuctionType` int(10) DEFAULT NULL COMMENT '竞价方式',\n  `itemTag` text,\n  `throwType` tinyint(4) NOT NULL DEFAULT '0' COMMENT '投放方式',\n  `subThrowType` tinyint(4) NOT NULL DEFAULT '0' COMMENT '投放方式二级类型',\n  `refCoef` float NOT NULL DEFAULT '0' COMMENT 'admaster关联阈值参考值',\n  `coef` float NOT NULL DEFAULT '0' COMMENT 'admaster关联阈值',\n  `districtIds` varchar(255) NOT NULL DEFAULT '',\n  `deviceModel` text COMMENT '定投机型',\n  `peopleTagIds` text NOT NULL COMMENT '人群定投',\n  `isOralAd` int(11) NOT NULL DEFAULT '0',\n  `sKeyWord` varchar(255) DEFAULT NULL,\n  PRIMARY KEY (`Uid`),\n  KEY `inx_GroupCode` (`GroupCode`),\n  KEY `inx_OrderCode` (`OrderCode`)\n) ENGINE=InnoDB DEFAULT CHARSET=utf8",
+					"alert",
+					"customClicks",
+					"clickTrackings",
+					"customClicks",
+					"cltclick",
+					"pauseclick",
+					"cltclick",
+					"finish",
+					"alert",
+					"finish",
+					"shade",
+					"object",
+					"external",
+					"needShadeWindow",
+					"ovp-shade",
+					"external",
+					"customClicks",
+					"callbackNotice",
+					"doClick",
+					"length",
+					"finish",
+					"doEnd",
+					"callbackNotice",
+					"pauseclick",
+					"cltAdType",
+					"pauseclick",
+					"setNotifyCallback",
+					"callbackNotice",
+					"click"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"_bgPicDiv",
+					"BgPic",
+					"ProductTypeId$1",
+					"ProductTypeId\\1",
+					"",
+					"\"",
+					"=",
+					"ptye",
+					"%s",
+					"141007",
+					"dt =140929",
+					"140928 and hour >12",
+					"140927",
+					"140921",
+					"dt =140917",
+					"140916 and hour >= 16",
+					"140915 and hour >= 18",
+					"140916",
+					"140914",
+					"140910",
+					"ad_video_complete",
+					"player.as.pptv.com",
+					"object",
+					"",
+					"html5_vars.cltIsAdMute = !this.volume_on;",
+					"01",
+					"amount",
+					"\"",
+					"",
+					"'",
+					"1556",
+					"ad_PPTV_DAAT",
+					"140401",
+					"@dt",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"ik_StartDelay",
+					"pltb_play",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"clt",
+					"cl_Play",
+					"iphone",
+					"102",
+					"",
+					"int",
+					"",
+					"id",
+					"_direction",
+					"_sps",
+					"onAd_Controlbar_click",
+					"",
+					"_ViewDiv",
+					"View",
+					"_Creative",
+					"_destroyTimeInterval",
+					"P",
+					"F",
+					"$",
+					"@",
+					"that._btntype",
+					"-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 154.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"impr",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
+					],
+					[
+						"bgin",
+						"VPAIDBgInteractiveAd.js"
+					],
+					[
+						"vpaid",
+						"VPAIDInteractiveAd.js"
+					],
+					[
+						"people",
+						"D:\\Python\\incremental_people_attribute.py"
+					],
+					[
+						"",
+						"E:\\vpaid-test\\Impress\\Impress.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 838.0,
+				"selected_items":
+				[
+				],
+				"width": 1600.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1130.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"val",
+						"value"
+					],
+					[
+						"htl",
+						"html	.html()"
+					],
+					[
+						"material",
+						"materialPreview"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"init",
+						"initchooseAdvPHP"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"rem",
+						"removeClass	.removeClass()"
+					],
+					[
+						"this",
+						"this	$(this)"
+					],
+					[
+						"playerH",
+						"playerHandles"
+					],
+					[
+						"pl",
+						"playerHandles"
+					],
+					[
+						"new",
+						"newdiv"
+					],
+					[
+						"video",
+						"videoconfig"
+					],
+					[
+						"show",
+						"showTime"
+					],
+					[
+						"play",
+						"playtime"
+					],
+					[
+						"_video",
+						"_videodiv"
+					],
+					[
+						"crea",
+						"createElement"
+					],
+					[
+						"_bg",
+						"_bgPic"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"vaspop",
+						"vaspopupClickTrackings"
+					],
+					[
+						"ins",
+						"instname"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"click",
+						"clickHref"
+					],
+					[
+						"window",
+						"Windows"
+					],
+					[
+						"File",
+						"FileUrl"
+					],
+					[
+						"m3",
+						"m3u8file"
+					],
+					[
+						"m3u8",
+						"m3u8file"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"mp4",
+						"mp4name"
+					],
+					[
+						"v",
+						"vpaidType"
+					],
+					[
+						"ThirdM",
+						"ThirdMonitorJson"
+					],
+					[
+						"Thir",
+						"ThirdMonitorClick"
+					],
+					[
+						"font",
+						"fontbold"
+					],
+					[
+						"fon",
+						"fontsize"
+					],
+					[
+						"Thrid",
+						"ThirdMonitorEnd"
+					],
+					[
+						"Third",
+						"ThirdMonitorStart"
+					],
+					[
+						"l",
+						"link"
+					],
+					[
+						"Crea",
+						"CreateUser"
+					],
+					[
+						"ex",
+						"extraMacros"
+					],
+					[
+						"se",
+						"Sequence"
+					],
+					[
+						"mediaTy",
+						"mediaTypeArr"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"shade",
+						"_shadeAddListener"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"backgr",
+						"background-size"
+					],
+					[
+						"exten",
+						"extendedClass"
+					],
+					[
+						"posid",
+						"posid"
+					],
+					[
+						"sptH",
+						"sptHardTemplate"
+					],
+					[
+						"preload",
+						"preloadSrc"
+					],
+					[
+						"api",
+						"apiurl"
+					],
+					[
+						"choo",
+						"chooseTime"
+					],
+					[
+						"answer",
+						"answerParam"
+					],
+					[
+						"third",
+						"thirdmonitor"
+					],
+					[
+						"vpa",
+						"vpaidXml"
+					],
+					[
+						"q",
+						"questioncount"
+					],
+					[
+						"answe",
+						"answercount"
+					],
+					[
+						"lastp",
+						"lastPicjump"
+					],
+					[
+						"lastP",
+						"lastPic"
+					],
+					[
+						"Extension",
+						"Extensions"
+					],
+					[
+						"ext",
+						"Extensions"
+					],
+					[
+						"ad_video",
+						"ad_video_click"
+					],
+					[
+						"post",
+						"poster"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"ad_",
+						"ad_video_click"
+					],
+					[
+						"tri",
+						"trigger	.trigger()"
+					],
+					[
+						"_cur",
+						"_curIndex"
+					],
+					[
+						"pause",
+						"pause"
+					],
+					[
+						"choose",
+						"chooseimg"
+					],
+					[
+						"choosei",
+						"chooseImgSrc"
+					],
+					[
+						"node",
+						"nodeName"
+					],
+					[
+						"_sele",
+						"_selectedIndex"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_",
+						"_currentTime"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"child",
+						"child"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"getE",
+						"getElementsByTagName"
+					],
+					[
+						"answerco",
+						"answercount"
+					],
+					[
+						"_get",
+						"_getAnswerPosLeft"
+					],
+					[
+						"answ",
+						"answerDivWidth"
+					],
+					[
+						"anse",
+						"answerimg"
+					],
+					[
+						"answerd",
+						"answerdiv"
+					],
+					[
+						"not",
+						"notchoosed"
+					],
+					[
+						"creat",
+						"creatives"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"css",
+						"cssText"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"bg",
+						"bgdiv"
+					],
+					[
+						"_add",
+						"_addListener"
+					],
+					[
+						"_vi",
+						"_videoJump"
+					],
+					[
+						"fs",
+						"fsipd"
+					],
+					[
+						"plat",
+						"platform"
+					],
+					[
+						"fsi",
+						"fsiph"
+					],
+					[
+						"encode",
+						"encodeURIComponent"
+					],
+					[
+						"back",
+						"backupAdList"
+					],
+					[
+						"file",
+						"fileUrlList"
+					],
+					[
+						"cont",
+						"context"
+					],
+					[
+						"platc",
+						"playcontext"
+					],
+					[
+						"or",
+						"oralAdTime"
+					],
+					[
+						"recal",
+						"recalcOralAdTime"
+					],
+					[
+						"ads",
+						"adsposibility"
+					],
+					[
+						"iph",
+						"iph"
+					],
+					[
+						"vol",
+						"volume_on"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"div",
+						"div_id"
+					],
+					[
+						"scr",
+						"screen"
+					],
+					[
+						"resize",
+						"resizeRato"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"send",
+						"sendMonitorUrl"
+					],
+					[
+						"ismid",
+						"isMidRollAd_global"
+					],
+					[
+						"compa",
+						"compareVersion"
+					],
+					[
+						"volu",
+						"volume_on"
+					],
+					[
+						"monit",
+						"monitor"
+					],
+					[
+						"medi",
+						"mediaFile"
+					],
+					[
+						"rebuild",
+						"rebuildWebAdUrl"
+					],
+					[
+						"gene",
+						"generateWebAdUrl"
+					],
+					[
+						"silver",
+						"SilverlightVideo"
+					],
+					[
+						"mana",
+						"managedVideo"
+					],
+					[
+						"clt",
+						"cltIsAdMute"
+					],
+					[
+						"isSP",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"seq",
+						"sequence"
+					],
+					[
+						"getPo",
+						"getAdPositionId"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"ge",
+						"generateJsonUrl"
+					],
+					[
+						"reb",
+						"rebuildJsonurl"
+					],
+					[
+						"initReq",
+						"initReqErrLog"
+					],
+					[
+						"before",
+						"beforeSend"
+					],
+					[
+						"ajaxt",
+						"ajaxTimes"
+					],
+					[
+						"ajaxTime",
+						"ajaxTimeouts"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1725,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+					"settings":
+					{
+						"buffer_size": 24975,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"mp",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"back",
+						"Preferences: Browse Packages→浏览程序包"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"mdk",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"GIT:",
+						"Git: Commit history"
+					],
+					[
+						"li",
+						"Permute Lines: Unique→唯一"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"int",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装程序包"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package→删除程序包"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"print(1);",
+					"print(1)",
+					"print \"1\"",
+					"print '1'",
+					"console.info(true)",
+					"print 'll'",
+					"print ll",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/i-robinzhou/Desktop/10.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/C/Users/i-robinzhou/Desktop/ads.xml",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/Constant.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/applicationContext.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/commons-logging.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/spring-mvc-servlet.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/log4j.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/init.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/pom.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/WEB-INF/web.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/ppDspManager.iml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/pom.xml",
+				"/D/home/adlogs/materialsyncerror.log",
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/C/Users/i-robinzhou/Desktop/m3u8.py",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Slide.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPIP.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDImpressAd2.0.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/C/Users/i-robinzhou/Desktop/10.csv",
+				"/C/Users/i-robinzhou/Desktop/30.csv",
+				"/C/Users/i-robinzhou/Desktop/39.csv",
+				"/C/Users/i-robinzhou/Desktop/12.csv",
+				"/C/Users/i-robinzhou/Desktop/11.csv",
+				"/D/ads/adsgitlab/peopleAttributeRedis/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/nocrm.sql",
+				"/C/Users/i-robinzhou/Desktop/hosts - 快捷方式.lnk",
+				"/D/ads/adsgitlab/ads-template/m3u8.py",
+				"/D/ads/adsgitlab/ads-template/ppx_common.js",
+				"/D/Python/m3u8.py",
+				"/C/Users/i-robinzhou/Downloads/fedora-163.repo",
+				"/D/Python/ipaddress/test.py",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/Python/ad_position_daily_pv.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.py",
+				"/C/Users/i-robinzhou/Desktop/IP_20131211库/superadmin.csv",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.txt",
+				"/D/Python/ipaddress/ip_address.py",
+				"/D/Python/ipaddress/data/116.txt",
+				"/D/perl/analyse.pl",
+				"/D/Python/pyftp.py",
+				"/D/Python/IP.py",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/C/Users/i-robinzhou/Desktop/ads_sprint_30_robinzhou_ordermail_baseonorderMVC.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint59-Jackli-PPAdExchange-SystemVar-Config.sql",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/throwInfoChange_v1.0.ftl",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/C/Users/i-robinzhou/Desktop/公益频道.sql",
+				"/C/Users/i-robinzhou/Desktop/error (2)",
+				"/E/material/m3u8/bose141008tyqt30s.m3u8",
+				"/C/Users/i-robinzhou/Desktop/ed141007",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/i-robinzhou/Desktop/ed",
+				"/E/material/20140929101453_guangliang.m3u8",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/error",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2 (2).m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/C/Users/i-robinzhou/Desktop/ed (2)",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2.m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/intractivead.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/ads/adsgitlab/ovptest/web/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/css/vpaid.css",
+				"/C/Users/i-robinzhou/Downloads/vast3_draft.xsd (1)/vast3_draft.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/ads/adsgitlab/ovptest/web/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_batch_create_throwactivity.jsp",
+				"/C/Users/i-robinzhou/Downloads/683213d3e2558e2e5b5a3a72b044d626 (1).m3u8",
+				"/C/Users/i-robinzhou/Downloads/13de45d549c48ea4d4f9043759766ece.m3u8",
+				"/D/ed (2)",
+				"/C/Users/i-robinzhou/Desktop/errorType",
+				"/D/ads/adsgitlab/ads-vpaid/configXML/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/mutils.xml",
+				"/D/ed",
+				"/D/error",
+				"/C/Users/i-robinzhou/Desktop/customer2.csv",
+				"/C/Users/i-robinzhou/Desktop/customer1.csv",
+				"/D/error (2)",
+				"/C/Users/i-robinzhou/Desktop/daat.csv",
+				"/U/.ssh/id_rsa.pub",
+				"/D/Program Files/apache2.2/htdocs/vpaid/Interactive.xml",
+				"/E/material/ed",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_ad_list.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/tgvasttag.xml",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/system variable.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/Wrapper.swf",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/wrapper_test.js",
+				"/D/Program Files/apache2.2/htdocs/html5/ImpressBuild.xml",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.txt",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/vpaid/vpaid_material_Impress.jsp",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.json",
+				"/C/Users/i-robinzhou/Desktop/chargeType.csv",
+				"/D/ads/adsgitlab/ads-vpaid/flashsource/Wrapper/Wrapper.as3proj",
+				"/D/ads/adsgitlab/.gitignore",
+				"/C/Windows/System32/drivers/etc/lmhosts.sam"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"checked",
+					"isOptionExist",
+					"get('throwperiodInhour').value = '';",
+					"get('throwperiodInhour').value = ''",
+					"get('throwperiodInhour').value = '';",
+					"throwperiodInhour",
+					"createCampaignGroup",
+					"doVpaidClick",
+					"_throwMatchEvent",
+					"callbackNotice",
+					"AdClickThru",
+					"fileChange",
+					"parseAd",
+					"bipBaseUrl",
+					"bip",
+					"暂停",
+					"doEnd",
+					"waittime",
+					"islocked",
+					"doEnd",
+					"playAds",
+					"owner",
+					"ERROR",
+					"wrapperNode",
+					"ovp_container_class",
+					"wrapper",
+					"ovp-video-normal-wrapper",
+					"showPanel",
+					"ThirdAd",
+					"alert",
+					"render",
+					"_getVideoObject",
+					"_pluginCaller",
+					"_playerRender",
+					"_ovp",
+					"baseConstructor",
+					"isPauseAd",
+					"22",
+					"pause",
+					"show",
+					"callNotice",
+					"show",
+					"ThirdAd",
+					"F806B733-087A-44A9-9BA3-CEB6BA9EF0B7",
+					"de.as.pp",
+					"Video",
+					";\n",
+					"onAd_video_complete",
+					"complete",
+					"ad_video_complete",
+					"onAd_complete",
+					"22",
+					"ThirdAdObject",
+					"show",
+					"isStart",
+					"waittime",
+					"ThirdAdObject",
+					"robinzhou",
+					"sendMo",
+					"isPauseAd",
+					"alert",
+					"isPauseAd",
+					"pause",
+					"pos",
+					"ThirdAd",
+					"alert",
+					"playVideo",
+					"ThirdAdObject",
+					"ThirdAd",
+					"managedVideo",
+					"doThirdQuartile",
+					"tracks",
+					"startPlay",
+					"ThirdAd",
+					"thirdAd",
+					"1111",
+					"ThirdAdObject",
+					"Third",
+					"Thirdob",
+					"playlistmode",
+					"startPlay",
+					"getAdAndPlay",
+					"暂停",
+					"doFirstQuartile",
+					"impressions",
+					"paras",
+					"Impress",
+					"complete",
+					"ad_complete",
+					"onAd_complete",
+					"_currentTime",
+					"cssText",
+					"_executeSubscribe",
+					"_videoSize",
+					"pause",
+					"pauseAd",
+					"stopAd",
+					"_executeSubscribe",
+					"_isPause",
+					"cssText",
+					"_lastPicDiv",
+					"_videoSize",
+					"_calc_videoSize",
+					"LastPic",
+					"getCurrentTime",
+					"currentTime",
+					"resumeAd",
+					"暂停",
+					"subject",
+					"divWidth",
+					"application/javascript",
+					"choosed",
+					"CASUSLLOOKVIDEO",
+					"defaultstr",
+					"parsePolicy",
+					"getPolicy",
+					"300100",
+					"fop",
+					"浮层",
+					"parsePolicy",
+					"getPolicy",
+					"浮层",
+					"SDKMatcher",
+					"createMonitorObj",
+					"ownerMatcher",
+					"needUseSDK",
+					"monitorurl",
+					"protectiontime"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$('#throwperiodInhour').val('');",
+					"_bgPicDiv",
+					"BgPic",
+					"ProductTypeId$1",
+					"ProductTypeId\\1",
+					"",
+					"\"",
+					"=",
+					"ptye",
+					"%s",
+					"141007",
+					"dt =140929",
+					"140928 and hour >12",
+					"140927",
+					"140921",
+					"dt =140917",
+					"140916 and hour >= 16",
+					"140915 and hour >= 18",
+					"140916",
+					"140914",
+					"140910",
+					"ad_video_complete",
+					"player.as.pptv.com",
+					"object",
+					"",
+					"html5_vars.cltIsAdMute = !this.volume_on;",
+					"01",
+					"amount",
+					"\"",
+					"",
+					"'",
+					"1556",
+					"ad_PPTV_DAAT",
+					"140401",
+					"@dt",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"ik_StartDelay",
+					"pltb_play",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"clt",
+					"cl_Play",
+					"iphone",
+					"102",
+					"",
+					"int",
+					"",
+					"id",
+					"_direction",
+					"_sps",
+					"onAd_Controlbar_click",
+					"",
+					"_ViewDiv",
+					"View",
+					"_Creative",
+					"_destroyTimeInterval",
+					"P",
+					"F",
+					"$",
+					"@",
+					"that._btntype",
+					"-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Windows/System32/drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										381
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24975,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13247,
+										13247
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10427.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 154.0
+			},
+			"position": "0,0,1,-32000,-32000,-1,-1,805,3,156,1149",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"de.as",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\VPAIDImpressAd2.0.xml"
+					],
+					[
+						"impr",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
+					],
+					[
+						"bgin",
+						"VPAIDBgInteractiveAd.js"
+					],
+					[
+						"vpaid",
+						"VPAIDInteractiveAd.js"
+					],
+					[
+						"people",
+						"D:\\Python\\incremental_people_attribute.py"
+					],
+					[
+						"",
+						"E:\\vpaid-test\\Impress\\Impress.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 838.0,
+				"selected_items":
+				[
+				],
+				"width": 1600.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

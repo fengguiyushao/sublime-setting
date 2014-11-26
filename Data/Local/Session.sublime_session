@@ -1,17 +1,19 @@
 {
 	"folder_history":
 	[
+		"/D/ads/adsgitlab/ovptest",
+		"/D/Python",
 		"/D/Program Files/apache2.2/htdocs/html5",
 		"/E/CreateJS",
 		"/D/vpaid",
 		"/C/Users/i-robinzhou/Downloads/7bfb145a-71b7-4ec1-80e6-7fa1bb671b1e"
 	],
 	"last_version": 3038,
-	"last_window_id": 14,
+	"last_window_id": 20,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 484.0,
+		"new_window_height": 591.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,1066 +21,497 @@
 				"selected_items":
 				[
 					[
-						"ads_",
-						"ads_request"
+						"crea",
+						"createElement"
+					],
+					[
+						"_bg",
+						"_bgPic"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"vaspop",
+						"vaspopupClickTrackings"
+					],
+					[
+						"ins",
+						"instname"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"click",
+						"clickHref"
+					],
+					[
+						"window",
+						"Windows"
+					],
+					[
+						"File",
+						"FileUrl"
+					],
+					[
+						"m3",
+						"m3u8file"
+					],
+					[
+						"m3u8",
+						"m3u8file"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"mp4",
+						"mp4name"
+					],
+					[
+						"v",
+						"vpaidType"
+					],
+					[
+						"ThirdM",
+						"ThirdMonitorJson"
+					],
+					[
+						"Thir",
+						"ThirdMonitorClick"
 					],
 					[
 						"font",
-						"font-size"
+						"fontbold"
 					],
 					[
-						"_left",
-						"_leftadtime"
+						"fon",
+						"fontsize"
 					],
 					[
-						"thi",
-						"_thisadtime"
+						"Thrid",
+						"ThirdMonitorEnd"
 					],
 					[
-						"_get",
-						"_getLocalProxyUrl"
+						"Third",
+						"ThirdMonitorStart"
 					],
 					[
-						"media",
-						"mediafile"
+						"l",
+						"link"
 					],
 					[
-						"local",
-						"localproxy"
+						"Crea",
+						"CreateUser"
 					],
 					[
-						"paras",
-						"parastr"
+						"ex",
+						"extraMacros"
 					],
 					[
-						"pl",
-						"platform"
+						"se",
+						"Sequence"
 					],
 					[
-						"backg",
-						"background"
+						"mediaTy",
+						"mediaTypeArr"
 					],
 					[
-						"OUT",
-						"OUTFILE2"
+						"current",
+						"currentTime"
 					],
 					[
-						"city",
-						"city"
+						"shade",
+						"_shadeAddListener"
 					],
 					[
-						"out",
-						"OUTDIFF"
-					],
-					[
-						"db",
-						"dbcity"
-					],
-					[
-						"wh",
-						"whole"
-					],
-					[
-						"area",
-						"area1"
-					],
-					[
-						"row",
-						"row"
-					],
-					[
-						"col",
-						"col_min"
-					],
-					[
-						"col_",
-						"col_min"
-					],
-					[
-						"work",
-						"worksheet"
-					],
-					[
-						"fir",
+						"first",
 						"firstChild"
 					],
 					[
-						"inn",
-						"innerhtml"
+						"backgr",
+						"background-size"
 					],
 					[
-						"ne",
-						"nextpic"
+						"exten",
+						"extendedClass"
 					],
 					[
-						"ans",
-						"answer1"
+						"posid",
+						"posid"
 					],
 					[
-						"pic",
-						"_picindex"
+						"sptH",
+						"sptHardTemplate"
 					],
 					[
-						"creat",
-						"creative"
+						"video",
+						"videoconf"
 					],
 					[
-						"value",
-						"VALUES"
+						"preload",
+						"preloadSrc"
 					],
 					[
-						"vo",
-						"Void"
+						"api",
+						"apiurl"
 					],
 					[
-						"re",
-						"returnType"
+						"choo",
+						"chooseTime"
 					],
 					[
-						"ad_vid",
+						"answer",
+						"answerParam"
+					],
+					[
+						"third",
+						"thirdmonitor"
+					],
+					[
+						"vpa",
+						"vpaidXml"
+					],
+					[
+						"q",
+						"questioncount"
+					],
+					[
+						"answe",
+						"answercount"
+					],
+					[
+						"lastp",
+						"lastPicjump"
+					],
+					[
+						"lastP",
+						"lastPic"
+					],
+					[
+						"Extension",
+						"Extensions"
+					],
+					[
+						"ext",
+						"Extensions"
+					],
+					[
+						"ad_video",
 						"ad_video_click"
 					],
 					[
-						"ad",
-						"ad_video_end"
+						"post",
+						"poster"
 					],
 					[
 						"ad_vi",
 						"ad_video_click"
 					],
 					[
-						"V",
-						"VpaidEvent3"
+						"ad_",
+						"ad_video_click"
 					],
 					[
-						"Vpa",
-						"VpaidEvent2"
+						"tri",
+						"trigger	.trigger()"
 					],
 					[
-						"VpaidE",
-						"VpaidEvent1"
+						"_cur",
+						"_curIndex"
 					],
 					[
-						"a",
-						"ad_answer_open"
+						"pause",
+						"pause"
 					],
 					[
-						"ani",
-						"animated2"
+						"choose",
+						"chooseimg"
 					],
 					[
-						"clea",
-						"clearInterval"
+						"choosei",
+						"chooseImgSrc"
 					],
 					[
-						"time",
-						"timestamp"
+						"node",
+						"nodeName"
 					],
 					[
-						"start",
-						"startTime"
-					],
-					[
-						"draw",
-						"drawStart"
+						"_sele",
+						"_selectedIndex"
 					],
 					[
 						"proto",
 						"prototype"
 					],
 					[
-						"_re",
-						"_resizeScale"
+						"_",
+						"_currentTime"
 					],
 					[
-						"create",
-						"createBtns"
+						"fir",
+						"firstChild"
 					],
 					[
-						"_con",
-						"_controlBar"
+						"child",
+						"child"
 					],
 					[
-						"auto",
-						"autobuffer"
+						"ele",
+						"element"
 					],
 					[
-						"ads",
-						"ads_request"
+						"getE",
+						"getElementsByTagName"
 					],
 					[
-						"VV",
-						"VVsum"
+						"answerco",
+						"answercount"
 					],
 					[
-						"UV",
-						"UVsum"
+						"_get",
+						"_getAnswerPosLeft"
 					],
 					[
-						"IP",
-						"IPCity"
+						"answ",
+						"answerDivWidth"
 					],
 					[
-						"base",
-						"baseUrl"
+						"anse",
+						"answerimg"
 					],
 					[
-						"appen",
-						"appendChild"
+						"answerd",
+						"answerdiv"
 					],
 					[
-						"ass",
-						"assets_obj"
+						"not",
+						"notchoosed"
 					],
 					[
-						"_init",
-						"_initBackground"
+						"creat",
+						"creatives"
 					],
 					[
-						"_tdC",
-						"_tdCodeDiv"
+						"fun",
+						"function"
 					],
 					[
-						"background",
-						"background-color"
+						"css",
+						"cssText"
 					],
 					[
-						"back",
-						"background-color"
+						"inn",
+						"innerHTML"
 					],
 					[
-						"last",
-						"_lastvideo"
-					],
-					[
-						"_slider",
-						"_sliderBlock"
-					],
-					[
-						"_sl",
-						"_sliderBlock"
-					],
-					[
-						"_cr",
-						"_Creative"
-					],
-					[
-						"des",
-						"destroyAutoMove"
-					],
-					[
-						"psu",
-						"pause"
-					],
-					[
-						"sli",
-						"Slider"
-					],
-					[
-						"_s",
-						"_slideWidth"
-					],
-					[
-						"_bg",
-						"_bgWidth"
-					],
-					[
-						"_st",
-						"_startSlideInterval"
-					],
-					[
-						"upd",
-						"updateImage"
-					],
-					[
-						"en",
-						"encodeURIComponent"
-					],
-					[
-						"sin",
-						"sinaRegx"
-					],
-					[
-						"_ge",
-						"_getExtensionValue"
-					],
-					[
-						"_wo",
-						"_word"
-					],
-					[
-						"_wor",
-						"_wordLeft"
-					],
-					[
-						"wordr",
-						"wordRight"
-					],
-					[
-						"ex",
-						"extensions"
-					],
-					[
-						"Ex",
-						"Extension"
-					],
-					[
-						"touch",
-						"touch"
-					],
-					[
-						"cli",
-						"clientX"
-					],
-					[
-						"mouse",
-						"mousedown	mousedown"
-					],
-					[
-						"pso",
-						"pos_x"
-					],
-					[
-						"sl",
-						"Slider"
-					],
-					[
-						"pos",
-						"pos_x"
-					],
-					[
-						"slid",
-						"sliderBlock"
-					],
-					[
-						"init",
-						"init"
-					],
-					[
-						"up",
-						"updateImage"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"off",
-						"offset	.offset"
-					],
-					[
-						"_ini",
-						"_initialized"
-					],
-					[
-						"backgr",
-						"background-image"
+						"bg",
+						"bgdiv"
 					],
 					[
 						"_add",
-						"_addSharebtnListener"
-					],
-					[
-						"_time",
-						"_timep"
-					],
-					[
-						"VIdeo",
-						"VideoSel"
-					],
-					[
-						"_video",
-						"_videoSelbtn"
-					],
-					[
-						"_pic",
-						"_picSelbtn"
-					],
-					[
-						"pause",
-						"pauseAd"
-					],
-					[
-						"_see",
-						"_selectType"
-					],
-					[
-						"_control",
-						"_controlBar"
-					],
-					[
-						"Pic",
-						"PicSel"
-					],
-					[
-						"_sele",
-						"_selectType"
-					],
-					[
-						"_vid",
-						"_video"
-					],
-					[
-						"Video",
-						"Video"
-					],
-					[
-						"Eve",
-						"Event"
-					],
-					[
-						"click",
-						"clicktype"
-					],
-					[
-						"du",
-						"document"
-					],
-					[
-						"_share",
-						"_sharebtn"
-					],
-					[
-						"vd",
-						"vdjump"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"_select",
-						"_selectType"
-					],
-					[
-						"_la",
-						"_lastvideo"
-					],
-					[
-						"_choose",
-						"_chooseDiv"
-					],
-					[
-						"view",
-						"View"
-					],
-					[
-						"_large",
-						"_largeVideo"
+						"_addListener"
 					],
 					[
 						"_vi",
-						"_video"
+						"_videoJump"
 					],
 					[
-						"_ch",
-						"_choose"
+						"fs",
+						"fsipd"
 					],
 					[
-						"initL",
-						"initLargeVideo"
+						"plat",
+						"platform"
 					],
 					[
-						"_lar",
-						"_largeVideo"
+						"fsi",
+						"fsiph"
 					],
 					[
-						"vide",
-						"VideoView"
-					],
-					[
-						"de",
-						"destroyTimeInterval"
-					],
-					[
-						"add",
-						"addEventListener"
-					],
-					[
-						"Ms",
-						"Mask"
-					],
-					[
-						"_se",
-						"_selectpics"
-					],
-					[
-						"l",
-						"length"
-					],
-					[
-						"crea",
-						"_picCreative"
-					],
-					[
-						"choose",
-						"Choose"
-					],
-					[
-						"_in",
-						"_index"
-					],
-					[
-						"_choo",
-						"_choose"
-					],
-					[
-						"picView",
-						"PicView"
-					],
-					[
-						"_ma",
-						"_maskDiv"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"sql",
-						"FormatSQL: Format SQL statement"
-					],
-					[
-						"view",
-						"View: Toggle Side Bar→切换侧栏"
-					],
-					[
-						"forma",
-						"FormatSQL: Format SQL statement"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
+						"encode",
+						"encodeURIComponent"
 					],
 					[
 						"back",
-						"Preferences: Browse Packages→浏览程序包"
+						"backupAdList"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"play",
+						"playcontext"
 					],
 					[
-						"markdown",
-						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+						"file",
+						"fileUrlList"
 					],
 					[
-						"mdk",
-						"Markdown Preview: Python Markdown: Preview in Browser"
+						"show",
+						"showt"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
+						"cont",
+						"context"
+					],
+					[
+						"platc",
+						"playcontext"
+					],
+					[
+						"or",
+						"oralAdTime"
+					],
+					[
+						"recal",
+						"recalcOralAdTime"
+					],
+					[
+						"ads",
+						"adsposibility"
+					],
+					[
+						"iph",
+						"iph"
+					],
+					[
+						"vol",
+						"volume_on"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"div",
+						"div_id"
+					],
+					[
+						"scr",
+						"screen"
+					],
+					[
+						"resize",
+						"resizeRato"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"send",
+						"sendMonitorUrl"
+					],
+					[
+						"ismid",
+						"isMidRollAd_global"
+					],
+					[
+						"compa",
+						"compareVersion"
+					],
+					[
+						"volu",
+						"volume_on"
+					],
+					[
+						"monit",
+						"monitor"
+					],
+					[
+						"medi",
+						"mediaFile"
+					],
+					[
+						"rebuild",
+						"rebuildWebAdUrl"
+					],
+					[
+						"gene",
+						"generateWebAdUrl"
+					],
+					[
+						"silver",
+						"SilverlightVideo"
+					],
+					[
+						"mana",
+						"managedVideo"
+					],
+					[
+						"clt",
+						"cltIsAdMute"
+					],
+					[
+						"isSP",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"seq",
+						"sequence"
+					],
+					[
+						"getPo",
+						"getAdPositionId"
+					],
+					[
+						"ob",
+						"Object"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"ge",
+						"generateJsonUrl"
+					],
+					[
+						"reb",
+						"rebuildJsonurl"
+					],
+					[
+						"initReq",
+						"initReqErrLog"
+					],
+					[
+						"before",
+						"beforeSend"
+					],
+					[
+						"ajaxt",
+						"ajaxTimes"
+					],
+					[
+						"ajaxTime",
+						"ajaxTimeouts"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"callback",
+						"callbackFn"
+					],
+					[
+						"isspec",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"cltad",
+						"cltad"
+					],
+					[
+						"isspe",
+						"isSpecialAd_global"
 					],
 					[
 						"add",
-						"Package Control: Add Repository"
+						"addLoop"
 					],
-					[
-						"git",
-						"Package Control: Install Package"
-					],
-					[
-						"GIT:",
-						"Git: Commit history"
-					],
-					[
-						"li",
-						"Permute Lines: Unique→唯一"
-					],
-					[
-						"convert",
-						"Indentation: Convert to Tabs→转换为标签"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"python",
-						"User: Python PEP8 Autoformat"
-					],
-					[
-						"en",
-						"Package Control: Enable Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Disable Package"
-					],
-					[
-						"int",
-						"Indentation: Convert to Tabs→转换为标签"
-					],
-					[
-						"for",
-						"Format: Javascript"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package→安装程序包"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Remove Package→删除程序包"
-					]
-				],
-				"width": 576.0
-			},
-			"console":
-			{
-				"height": 153.0,
-				"history":
-				[
-					"print(1);",
-					"print(1)",
-					"print \"1\"",
-					"print '1'",
-					"console.info(true)",
-					"print 'll'",
-					"print ll",
-					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
-				"/D/ads/adsgitlab/ovptest/web/css/player.css",
-				"/D/ads/adsgitlab/ovptest/web/js/player.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
-				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
-				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
-				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
-				"/C/Users/i-robinzhou/Desktop/policy.xml",
-				"/D/Python/memory",
-				"/D/xxxxxxxxx/uv01-27.txt",
-				"/D/xxxxxxxxx/sum.txt",
-				"/D/xxxxxxxxx/uv21-27.txt",
-				"/D/xxxxxxxxx/uv14-20.txt",
-				"/D/xxxxxxxxx/uv07-13.txt",
-				"/D/xxxxxxxxx/uv01-06.txt",
-				"/C/Users/i-robinzhou/Desktop/system.csv",
-				"/C/Users/i-robinzhou/Desktop/查VV数据",
-				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
-				"/C/Users/i-robinzhou/Desktop/tmp.txt",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
-				"/C/Users/i-robinzhou/Desktop/sort.txt",
-				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/U/.ssh/known_hosts",
-				"/U/.gitconfig",
-				"/C/Program Files (x86)/Git/etc/termcap",
-				"/C/Program Files (x86)/Git/etc/inputrc",
-				"/C/Program Files (x86)/Git/etc/gitconfig",
-				"/C/Program Files (x86)/Git/etc/profile",
-				"/C/Program Files (x86)/Git/etc/git-completion.bash",
-				"/C/Program Files (x86)/Git/etc/fileList-bindimage.txt",
-				"/U/.ssh/id_rsa.pub",
-				"/D/ads/robinzhou.txt.pub",
-				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
-				"/D/ads/adsgit/ovptest/web/js/player.js",
-				"/D/Program Files/apache2.2/htdocs/html/html5/vast_selectJsAd.xml",
-				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/player.html",
-				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
-				"/D/Program Files/apache2.2/htdocs/html5/index.html",
-				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
-				"/D/Python/writepa.py",
-				"/D/Program Files/apache2.2/htdocs/html/test.html",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_vpaid.js",
-				"/C/Users/i-robinzhou/Desktop/IMPortant.txt",
-				"/D/Program Files/apache2.2/htdocs/html5/js/ovp.js",
-				"/D/ads/adsgit/ovptest/web/js/ovp.js",
-				"/D/ads/adsgit/db-mysql/src/main/sql/000015.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
-				"/E/analyse.pl",
-				"/C/Users/i-robinzhou/Desktop/temp",
-				"/C/Users/i-robinzhou/Desktop/final.sql",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_positionfix.sql",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
-				"/D/Python/incremental_people_attribute.py",
-				"/C/Users/i-robinzhou/.m2/settings.xml",
-				"/C/Users/i-robinzhou/.m2/archetype-catalog.xml",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档.txt",
-				"/D/Python/pa.py",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/vpaid/VPAIDSelectAd.js",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
-				"/D/ads/adsgit/q",
-				"/D/ads/html5svn/js/player.js",
-				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
-				"/E/IP库对比/IP_20131211库/20140311guangxie.txt",
-				"/C/Users/i-robinzhou/Downloads/coreutils-8.22.tar/coreutils-8.22/src/sort.c",
-				"/E/IP库对比/IP_20131211库/youku.patch",
-				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
-				"/E/sort.txt",
-				"/C/Users/i-robinzhou/Desktop/vast.xml",
-				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
-				"/E/苏宁电商/sort.txt",
-				"/E/苏宁电商/ipTA201403131610000006.txt",
-				"/E/IP库对比/IP_20131211库/ipCompare.pl",
-				"/E/苏宁电商/useragent.txt",
-				"/E/苏宁电商/TA201403061222440353.txt",
-				"/E/24G/see.pl",
-				"/E/24G/small.txt",
-				"/E/24G/18762_pptv_log_result.txt",
-				"/E/24G/18762_pptv_log_result.csv",
-				"/E/24G/small.csv",
-				"/E/ap.txt",
-				"/C/Users/i-robinzhou/Downloads/main401/displayinfo.htm",
-				"/C/Users/i-robinzhou/Downloads/main401/main.htm",
-				"/C/Users/i-robinzhou/Downloads/main401/css/global.css",
-				"/C/Users/i-robinzhou/Downloads/main401/css/reset.css",
-				"/D/people/attribute.csv",
-				"/D/people/see.csv",
-				"/D/people/unique.csv.001",
-				"/D/people/unique.csv.004",
-				"/D/people/Div_unique_1.csv",
-				"/D/people/Div_unique_5.csv",
-				"/D/people/Div_unique_4.csv",
-				"/D/people/unique.csv",
-				"/D/ads/adsgit/db-mysql/src/main/sql/000017_shahu.sql",
-				"/E/IP库对比/IP_20131211库/20130520youku.txt",
-				"/E/IP库对比/IP_20131211库/ip.txt",
-				"/E/IP库对比/IP_20131211库/diff.txt",
-				"/E/IP库对比/IP_20131211库/diff2.txt",
-				"/E/IP库对比/IP_20131211库/20130520miaozhen.txt",
-				"/E/IP库对比/JAVA/AreaBean.java",
-				"/E/IP库对比/ad-iplib-miaozhen/20130520miaozhen.txt",
-				"/E/IP库对比/IP_20131211库/superadmin.csv",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
-				"/E/IP库对比/IP_20131211库/iparea.xlsx",
-				"/E/IP库对比/IP_20131211库/IP鍦扮悊淇℃伅鏍囧噯搴撴牸寮忚鏄_doc",
-				"/D/Program Files/apache2.2/htdocs/index.html",
-				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 96.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"adType",
-					"jpg",
-					"de.as",
-					"ip=",
-					"TA201402181754550551",
-					"TA201402261547200160",
-					"TA201404111613020220",
-					"TA201404091804490495",
-					"TA201404141808110576",
-					"TA201402281759500479",
-					"TA201404101609560020",
-					"TA201404111847050363",
-					"TA201404091804490495",
-					"TA201404111613020219",
-					"TA201404091804490495",
-					"TA201402261547200160",
-					"getProxyUrl",
-					"getMediaSuffixFromUrl",
-					"mp4",
-					"startTimeInterval",
-					"init",
-					"id_r",
-					"ssh",
-					"start",
-					"em",
-					"skipAd",
-					"ovp-panelcontainer-novolume",
-					"duration",
-					"ctrl+shift",
-					"d",
-					"_countDown",
-					"de.as.pptv",
-					"creativeData",
-					"de.as.",
-					"&&",
-					"fileSrc",
-					"_getLocalProxyUrl",
-					"decodeURIComponent",
-					"localproxy",
-					"_getAssetsUrl",
-					"preloadAdList",
-					"VideoConfig",
-					"mp4",
-					"mp3",
-					"getMediaSuffixFromUrl",
-					"extension",
-					"needPreLoading",
-					"localproxy",
-					"VideoConfig",
-					"genPlayConfig",
-					"VideoConfig",
-					"videoConfig",
-					"localproxy",
-					"creative",
-					"localproxy",
-					"execute",
-					"de.as",
-					"}\n",
-					"4",
-					"fileS",
-					"Files",
-					"FileS",
-					"aderrbiplog",
-					"4",
-					"fileSrc",
-					"de.as",
-					"de",
-					"doEnd",
-					"test",
-					"test3",
-					"doEnd",
-					"islocked",
-					"source",
-					"et = 5",
-					"7",
-					"fileS",
-					"wrapperNode",
-					"html",
-					"HTML5Video",
-					"_getVideoObject",
-					"_playerRender",
-					"VideoConfig",
-					"vc",
-					"playVideo",
-					"_playerRender",
-					"parseFromDomNode",
-					"7",
-					"vpaidStop",
-					"doStart",
-					"dosStart",
-					"dostart",
-					"onstart",
-					"start",
-					"de.as",
-					"fileSrc",
-					"7",
-					"fileSrc",
-					"7",
-					"localproxy",
-					"reqErrBipLog",
-					"Log",
-					"reqErrBipLog",
-					"initReqErrLog",
-					"et",
-					"execute",
-					"9",
-					"de.as",
-					"MediaFile",
-					"parseAd",
-					"callVast",
-					"maxPlayTime",
-					"playmidroll",
-					"ipd_title_height",
-					"callVast",
-					"_playerRender",
-					"playVideo",
-					"callVast",
-					"html5_vars",
-					"callVast",
-					"parseAd",
-					"callVast",
-					"de.as.pp",
-					"parseAd",
-					"callVast",
-					"parseRequestPara",
-					");\n",
-					"localproxy",
-					"extractUrlComponent"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"140401",
-					"@dt",
-					"Dim_LiveOndemand_cid",
-					"ik_pv",
-					"ik_StartDelay",
-					"pltb_play",
-					"Dim_LiveOndemand_cid",
-					"ik_pv",
-					"clt",
-					"cl_Play",
-					"iphone",
-					"102",
-					"",
-					"int",
-					"",
-					"id",
-					"_direction",
-					"_sps",
-					"onAd_Controlbar_click",
-					"",
-					"_ViewDiv",
-					"View",
-					"_Creative",
-					"_destroyTimeInterval",
-					"P",
-					"F",
-					"$",
-					"@",
-					"that._btntype",
-					"-",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 27.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"menu_visible": false,
-			"output.exec":
-			{
-				"height": 154.0
-			},
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"impr",
-						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
-					],
-					[
-						"bgin",
-						"VPAIDBgInteractiveAd.js"
-					],
-					[
-						"vpaid",
-						"VPAIDInteractiveAd.js"
-					],
-					[
-						"people",
-						"D:\\Python\\incremental_people_attribute.py"
-					],
-					[
-						"",
-						"E:\\vpaid-test\\Impress\\Impress.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 838.0,
-				"selected_items":
-				[
-				],
-				"width": 1600.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 184.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 983.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"call",
 						"callNotice"
@@ -1098,564 +531,53 @@
 					[
 						"start",
 						"startDate"
-					],
-					[
-						"order",
-						"orderCode"
-					],
-					[
-						"add",
-						"addcptamount"
-					],
-					[
-						"ad",
-						"AdPostionId"
-					],
-					[
-						"cus",
-						"CustomerName"
-					],
-					[
-						"cpt",
-						"cptplay"
-					],
-					[
-						"orde",
-						"orderName"
-					],
-					[
-						"write",
-						"writeIframe"
-					],
-					[
-						"abs",
-						"absPos"
-					],
-					[
-						"pre",
-						"preyear"
-					],
-					[
-						"cont",
-						"contents	.contents()"
-					],
-					[
-						"font",
-						"font-weight"
-					],
-					[
-						"margin",
-						"margin-right"
-					],
-					[
-						"backgr",
-						"background-color"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"end",
-						"endTA"
-					],
-					[
-						"sra",
-						"startTA"
-					],
-					[
-						"nostart",
-						"nostartTA"
-					],
-					[
-						"020c",
-						"020C"
-					],
-					[
-						"vpaid",
-						"vpaidcss"
-					],
-					[
-						"ads_",
-						"ads_request"
-					],
-					[
-						"_left",
-						"_leftadtime"
-					],
-					[
-						"thi",
-						"_thisadtime"
-					],
-					[
-						"_get",
-						"_getLocalProxyUrl"
-					],
-					[
-						"media",
-						"mediafile"
-					],
-					[
-						"paras",
-						"parastr"
-					],
-					[
-						"pl",
-						"platform"
-					],
-					[
-						"backg",
-						"background"
-					],
-					[
-						"OUT",
-						"OUTFILE2"
-					],
-					[
-						"city",
-						"city"
-					],
-					[
-						"out",
-						"OUTDIFF"
-					],
-					[
-						"db",
-						"dbcity"
-					],
-					[
-						"wh",
-						"whole"
-					],
-					[
-						"area",
-						"area1"
-					],
-					[
-						"row",
-						"row"
-					],
-					[
-						"col",
-						"col_min"
-					],
-					[
-						"col_",
-						"col_min"
-					],
-					[
-						"work",
-						"worksheet"
-					],
-					[
-						"fir",
-						"firstChild"
-					],
-					[
-						"inn",
-						"innerhtml"
-					],
-					[
-						"ne",
-						"nextpic"
-					],
-					[
-						"ans",
-						"answer1"
-					],
-					[
-						"pic",
-						"_picindex"
-					],
-					[
-						"creat",
-						"creative"
-					],
-					[
-						"value",
-						"VALUES"
-					],
-					[
-						"vo",
-						"Void"
-					],
-					[
-						"re",
-						"returnType"
-					],
-					[
-						"ad_vid",
-						"ad_video_click"
-					],
-					[
-						"ad_vi",
-						"ad_video_click"
-					],
-					[
-						"V",
-						"VpaidEvent3"
-					],
-					[
-						"Vpa",
-						"VpaidEvent2"
-					],
-					[
-						"VpaidE",
-						"VpaidEvent1"
-					],
-					[
-						"a",
-						"ad_answer_open"
-					],
-					[
-						"ani",
-						"animated2"
-					],
-					[
-						"clea",
-						"clearInterval"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"draw",
-						"drawStart"
-					],
-					[
-						"proto",
-						"prototype"
-					],
-					[
-						"_re",
-						"_resizeScale"
-					],
-					[
-						"create",
-						"createBtns"
-					],
-					[
-						"_con",
-						"_controlBar"
-					],
-					[
-						"auto",
-						"autobuffer"
-					],
-					[
-						"ads",
-						"ads_request"
-					],
-					[
-						"VV",
-						"VVsum"
-					],
-					[
-						"UV",
-						"UVsum"
-					],
-					[
-						"IP",
-						"IPCity"
-					],
-					[
-						"base",
-						"baseUrl"
-					],
-					[
-						"appen",
-						"appendChild"
-					],
-					[
-						"ass",
-						"assets_obj"
-					],
-					[
-						"_init",
-						"_initBackground"
-					],
-					[
-						"_tdC",
-						"_tdCodeDiv"
-					],
-					[
-						"background",
-						"background-color"
-					],
-					[
-						"back",
-						"background-color"
-					],
-					[
-						"last",
-						"_lastvideo"
-					],
-					[
-						"_slider",
-						"_sliderBlock"
-					],
-					[
-						"_sl",
-						"_sliderBlock"
-					],
-					[
-						"_cr",
-						"_Creative"
-					],
-					[
-						"des",
-						"destroyAutoMove"
-					],
-					[
-						"psu",
-						"pause"
-					],
-					[
-						"sli",
-						"Slider"
-					],
-					[
-						"_s",
-						"_slideWidth"
-					],
-					[
-						"_bg",
-						"_bgWidth"
-					],
-					[
-						"_st",
-						"_startSlideInterval"
-					],
-					[
-						"upd",
-						"updateImage"
-					],
-					[
-						"en",
-						"encodeURIComponent"
-					],
-					[
-						"sin",
-						"sinaRegx"
-					],
-					[
-						"_ge",
-						"_getExtensionValue"
-					],
-					[
-						"_wo",
-						"_word"
-					],
-					[
-						"_wor",
-						"_wordLeft"
-					],
-					[
-						"wordr",
-						"wordRight"
-					],
-					[
-						"ex",
-						"extensions"
-					],
-					[
-						"Ex",
-						"Extension"
-					],
-					[
-						"touch",
-						"touch"
-					],
-					[
-						"cli",
-						"clientX"
-					],
-					[
-						"mouse",
-						"mousedown	mousedown"
-					],
-					[
-						"pso",
-						"pos_x"
-					],
-					[
-						"sl",
-						"Slider"
-					],
-					[
-						"pos",
-						"pos_x"
-					],
-					[
-						"slid",
-						"sliderBlock"
-					],
-					[
-						"init",
-						"init"
-					],
-					[
-						"up",
-						"updateImage"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"off",
-						"offset	.offset"
-					],
-					[
-						"_ini",
-						"_initialized"
-					],
-					[
-						"_add",
-						"_addSharebtnListener"
-					],
-					[
-						"_time",
-						"_timep"
-					],
-					[
-						"VIdeo",
-						"VideoSel"
-					],
-					[
-						"_video",
-						"_videoSelbtn"
-					],
-					[
-						"_pic",
-						"_picSelbtn"
-					],
-					[
-						"pause",
-						"pauseAd"
-					],
-					[
-						"_see",
-						"_selectType"
-					],
-					[
-						"_control",
-						"_controlBar"
-					],
-					[
-						"Pic",
-						"PicSel"
-					],
-					[
-						"_sele",
-						"_selectType"
-					],
-					[
-						"_vid",
-						"_video"
-					],
-					[
-						"Video",
-						"Video"
-					],
-					[
-						"Eve",
-						"Event"
-					],
-					[
-						"click",
-						"clicktype"
-					],
-					[
-						"du",
-						"document"
-					],
-					[
-						"_share",
-						"_sharebtn"
-					],
-					[
-						"vd",
-						"vdjump"
-					],
-					[
-						"_select",
-						"_selectType"
-					],
-					[
-						"_la",
-						"_lastvideo"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/C/Windows/System32/drivers/etc/hosts",
-					"settings":
-					{
-						"buffer_size": 1109,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-					"settings":
-					{
-						"buffer_size": 40294,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-					"settings":
-					{
-						"buffer_size": 1705,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
-					"settings":
-					{
-						"buffer_size": 127099,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
-					"settings":
-					{
-						"buffer_size": 208109,
-						"line_ending": "Windows"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 104.0,
 				"selected_items":
 				[
 					[
-						"side",
-						"View: Toggle Side Bar→切换侧栏"
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
 					],
 					[
-						"sql",
-						"FormatSQL: Format SQL statement"
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
 					],
 					[
 						"view",
 						"View: Toggle Side Bar→切换侧栏"
 					],
 					[
-						"forma",
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"mp",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
 						"FormatSQL: Format SQL statement"
 					],
 					[
@@ -1668,10 +590,6 @@
 					],
 					[
 						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -1743,10 +661,6 @@
 						"Indentation: Convert to Tabs→转换为标签"
 					],
 					[
-						"for",
-						"Format: Javascript"
-					],
-					[
 						"package",
 						"Package Control: Install Package"
 					],
@@ -1759,7 +673,7 @@
 						"Package Control: Remove Package→删除程序包"
 					]
 				],
-				"width": 576.0
+				"width": 504.0
 			},
 			"console":
 			{
@@ -1787,138 +701,138 @@
 			},
 			"file_history":
 			[
-				"/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
-				"/D/ads/adsgitlab/ovptest/web/js/player_vpaid.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
-				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs",
-				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
-				"/D/ads/adsgitlab/ovptest/web/player.html",
-				"/D/ads/adsgitlab/ovptest/web/js/player.js",
-				"/C/Users/i-robinzhou/Desktop/analyse.pl",
-				"/D/ads/adsgitlab/ovptest/web/js/flxhr/flXHR.js",
-				"/D/perl/stat2013.pl",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
-				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
-				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd.xml",
-				"/C/Users/i-robinzhou/Desktop/search.pl",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
-				"/E/analyse.pl",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
-				"/C/Users/i-robinzhou/Desktop/查VV数据.sql",
-				"/C/Users/i-robinzhou/Desktop/temp",
-				"/D/perl/order.pm",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
-				"/D/result",
-				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-				"/C/Users/i-robinzhou/Desktop/system.sql",
-				"/C/Users/i-robinzhou/Desktop/新建文本文档 (2).txt",
-				"/C/Users/i-robinzhou/Desktop/final.sql",
-				"/C/Users/i-robinzhou/Desktop/hive.sql",
-				"/D/Program Files/apache2.2/htdocs/index.html",
-				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/js/monthpicker/monthpicker.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_robinzhou_posmod_style.sql",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql",
-				"/C/Users/i-robinzhou/Desktop/change ad position.sql",
-				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/application.js",
-				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/html_actuator.js",
-				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/game_manager.js",
-				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/grid.js",
-				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/ai.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/jquery2.0.3.js",
-				"/D/Program Files/apache2.2/htdocs/monthpicker.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
-				"/D/Program Files/apache2.2/htdocs/html/test.html",
-				"/D/Program Files/apache2.2/htdocs/html/增加事件.html",
-				"/D/Program Files/apache2.2/htdocs/html/video.html",
-				"/D/Program Files/apache2.2/htdocs/html/div.html",
-				"/C/Users/i-robinzhou/Desktop/taobao/taobao.xml",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint14_robinzhou_getinfofix.sql",
-				"/C/Users/i-robinzhou/Desktop/test url.sh",
-				"/C/Users/i-robinzhou/Desktop/vpaid3.xml",
-				"/C/Users/i-robinzhou/Desktop/adlist.txt",
-				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
-				"/C/Users/i-robinzhou/Desktop/tmp.txt",
-				"/C/Users/i-robinzhou/Desktop/getChannelFile.sh",
-				"/C/Users/i-robinzhou/Downloads/ad_all.xml/ad_all.xml",
-				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/vpaid.xsd",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_ehtanren_adlog_throw.sql",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_tagselector.sql",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_districtdefine.sql",
-				"/C/Windows/System32/drivers/etc/test url.sh",
-				"/E/Music/许嵩.-.[自定义].专辑.(APE).cue",
-				"/E/Music/许嵩.-.[寻雾启示].专辑.(flac).cue",
-				"/E/Music/许嵩.-.[苏格拉没有底].专辑.(FLAC).cue",
-				"/E/Music/许嵩.-.[梦游计].专辑.(FLAC).cue",
-				"/E/Music/许嵩 - 梦游.cue",
-				"/E/Music/许嵩 - 梦游.aue",
-				"/E/Music/The Best Moment精选-CD1.cue",
-				"/E/Music/陈奕迅-The Best Moment精选-CD3.cue",
-				"/E/Music/陈奕迅-The Best Moment精选-CD2.cue",
-				"/E/Music/陈奕迅-The Best Moment精选-CD1.cue",
-				"/E/Music/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
-				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
-				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD3.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD2.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD1.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD2.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD3.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD1.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-I Had a Great Time.cue",
-				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅 - 问号.cue",
-				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/policy.xsd",
-				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd2.xml",
-				"/C/Users/i-robinzhou/Desktop/PPTV_DAAT.sql",
-				"/C/Users/i-robinzhou/Desktop/district.sql",
-				"/C/Users/i-robinzhou/Desktop/Impress.js",
-				"/C/Users/i-robinzhou/Desktop/20140307184919_Impress.js",
-				"/C/Users/i-robinzhou/Downloads/svg/css/style.css",
-				"/C/Users/i-robinzhou/Downloads/svg/index.html",
-				"/C/Users/i-robinzhou/Downloads/svg/js/raphael.js",
-				"/C/Users/i-robinzhou/Downloads/svg/js/script.js",
 				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
-				"/C/Users/i-robinzhou/Downloads/svg/js/raphael-min.js",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/Program Files/apache2.2/htdocs/html5/player.html",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
-				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
-				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
-				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
 				"/D/ads/adsgitlab/ovptest/web/css/player.css",
-				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
-				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
-				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
-				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
-				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
-				"/C/Users/i-robinzhou/Desktop/policy.xml",
-				"/D/Python/memory",
-				"/D/xxxxxxxxx/uv01-27.txt",
-				"/D/xxxxxxxxx/sum.txt",
-				"/D/xxxxxxxxx/uv21-27.txt",
-				"/D/xxxxxxxxx/uv14-20.txt",
-				"/D/xxxxxxxxx/uv07-13.txt",
-				"/D/xxxxxxxxx/uv01-06.txt",
-				"/C/Users/i-robinzhou/Desktop/system.csv",
-				"/C/Users/i-robinzhou/Desktop/查VV数据",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDImpressAd2.0.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/C/Users/i-robinzhou/Desktop/10.csv",
+				"/C/Users/i-robinzhou/Desktop/30.csv",
+				"/C/Users/i-robinzhou/Desktop/39.csv",
+				"/C/Users/i-robinzhou/Desktop/12.csv",
+				"/C/Users/i-robinzhou/Desktop/11.csv",
+				"/C/Users/i-robinzhou/Desktop/m3u8.py",
+				"/D/ads/adsgitlab/peopleAttributeRedis/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/nocrm.sql",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/C/Users/i-robinzhou/Desktop/hosts - 快捷方式.lnk",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-template/m3u8.py",
+				"/D/ads/adsgitlab/ads-template/ppx_common.js",
+				"/D/Python/m3u8.py",
+				"/C/Users/i-robinzhou/Downloads/fedora-163.repo",
+				"/D/Python/ipaddress/test.py",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/Python/ad_position_daily_pv.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.py",
+				"/C/Users/i-robinzhou/Desktop/IP_20131211库/superadmin.csv",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.txt",
+				"/D/Python/ipaddress/ip_address.py",
+				"/D/Python/ipaddress/data/116.txt",
+				"/D/perl/analyse.pl",
+				"/D/Python/pyftp.py",
+				"/D/Python/IP.py",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/i-robinzhou/Desktop/ads_sprint_30_robinzhou_ordermail_baseonorderMVC.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint59-Jackli-PPAdExchange-SystemVar-Config.sql",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/throwInfoChange_v1.0.ftl",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/C/Users/i-robinzhou/Desktop/公益频道.sql",
 				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
-				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
-				"/C/Users/i-robinzhou/Desktop/sort.txt",
-				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/U/.ssh/known_hosts"
+				"/C/Users/i-robinzhou/Desktop/error (2)",
+				"/E/material/m3u8/bose141008tyqt30s.m3u8",
+				"/C/Users/i-robinzhou/Desktop/ed141007",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/i-robinzhou/Desktop/ed",
+				"/E/material/20140929101453_guangliang.m3u8",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/C/Users/i-robinzhou/Desktop/error",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2 (2).m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/C/Users/i-robinzhou/Desktop/ed (2)",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2.m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/intractivead.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/ads/adsgitlab/ovptest/web/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/css/vpaid.css",
+				"/C/Users/i-robinzhou/Downloads/vast3_draft.xsd (1)/vast3_draft.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/ads/adsgitlab/ovptest/web/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_batch_create_throwactivity.jsp",
+				"/C/Users/i-robinzhou/Downloads/683213d3e2558e2e5b5a3a72b044d626 (1).m3u8",
+				"/C/Users/i-robinzhou/Downloads/13de45d549c48ea4d4f9043759766ece.m3u8",
+				"/D/ed (2)",
+				"/C/Users/i-robinzhou/Desktop/errorType",
+				"/D/ads/adsgitlab/ads-vpaid/configXML/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/mutils.xml",
+				"/D/ed",
+				"/D/error",
+				"/C/Users/i-robinzhou/Desktop/customer2.csv",
+				"/C/Users/i-robinzhou/Desktop/customer1.csv",
+				"/D/error (2)",
+				"/C/Users/i-robinzhou/Desktop/daat.csv",
+				"/U/.ssh/id_rsa.pub",
+				"/D/Program Files/apache2.2/htdocs/vpaid/Interactive.xml",
+				"/E/material/ed",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_ad_list.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/tgvasttag.xml",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/system variable.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/Wrapper.swf",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/wrapper_test.js",
+				"/D/Program Files/apache2.2/htdocs/html5/ImpressBuild.xml",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.txt",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/vpaid/vpaid_material_Impress.jsp",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.json",
+				"/C/Users/i-robinzhou/Desktop/chargeType.csv",
+				"/D/ads/adsgitlab/ads-vpaid/flashsource/Wrapper/Wrapper.as3proj",
+				"/D/ads/adsgitlab/.gitignore",
+				"/C/Windows/System32/drivers/etc/lmhosts.sam",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/AdPolicy.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/test.html",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint20_robinzhou_pagead.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint16_suliangbo_positionListPage.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint19_suliangbo_peopleAttributePopPage.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-vnow_sprint48_robinzhou_sysvariablererecon.sql",
+				"/D/Program Files/apache2.2/htdocs/vpaid/BgInterative.xml",
+				"/D/Python/writepa.py",
+				"/C/ProgramData/PPLive/PPTV/Cache/pluginad/AdPolicy.Xml",
+				"/C/Users/i-robinzhou/Desktop/taobao/taobao.xml",
+				"/D/ads/adsgitlab/ovptest/web/js/ovp.js",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/policy.xsd",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint19_robinzhou_tagEdit.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_selectJsAd.xml",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_thirdAd.xml",
+				"/D/home/pplive/web/people_attribute",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/target/ppadmanager/admin.jsp",
+				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -1933,134 +847,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"StartOverlapPoint",
-					"doUnMute",
-					"finishPlay",
-					"playAds",
-					"callback",
-					"doPauseClose",
-					"overlayclose",
-					"isNonLinear",
-					"isSpecialAd",
-					"isNonLinear",
-					"console.",
-					"isSpecialAd",
-					"VideoConfig",
-					"ovp-video",
-					"shade",
-					"shape",
-					"isPauseAd",
-					"isSpecialAd",
-					"isNonLinear",
-					"managedVideo",
-					"overlayclose",
-					"click",
-					"addEvent",
-					"de.as",
-					"doClick",
-					"doSpecialClose",
-					"doMute",
-					"inish",
-					"isFinish",
-					"doClick",
+					"pauseAd",
+					"stopAd",
+					"_executeSubscribe",
+					"_isPause",
+					"cssText",
+					"_lastPicDiv",
+					"_videoSize",
+					"_calc_videoSize",
+					"LastPic",
+					"getCurrentTime",
+					"currentTime",
+					"resumeAd",
+					"暂停",
+					"subject",
+					"divWidth",
+					"application/javascript",
+					"choosed",
+					"CASUSLLOOKVIDEO",
+					"defaultstr",
+					"parsePolicy",
+					"getPolicy",
+					"300100",
+					"fop",
+					"浮层",
+					"parsePolicy",
+					"getPolicy",
+					"浮层",
+					"SDKMatcher",
+					"createMonitorObj",
+					"ownerMatcher",
+					"needUseSDK",
+					"monitorurl",
+					"protectiontime",
+					"MAX_VALUE",
+					"rlen",
+					"后贴",
+					"initReqErrLog(4",
+					"4",
+					"et = 4",
+					"et = 101",
+					"sendExceptionLog",
+					"et = 20",
+					"CASUSLLOOKVIDEO",
+					"渠道",
+					"checkUrl",
+					"sendMonitorUrl",
+					"createMonitorObj",
+					"vaspopupClickTrackings",
+					"sendMonitorUrl",
+					"checkUrl",
+					"sendMonitorUrl",
+					"vaspopupClickTrackings",
+					"alert",
+					"vaspopupClickTrackings",
+					"callbackNotice",
+					"creative",
 					"callNotice",
-					"callbackNo",
-					"10",
-					"isPauseAd",
-					"isVpaidAd",
-					"callbackN",
-					"req",
-					"cltIsMinwindow",
-					"_ovp",
-					"ovp",
-					"callbackNotice",
-					"callback",
-					"isPauseAd",
-					"cltAdType",
-					"pos",
-					"isNonLinear",
-					"callbackNotice",
-					"pauseclick",
-					"AdOpenUrl",
-					"pauseclick",
-					"callbackNotice",
-					"pauseclick",
-					"doClick",
-					"click",
-					"onclick",
-					"异形",
-					"linear",
-					"showPanel",
-					"embedSWF",
-					"srctype",
-					"canPlay",
-					"img",
-					"jpg",
-					"canPlay",
-					"vpaidAdPlayer",
-					"isVpaidSupported",
-					"_pluginCaller",
-					"_getPlayerTestFunction",
-					"_config",
-					"_getPlayerTestFunction",
-					"_getVideoObject",
-					"_pluginCaller",
-					"_getVideoObject",
-					"_getPlayerTestFunction",
-					"_pluginCaller",
-					"strategy",
-					"plugins",
-					"_pluginCaller",
-					"_getPlayerTestFunction",
-					"_pluginCaller",
-					"_getVideoObject",
-					"_playerRender",
-					"playVideo",
-					"genPlayConfig",
-					"NonLin",
 					"doStart",
-					"genPlayConfig",
-					"_playerRender",
-					"playVideo",
-					"genPlayConfig",
-					"doStart",
-					"genPlayConfig",
-					"showEx",
-					"playAds",
-					"startPlay",
-					"callNotice",
-					"异形气泡",
-					"callNotice",
-					"cal",
-					"pos",
-					"callNotice",
-					"adsLong",
-					"startPlay",
-					"callVast",
-					"parseAd",
-					"_parseNonLinearAd",
-					"IgnoreAdvert",
-					"_parseNonLinearAd",
-					"parseAd",
-					"_parseNonLinearAd",
-					"NonLinear",
-					"nonliner",
-					"nonLinear",
-					"callVast",
-					"getAdAndPlay",
-					"rebuildVasturl",
-					"isPauseAd",
-					"rebuildVasturl",
-					"callNotice",
-					"parseRequestPara",
+					"clickTrackings",
+					"概率",
+					"callbackNotice",
 					"CHANNEL_LOCALFILE",
-					"volumebtn",
-					"parseRequestPara",
-					"cltad",
-					"getClientWindowAd",
+					"callbackNotice",
+					"clickTrackings",
+					"ProductTypeId(.*),",
+					"ProductTypeId(\": 0),",
+					"ProductTypeId.*,",
+					".*UpDate.*",
+					"\\n",
+					".*\"CreateDate\".*",
+					"\"CreateDate.*",
+					"\"",
+					"\");",
+					"\", \"",
+					"This XML file does not appear to have any style information associated with it. The document tree is shown below.\n<AD width=\"0\" height=\"0\" type=\"String\" startPlay=\"0\" pos=\"String\" duration=\"15\" id=\"String\">\n<Player frameRate=\"24\">\n<![CDATA[\nhttp://asimgs.pplive.cn/imgs/materials/2014/10/22/20141022162330_Taobao.swf\n]]>\n</Player>\n<Interactions>\n<Events>\n<!-- 【通用事件】 -->\n<Event name=\"ad_load\" match=\"AdLoaded\"/>\n<!-- 广告UI展示层被加载完毕  -->\n<Event name=\"ad_start\" match=\"AdStarted\"/>\n<!-- 广告UI展示层开始展示，开始播放 -->\n<Event name=\"ad_skip\" match=\"AdSkipped\"/>\n<!-- 广告跳过  -->\n\n<Event name=\"ad_complete\" match=\"AdStopped\"/>\n<!-- 广告UI展示层播放结束，开始播放其他广告或者正片 -->\n<Event name=\"ad_error\" match=\"AdError\"/>\n<!-- 广告UI展示层发生错误，通知wrapper，进行相应处理 -->\n<Event name=\"ad_time_change\" match=\"AdRemainingTimeChange\"/>\n<!-- 广告时间发生改变 -->\n<!-- 【视频事件】 -->\n<Event name=\"ad_video_start\" match=\"AdVideoStart\"/>\n<!-- 视频资源开始播放 -->\n<Event name=\"ad_video_complete\" match=\"AdVideoComplete\"/>\n<!-- 视频资源播放结束 -->\n<Event name=\"ad_volume_change\" match=\"AdVolumeChange\"/>\n<!-- 视频声音发生改变 -->\n<Event name=\"ad_video_1stQ\" match=\"AdVideoFirstQuartile\"/>\n<!-- 视频25% -->\n<Event name=\"ad_video_2ndQ\" match=\"AdVideoMidpoint\"/>\n<!-- 视频50% -->\n<Event name=\"ad_video_3rdQ\" match=\"AdVideoThirdQuartile\"/>\n<!-- 视频75% -->\n<Event name=\"ad_video_pause\"/>\n<!-- 广告内的视频播放，应对交互暂停的情况 -->\n<Event name=\"ad_video_click\" match=\"AdClickThru\"/>\n<!-- 视频素材被点击 -->\n</Events>\n<Methods>\n<Method name=\"init\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"object\" optional=\"false\"/>\n</Method>\n<Method name=\"resize\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"width\" optional=\"false\"/>\n<Param index=\"2\" type=\"Number\" name=\"height\" optional=\"false\"/>\n<Param index=\"3\" type=\"String\" name=\"mode\" optional=\"true\"/>\n</Method>\n<Method name=\"startup\" returnType=\"Void\">\n<Param index=\"1\" type=\"Number\" name=\"object\" optional=\"false\"/>\n</Method>\n<Method name=\"erase\" returnType=\"Void\"/>\n</Methods>\n</Interactions>\n<Assets>\n<Asset id=\"0\" width=\"640\" duration=\"15\" height=\"360\" type=\"swf\" bitrate=\"516\">\n<Url>\n<![CDATA[\nhttp://cdn.tanx.com/t/v/paster.swf?pid=mm_15191080_2147689_25770393&u=http://pptv.com&show=1\n]]>\n</Url>\n<Traces>\n<Tracing trigger=\"ad_start\"/>\n<Tracing trigger=\"ad_complete\"/>\n<Tracing trigger=\"ad_video_click\"/>\n</Traces>\n</Asset>\n</Assets>\n</AD>",
+					"rlen",
+					"doVpaidClick",
+					"act",
+					"IsSerial",
+					"7",
+					"sendM",
+					"ver",
+					"sendMonitorUrl",
+					"cltclick",
+					"pauseclick",
+					"cltclick",
+					"doEnd",
+					"]]>",
+					"<![CDATA[",
+					"ptye",
+					"protype",
+					"ptye",
+					"log",
+					"protype",
+					"pos",
+					"notifier",
+					"v",
+					"clickTrackings",
+					"CREATE TABLE `ad_throwgroup` (\n  `Uid` char(255) NOT NULL DEFAULT '',\n  `GroupCode` varchar(50) NOT NULL,\n  `StartDate` datetime NOT NULL,\n  `EndDate` datetime NOT NULL,\n  `AdPositionId` bigint(20) NOT NULL,\n  `VastPlatformValue` bigint(20) NOT NULL DEFAULT '0',\n  `MaterialPlayType` int(11) DEFAULT '0',\n  `ACnielsenFlag` int(11) NOT NULL DEFAULT '0',\n  `PlayHourPeriod` varchar(255) NOT NULL,\n  `ChargeType` bigint(20) NOT NULL,\n  `CreateTime` datetime DEFAULT '1900-01-01 01:01:01',\n  `CreateUser` varchar(50) DEFAULT NULL,\n  `Status` int(11) DEFAULT '0',\n  `exclusiveFlag` int(11) DEFAULT NULL,\n  `Frequency` longtext,\n  `BindAdCode` varchar(255) DEFAULT NULL,\n  `AllowEndAd` int(11) DEFAULT NULL,\n  `OrderCode` varchar(50) NOT NULL,\n  `SaleType` bigint(20) DEFAULT NULL,\n  `ProductId` bigint(20) DEFAULT NULL,\n  `FeeRange` bigint(20) DEFAULT NULL,\n  `Amount` double DEFAULT NULL,\n  `Discount` float DEFAULT NULL,\n  `Cpm` bigint(20) NOT NULL,\n  `CPMAverage` int(11) NOT NULL DEFAULT '1',\n  `Deleted` tinyint(4) NOT NULL DEFAULT '0',\n  `ModifiedBy` varchar(255) DEFAULT NULL,\n  `ModifiedOn` datetime DEFAULT NULL,\n  `Version` bigint(20) NOT NULL DEFAULT '0',\n  `Extended` longtext,\n  `MaxFrequency` int(11) NOT NULL DEFAULT '0',\n  `frequencyPeriod` int(11) NOT NULL DEFAULT '0',\n  `MinFrequency` int(11) NOT NULL DEFAULT '0',\n  `Priority` int(11) NOT NULL DEFAULT '0',\n  `MaterialStatus` int(11) NOT NULL DEFAULT '0',\n  `Title` char(255) NOT NULL,\n  `CustomerId` bigint(20) NOT NULL,\n  `IsAutoResupply` int(4) DEFAULT '0' COMMENT '是否自动补量',\n  `IpLib` varchar(50) NOT NULL DEFAULT '001',\n  `CompetingCustomerIds` text,\n  `hourPeriodJson` text,\n  `isBlackAd` int(4) NOT NULL DEFAULT '0',\n  `statUrlConfig` varchar(255) DEFAULT '1000,1001',\n  `adExchangeType` int(10) DEFAULT NULL COMMENT '选择的adexchange',\n  `adExchangeAuctionType` int(10) DEFAULT NULL COMMENT '竞价方式',\n  `itemTag` text,\n  `throwType` tinyint(4) NOT NULL DEFAULT '0' COMMENT '投放方式',\n  `subThrowType` tinyint(4) NOT NULL DEFAULT '0' COMMENT '投放方式二级类型',\n  `refCoef` float NOT NULL DEFAULT '0' COMMENT 'admaster关联阈值参考值',\n  `coef` float NOT NULL DEFAULT '0' COMMENT 'admaster关联阈值',\n  `districtIds` varchar(255) NOT NULL DEFAULT '',\n  `deviceModel` text COMMENT '定投机型',\n  `peopleTagIds` text NOT NULL COMMENT '人群定投',\n  `isOralAd` int(11) NOT NULL DEFAULT '0',\n  `sKeyWord` varchar(255) DEFAULT NULL,\n  PRIMARY KEY (`Uid`),\n  KEY `inx_GroupCode` (`GroupCode`),\n  KEY `inx_OrderCode` (`OrderCode`)\n) ENGINE=InnoDB DEFAULT CHARSET=utf8",
+					"alert",
+					"customClicks",
+					"clickTrackings",
+					"customClicks",
+					"cltclick",
+					"pauseclick",
+					"cltclick",
+					"finish",
+					"alert",
+					"finish",
+					"shade",
+					"object",
 					"external",
-					"AdWebCallBack",
-					"external"
+					"needShadeWindow",
+					"ovp-shade",
+					"external",
+					"customClicks",
+					"callbackNotice",
+					"doClick",
+					"length",
+					"finish",
+					"doEnd",
+					"callbackNotice",
+					"pauseclick",
+					"cltAdType",
+					"pauseclick",
+					"setNotifyCallback",
+					"callbackNotice",
+					"click"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2068,6 +982,31 @@
 				"regex": true,
 				"replace_history":
 				[
+					"_bgPicDiv",
+					"BgPic",
+					"ProductTypeId$1",
+					"ProductTypeId\\1",
+					"",
+					"\"",
+					"=",
+					"ptye",
+					"%s",
+					"141007",
+					"dt =140929",
+					"140928 and hour >12",
+					"140927",
+					"140921",
+					"dt =140917",
+					"140916 and hour >= 16",
+					"140915 and hour >= 18",
+					"140916",
+					"140914",
+					"140910",
+					"ad_video_complete",
+					"player.as.pptv.com",
+					"object",
+					"",
+					"html5_vars.cltIsAdMute = !this.volume_on;",
 					"01",
 					"amount",
 					"\"",
@@ -2113,212 +1052,22 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "C:\\Windows\\System32\\drivers\\etc"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/C/Windows/System32/drivers/etc/hosts",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1109,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										393,
-										393
-									]
-								],
-								"settings":
-								{
-									"SideBarAutoAddFoldersForOpenedFiles": 1,
-									"encoding_helper_encoding": "cp936",
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 40294,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3212,
-										3212
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1539.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1705,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										435,
-										435
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 127099,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43149,
-										43149
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 414.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 208109,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										118418,
-										118418
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 14512.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 36.0
 			},
 			"input":
 			{
 				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
 			},
 			"menu_visible": false,
 			"output.exec":
 			{
 				"height": 154.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,1060,193,544,1192",
-			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 66.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2365,19 +1114,1251 @@
 				],
 				"width": 0.0
 			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 184.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1130.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"this",
+						"this	$(this)"
+					],
+					[
+						"playerH",
+						"playerHandles"
+					],
+					[
+						"pl",
+						"playerHandles"
+					],
+					[
+						"new",
+						"newdiv"
+					],
+					[
+						"video",
+						"videoconfig"
+					],
+					[
+						"show",
+						"showTime"
+					],
+					[
+						"play",
+						"playtime"
+					],
+					[
+						"_video",
+						"_videodiv"
+					],
+					[
+						"crea",
+						"createElement"
+					],
+					[
+						"_bg",
+						"_bgPic"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"vaspop",
+						"vaspopupClickTrackings"
+					],
+					[
+						"ins",
+						"instname"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"click",
+						"clickHref"
+					],
+					[
+						"window",
+						"Windows"
+					],
+					[
+						"File",
+						"FileUrl"
+					],
+					[
+						"m3",
+						"m3u8file"
+					],
+					[
+						"m3u8",
+						"m3u8file"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"mp4",
+						"mp4name"
+					],
+					[
+						"v",
+						"vpaidType"
+					],
+					[
+						"ThirdM",
+						"ThirdMonitorJson"
+					],
+					[
+						"Thir",
+						"ThirdMonitorClick"
+					],
+					[
+						"font",
+						"fontbold"
+					],
+					[
+						"fon",
+						"fontsize"
+					],
+					[
+						"Thrid",
+						"ThirdMonitorEnd"
+					],
+					[
+						"Third",
+						"ThirdMonitorStart"
+					],
+					[
+						"l",
+						"link"
+					],
+					[
+						"Crea",
+						"CreateUser"
+					],
+					[
+						"ex",
+						"extraMacros"
+					],
+					[
+						"se",
+						"Sequence"
+					],
+					[
+						"mediaTy",
+						"mediaTypeArr"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"shade",
+						"_shadeAddListener"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"backgr",
+						"background-size"
+					],
+					[
+						"exten",
+						"extendedClass"
+					],
+					[
+						"posid",
+						"posid"
+					],
+					[
+						"sptH",
+						"sptHardTemplate"
+					],
+					[
+						"preload",
+						"preloadSrc"
+					],
+					[
+						"api",
+						"apiurl"
+					],
+					[
+						"choo",
+						"chooseTime"
+					],
+					[
+						"answer",
+						"answerParam"
+					],
+					[
+						"third",
+						"thirdmonitor"
+					],
+					[
+						"vpa",
+						"vpaidXml"
+					],
+					[
+						"q",
+						"questioncount"
+					],
+					[
+						"answe",
+						"answercount"
+					],
+					[
+						"lastp",
+						"lastPicjump"
+					],
+					[
+						"lastP",
+						"lastPic"
+					],
+					[
+						"Extension",
+						"Extensions"
+					],
+					[
+						"ext",
+						"Extensions"
+					],
+					[
+						"ad_video",
+						"ad_video_click"
+					],
+					[
+						"post",
+						"poster"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"ad_",
+						"ad_video_click"
+					],
+					[
+						"tri",
+						"trigger	.trigger()"
+					],
+					[
+						"_cur",
+						"_curIndex"
+					],
+					[
+						"pause",
+						"pause"
+					],
+					[
+						"choose",
+						"chooseimg"
+					],
+					[
+						"choosei",
+						"chooseImgSrc"
+					],
+					[
+						"node",
+						"nodeName"
+					],
+					[
+						"_sele",
+						"_selectedIndex"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_",
+						"_currentTime"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"child",
+						"child"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"getE",
+						"getElementsByTagName"
+					],
+					[
+						"answerco",
+						"answercount"
+					],
+					[
+						"_get",
+						"_getAnswerPosLeft"
+					],
+					[
+						"answ",
+						"answerDivWidth"
+					],
+					[
+						"anse",
+						"answerimg"
+					],
+					[
+						"answerd",
+						"answerdiv"
+					],
+					[
+						"not",
+						"notchoosed"
+					],
+					[
+						"creat",
+						"creatives"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"css",
+						"cssText"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"bg",
+						"bgdiv"
+					],
+					[
+						"_add",
+						"_addListener"
+					],
+					[
+						"_vi",
+						"_videoJump"
+					],
+					[
+						"fs",
+						"fsipd"
+					],
+					[
+						"plat",
+						"platform"
+					],
+					[
+						"fsi",
+						"fsiph"
+					],
+					[
+						"encode",
+						"encodeURIComponent"
+					],
+					[
+						"back",
+						"backupAdList"
+					],
+					[
+						"file",
+						"fileUrlList"
+					],
+					[
+						"cont",
+						"context"
+					],
+					[
+						"platc",
+						"playcontext"
+					],
+					[
+						"or",
+						"oralAdTime"
+					],
+					[
+						"recal",
+						"recalcOralAdTime"
+					],
+					[
+						"ads",
+						"adsposibility"
+					],
+					[
+						"iph",
+						"iph"
+					],
+					[
+						"vol",
+						"volume_on"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"div",
+						"div_id"
+					],
+					[
+						"scr",
+						"screen"
+					],
+					[
+						"resize",
+						"resizeRato"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"send",
+						"sendMonitorUrl"
+					],
+					[
+						"ismid",
+						"isMidRollAd_global"
+					],
+					[
+						"compa",
+						"compareVersion"
+					],
+					[
+						"volu",
+						"volume_on"
+					],
+					[
+						"monit",
+						"monitor"
+					],
+					[
+						"medi",
+						"mediaFile"
+					],
+					[
+						"rebuild",
+						"rebuildWebAdUrl"
+					],
+					[
+						"gene",
+						"generateWebAdUrl"
+					],
+					[
+						"silver",
+						"SilverlightVideo"
+					],
+					[
+						"mana",
+						"managedVideo"
+					],
+					[
+						"clt",
+						"cltIsAdMute"
+					],
+					[
+						"isSP",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"seq",
+						"sequence"
+					],
+					[
+						"getPo",
+						"getAdPositionId"
+					],
+					[
+						"ob",
+						"Object"
+					],
+					[
+						"json",
+						"jsonp"
+					],
+					[
+						"ge",
+						"generateJsonUrl"
+					],
+					[
+						"reb",
+						"rebuildJsonurl"
+					],
+					[
+						"initReq",
+						"initReqErrLog"
+					],
+					[
+						"before",
+						"beforeSend"
+					],
+					[
+						"ajaxt",
+						"ajaxTimes"
+					],
+					[
+						"ajaxTime",
+						"ajaxTimeouts"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"callback",
+						"callbackFn"
+					],
+					[
+						"isspec",
+						"isSpecBubbleAd_global"
+					],
+					[
+						"cltad",
+						"cltad"
+					],
+					[
+						"isspe",
+						"isSpecialAd_global"
+					],
+					[
+						"add",
+						"addLoop"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1725,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<%@ page language=\"java\" contentType=\"text/html; charset=UTF-8\"\n    pageEncoding=\"UTF-8\"%>\n<%@ taglib uri=\"http://java.sun.com/jsp/jstl/core\" prefix=\"c\"%>\n<%@ taglib uri=\"http://java.sun.com/jsp/jstl/fmt\" prefix=\"fmt\" %> \n<%@ taglib uri=\"http://java.sun.com/jsp/jstl/functions\" prefix=\"fn\" %> \n<%@ taglib prefix=\"spring\" uri=\"http://www.springframework.org/tags\" %>\n<spring:eval expression=\"@applicationProps['application.version']\" var=\"applicationVersion\"/>\n<spring:eval expression=\"@applicationProps['STATIC9_VERSION']\" var=\"static9Version\"/>\n<spring:url value=\"/resources-{applicationVersion}\" var=\"resourceUrl\">\n	<spring:param name=\"applicationVersion\" value=\"${applicationVersion}\"/>\n</spring:url>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<title>Insert title here</title>\n<link href=\"../css/popup.css?dt=141119\" rel=\"stylesheet\" type=\"text/css\">\n<script type=\"text/javascript\" src=\"http://static9.pplive.cn/ads/${static9Version }/js/jquery-1.7.2.js\"></script>\n<script type=\"text/javascript\" src=\"${resourceUrl}/js/jquery.upload-1.0.2.min.js\"></script>\n<script type=\"text/javascript\" src=\"${resourceUrl}/js/popup.js\"></script>\n<script type=\"text/javascript\" src=\"${resourceUrl}/js/ad_comm.js\"></script>\n<script type=\"text/javascript\" src=\"${resourceUrl}/js/comm.js\"></script>\n    <style type=\"text/css\">\n    	body{\n    		padding:0;\n    		margin: 0;\n    		font-family: 微软雅黑;\n    	}\n    	.timeplan_top{\n    		width:819px;\n    		height: 42px;\n		    color: #555555;\n		    opacity: 1;\n		    border-left:5px solid #B5CFD9;\n			border-right:5px solid #B5CFD9;\n		    background-color:#D1E2EA;\n		    margin:0;\n    	}\n		.timeplan_top .timeplan_title {\n		    font-size:14px;\n		    font-weight: bold;\n		    float: left;\n		    margin: 13px 10px;\n		}\n		.timeplan_top .timeplan_close {\n		    float: right;\n		    height:13px;\n		    width:13px;\n		    margin:13px 10px;\n		    cursor:pointer;\n		}\n		.timeplan_mid{\n			width: 819px;\n			display: inline-block;\n			margin-top: 0;\n		}\n		.timeplan_mid .timeplan_quickchoose {\n		    font-size:12px;\n		    float: left;\n		    margin: 10px 0 0 10px;\n		}\n		.timeplan_mid .timeplan_quickchoose .choose{\n			cursor: pointer;\n			text-decoration: underline;\n			color: #0099cc;\n		}\n		.timeplan_mid .timeplan_legend {\n			font-size:12px;\n		    float:right;\n		    display: inline-block;\n		    line-height: 15px;\n		    vertical-align: middle;\n		    margin: 10px 10px 0 0;\n		}\n		.timeplan_mid .timeplan_legend div{\n			float: right;\n		}\n		.timeplan_mid .timeplan_legend .timeplan_legend_color{\n			width: 15px;\n			height: 15px;\n			display: inline-block;\n			border:0;\n			margin: 0 5px;\n		}\n    	.timeplan_table{\n			border-collapse:collapse;\n			border-spacing:0;\n			font-size:14px;\n			font-family:微软雅黑;\n			text-align: center;\n			margin: 10px 10px 5px 10px;\n			-moz-user-select: none;\n			-webkit-user-select: none;\n			-ms-user-select: none;\n		}\n		.timeplan_table .selected_mult{\n			cursor: pointer;\n			text-align: center;\n			-moz-user-select: none;\n			-webkit-user-select: none;\n			-ms-user-select: none;\n		}\n		.timeplan_table .select_td{\n			width:28px;\n			height:28px;\n			padding:1px;\n			border:1px solid #ffffff;\n			-moz-user-select: none;\n			-webkit-user-select: none;\n			-ms-user-select: none;\n			cursor: pointer;\n			background-color:#E4E4E4;\n			color:#E4E4E4;\n			font-size: 14px;\n		}\n		.div_timeplan_description{\n			font-size: 12px;\n			font-family: 微软雅黑;\n			color: #999999;\n			padding-left:79px;\n			margin-bottom: 10px;\n		}\n		.div_timeplan_operate{\n			text-align:center;\n			margin-bottom: 10px;\n		}\n		.div_timeplan_operate .btn{\n			position:relative;\n			left:10px;\n			background:#D1E2EA;\n			height:25px;\n			width:60px;\n			border:0;\n			cursor: pointer;\n			font-family: 微软雅黑;\n			font-size: 12px;\n		}\n        .hide {\n            display: none;\n        }\n    </style>\n    <script type=\"text/javascript\">\n    \n    	var on_mouse=false;\n    	var color_selected=\"#9FCD34\";\n    	var color_hover_to_selected=\"#FFCC33\";\n    	var color_hover_to_not_selected=\"#88CFFF\";\n    	var color_not_selected=\"#E4E4E4\";\n    	var color_selected_word=\"#FFFFFF\";\n    	var begin_row=0;	\n    	var begin_col=0;\n    	\n    	$(function(){\n    		$.each($(\".select_td\"),function(){\n    			var isSelected=$(this).attr(\"_selected\");\n    			if(isSelected==1){\n    				$(this).attr(\"_status\",1);\n    				$(this).css(\"background-color\",color_selected);\n    				$(this).css(\"color\",color_selected_word);\n    			}else{\n    				$(this).attr(\"_status\",4);\n    				$(this).css(\"background-color\",color_not_selected);\n    				$(this).css(\"color\",color_not_selected);\n    			}\n    			$(this).attr(\"_selected\",\"0\");\n    		});\n    		\n    		$(\".cancle\").click(function(){\n        		cancelSelector();\n    		});\n    		$(\".save\").click(function(){\n    			var hourstr = \"\";\n        		for(var i=1;i<=7;i++) {\n        			$.each($(\".row\"+i),function(){\n        				if($(this).attr(\"_status\")==\"1\") {\n       						hourstr +=$(this).text().trim()+\",\";\n        				}\n        			});\n        			if(i != 7){\n           				hourstr +=\":\";\n           			}\n       			}\n        		//alert(hourstr)\n        		cancelSelector();\n        		// parent.${callback}(hourstr);\n    		});\n    		$(\".selected_mult_row\").click(function(){\n    			var row=$(this).attr(\"_row\");\n    			var isAllSelected=true;\n    			$.each($(\".row\"+row),function(){\n    				if($(this).attr(\"_status\")!=\"1\"){\n    					isAllSelected=false;\n    					return;\n    				}\n    			});\n    			if(isAllSelected){\n    				$(\".row\"+row).attr(\"_status\",4);\n    				$(\".row\"+row).css(\"background-color\",color_not_selected);\n    				$(\".row\"+row).css(\"color\",color_not_selected);\n    			}else{\n    				$(\".row\"+row).attr(\"_status\",1);\n    				$(\".row\"+row).css(\"background-color\",color_selected);\n    				$(\".row\"+row).css(\"color\",color_selected_word);\n    			}\n    		});\n    		$(\".selected_mult_col\").click(function(){\n    			var col=$(this).attr(\"_col\");\n    			var isAllSelected=true;\n    			$.each($(\".col\"+col),function(){\n    				if($(this).attr(\"_status\")!=\"1\"){\n    					isAllSelected=false;\n    					return;\n    				}\n    			});\n    			if(isAllSelected){\n    				$(\".col\"+col).attr(\"_status\",4);\n    				$(\".col\"+col).css(\"background-color\",color_not_selected);\n    				$(\".col\"+col).css(\"color\",color_not_selected);\n    			}else{\n    				$(\".col\"+col).attr(\"_status\",1);\n    				$(\".col\"+col).css(\"background-color\",color_selected);\n    				$(\".col\"+col).css(\"color\",color_selected_word);\n    			}\n    		});\n    		$(\".select_td\").mousedown(function(){\n    			on_mouse=true;\n    			var status=$(this).attr(\"_status\");\n    			if(status==\"1\"){\n    				$(this).attr(\"_status\",3);\n    				$(this).css(\"background-color\",color_hover_to_not_selected);\n    			}else if(status==\"4\"){\n    				$(this).attr(\"_status\",2);\n    				$(this).css(\"background-color\",color_hover_to_selected);\n    				$(this).css(\"color\",color_selected_word);\n    			}\n    			begin_row=$(this).attr(\"_row\")*1;\n    			begin_col=$(this).attr(\"_col\")*1;\n    			$(this).attr(\"_selected\",\"1\");\n    		});\n    		$(\".select_td\").mouseup(function(){\n    			on_mouse=false;\n    			$.each($(\".select_td\"),function(){\n    				var isSelected=$(this).attr(\"_selected\")==\"1\";\n    				if(isSelected){\n    					var status=$(this).attr(\"_status\");\n    					if(status==\"2\"){\n    						$(this).attr(\"_status\",1);\n    	    				$(this).css(\"background-color\",color_selected);\n    					}else if(status==\"3\"){\n    						$(this).attr(\"_status\",4);\n    						$(this).css(\"background-color\",color_not_selected);\n    						$(this).css(\"color\",color_not_selected);\n    					}\n    				}\n    				$(this).attr(\"_selected\",\"0\");\n    			});\n    		});\n    		$(\".select_td\").mouseover(function(){\n    			if(on_mouse){\n    				var end_row=$(this).attr(\"_row\")*1;\n    				var end_col=$(this).attr(\"_col\")*1;\n    				var max_row=0;\n    				var min_row=0;\n    				var max_col=0;\n    				var min_col=0;\n    				if(begin_row>end_row){\n    					max_row=begin_row;\n    					min_row=end_row;\n    				}else{\n    					max_row=end_row;\n    					min_row=begin_row;\n    				}\n    				if(begin_col>end_col){\n    					max_col=begin_col;\n    					min_col=end_col;\n    				}else{\n    					max_col=end_col;\n    					min_col=begin_col;\n    				}\n    				$.each($(\".select_td\"),function(){\n    					var row=$(this).attr(\"_row\")*1;\n    					var col=$(this).attr(\"_col\")*1;\n    					var isSelected=$(this).attr(\"_selected\")==\"1\";\n    					if((max_row>=row&&row>=min_row&&max_col>=col&&col>=min_col&&!isSelected)\n    						||((max_row<row||row<min_row||max_col<col||col<min_col)&&isSelected)){\n    						var status=$(this).attr(\"_status\");\n    						if(status==\"1\"){\n    							$(this).css(\"background-color\",color_hover_to_not_selected);\n    							$(this).attr(\"_status\",3);\n    						}else if(status==\"2\"){\n    							$(this).css(\"background-color\",color_not_selected);\n    							$(this).attr(\"_status\",4);\n    							$(this).css(\"color\",\"#E4E4E4\");\n    						}else if(status==\"3\"){\n    							$(this).css(\"background-color\",color_selected);\n    							$(this).attr(\"_status\",1);\n    						}else if(status==\"4\"){\n    							$(this).css(\"background-color\",color_hover_to_selected);\n    							$(this).css(\"color\",color_selected_word);\n    							$(this).attr(\"_status\",2);\n    						}\n    						if(!isSelected){\n    							$(this).attr(\"_selected\",\"1\");\n    						}else{\n    							$(this).attr(\"_selected\",\"0\");\n    						}\n    					}\n    				});\n    			}else{\n    				$(this).css(\"color\",color_selected_word);\n    			}\n    		});\n    		$(\".select_td\").mouseout(function(){\n    			if(!on_mouse\n    					&&$(this).attr(\"_status\")=='4'){\n    				$(this).css(\"color\",color_not_selected);\n    			}\n    		});\n    		$(\".workdays\").click(function(){\n    			var isAllSelected=true;\n    			for(var i=1;i<=5;i++){\n    				if(isAllSelected){\n        				$.each($(\".row\"+i),function(){\n            				if($(this).attr(\"_status\")!=\"1\"){\n            					isAllSelected=false;\n            					return;\n            				}\n            			});\n        			}\n    				if(!isAllSelected){\n    					break;\n    				}\n    			}\n    			var to_status=1;\n    			var to_bg_color=color_selected;\n    			var to_color=color_selected_word;\n    			if(isAllSelected){\n    				to_status=4;\n    				to_bg_color=color_not_selected;\n    				to_color=color_not_selected;\n    			}\n    			for(var i=1;i<=5;i++){\n    				$(\".row\"+i).attr(\"_status\",to_status);\n    				$(\".row\"+i).css(\"background-color\",to_bg_color);\n    				$(\".row\"+i).css(\"color\",to_color);\n    			}\n    		});\n			$(\".weekends\").click(function(){\n				var isAllSelected=true;\n    			$.each($(\".row6\"),function(){\n    				if($(this).attr(\"_status\")!=\"1\"){\n    					isAllSelected=false;\n    					return;\n    				}\n    			});\n    			if(isAllSelected){\n    				$.each($(\".row7\"),function(){\n        				if($(this).attr(\"_status\")!=\"1\"){\n        					isAllSelected=false;\n        					return;\n        				}\n        			});\n    			}\n    			if(isAllSelected){\n    				$(\".row6\").attr(\"_status\",4);\n    				$(\".row7\").attr(\"_status\",4);\n    				$(\".row6\").css(\"background-color\",color_not_selected);\n    				$(\".row7\").css(\"background-color\",color_not_selected);\n    				$(\".row6\").css(\"color\",color_not_selected);\n    				$(\".row7\").css(\"color\",color_not_selected);\n    			}else{\n    				$(\".row6\").attr(\"_status\",1);\n    				$(\".row7\").attr(\"_status\",1);\n    				$(\".row6\").css(\"background-color\",color_selected);\n    				$(\".row7\").css(\"background-color\",color_selected);\n    				$(\".row6\").css(\"color\",color_selected_word);\n    				$(\".row7\").css(\"color\",color_selected_word);\n    			}\n    		});\n    	});\n    	\n    	function cancelSelector(){\n    		$('#periodDiv',parent.document).css('display','none');\n    		$('#popbgdiv',parent.document).css('display','none');\n    	}\n\n\n		function fileChange(node){\n	        $(node).upload('../material/upload_v1.0.do', function(res) {\n	        	var isOk = res.isok;\n	        	if(isOk){               \n	        		console.info(res.object);        \n	        	}else{\n	        		alert(res.message);\n	        		// $(node).val('');\n	        	}\n	        }, 'json');\n		}\n        $(function(){\n            initPopDiv();\n            initBlankDiv('CGCreate', 'CGCreateDiv');\n            initBlankDiv('productCreate', 'productCreateDiv');\n\n            $('.playHourPeriod').change(function(){\n                var value = $(this).val();\n                if(value == 1){\n                    $('.specialHourTable').removeClass('hide');\n                }else{\n                    $('.specialHourTable').addClass('hide');\n                    $('.timeplan_div').addClass('hide');\n                }\n            });\n\n            $('#advancedPlayHourPeriod').click(function(event) {\n                var value = $('chooseAdvancedPlayHourPeriod').val();\n                if(value = )\n                $('.timeplan_div')\n            });\n        });\n        \n		\n        function createCampaignGroup(evt){\n			 _SelectPop('../campaigngroup/createCampaignGroup.do',createCampaignGroupOk,'CGCreate','CGCreateDiv');\n            showDiv(evt,385,150,'CGCreateDiv');\n		}\n\n        function createCampaignGroupOk(arr){\n            var option = $('<option value=\"' + arr.code + '\">' + arr.name + '</option>');\n            $('#groupCode').append(option);\n        }\n\n        function createProduct(evt){\n            _SelectPop('../product/createProduct.do',createProductOk,'productCreate','productCreateDiv');\n            showDiv(evt,385,150,'productCreateDiv');\n        }\n\n        function createProductOk(arr){\n            var option = $('<option value=\"' + arr.id + '\">' + arr.name + '</option>');\n            $('#productId').append(option);\n        }\n\n\n\n    </script>\n</head>\n<body>\n<div id=\"wrapBasic\">\n<h1>广告信息</h1>\n	<div>\n		<label>广告组</label>\n		<select name=\"groupCode\" id=\"groupCode\" style=\"width:100px;\">\n            <c:forEach items=\"${campaignGroupList}\" var=\"campaignGroup\">\n                <option value=\"${campaignGroup.groupCode}\" <c:if test=\"${campaignGroup.groupCode eq campaign.groupCode}\">selected=\"selected\"</c:if>  >${campaignGroup.groupName}</option>\n			</c:forEach>\n		</select>\n		<a href=\"javascript:createCampaignGroup(event);\">新建广告组</a>\n	</div>\n	<div>\n		<label>广告名称</label>\n		<input name=\"campaignName\" id=\"campaignName\" value=\"${campaign.campaignName}\">\n	</div>\n	<div>\n		<label>产品名称</label>\n		<select name=\"productId\" id=\"productId\" style=\"width:100px;\">\n			<c:forEach items=\"${productList}\" var=\"product\">\n                <option value=\"${product.productId}\" <c:if test=\"${product.productId eq campaign.productId}\">selected=\"selected\"</c:if>  >${product.productName}</option>\n            </c:forEach>\n		</select>\n        <a href=\"javascript:createProduct(event);\">新建产品</a>\n	</div>\n	<div>\n		<label>点击链接</label>\n		<input name=\"link\" id=\"link\" value=\"${campaign.material.link}\">\n	</div>\n	<div>\n		<label>投放日期</label>\n		<input type=\"date\" name=\"startDate\" id=\"startDate\">\n		至\n		<input type=\"date\" name=\"endDate\" id=\"endDate\">\n	</div>\n	<div>\n		<label>时间选择</label>\n		<label><input type=\"radio\" class=\"playHourPeriod\" name=\"playHourPeriod\" value=\"0\">全部时段</label>\n		<label><input type=\"radio\" class=\"playHourPeriod\" name=\"playHourPeriod\" value=\"1\">特定时段</label>\n		<a href=\"javascript:;\" id=\"advancedPlayHourPeriod\">高级设置</a>\n        <input type=\"hide\" name=\"chooseAdvancedPlayHourPeriod\" id=\"chooseAdvancedPlayHourPeriod\" value=\"0\">\n        <table border=\"0\" cellspacing=\"1\" cellpadding=\"1\" class=\"specialHourTable\">\n            <tr>\n                <td>\n                    <select name=\"playHours\" size=\"5\" multiple style=\"width:130px;\">\n                        <option value=\"24\">全部时段</option>\n                    </select>\n                </td>\n                <td>\n                    <input type=\"button\" value=\"<<添加\" class=\"BUTTON0\" onclick=\"addHour();\">\n                    <br><br>\n                    <input type=\"button\" value=\"删除>>\" class=\"BUTTON0\" onclick=\"deleteHour();\">\n                </td>\n                <td valign=\"top\">\n                    <select name=\"allHourForSelect\" size=\"5\" multiple style=\"width:120px;\">\n\n                    </select>\n                </td>\n            </tr>\n        </table>\n		<div class=\"timeplan_div\">  \n			<div class=\"timeplan_mid\">\n				<div class=\"timeplan_quickchoose\">\n					<span>快速选择：</span>\n					<span class=\"choose workdays\">工作日</span>\n					<span class=\"choose weekends\" style=\"margin-left: 20px;\">周末</span>\n				</div>\n				<div class=\"timeplan_legend\">\n					<div>不投放</div>\n					<div class=\"timeplan_legend_color\" style=\"background-color:#E4E4E4 \"></div>\n					<div>投放</div>\n					<div class=\"timeplan_legend_color\" style=\"background-color:#9FCD34 \"></div>\n				</div>\n			</div>\n			<table class=\"timeplan_table\">\n				<tr class=\"timeplan_table_biaotou\">\n					<td style=\"width: 63px;text-align:center;\"></td>\n					<c:forEach var=\"hournum\" begin=\"0\" end=\"23\" step=\"1\">\n					<td class=\"selected_mult selected_mult_col\" _col=\"${hournum }\" style=\"color:#999999;\">\n					${hournum }\n					</td>\n					</c:forEach>\n				</tr>\n				<c:forEach var=\"weekdaynum\" begin=\"1\" end=\"7\" step=\"1\">\n				<tr class=\"timeplan_table_data\">\n					<td class=\"selected_mult selected_mult_row\" _row=\"${weekdaynum} \" style=\"color:#333333;padding-right:10px;font-size: 12px;\">\n						<c:choose>\n						<c:when test=\"${weekdaynum==1 }\">星期一</c:when>\n						<c:when test=\"${weekdaynum==2 }\">星期二</c:when>\n						<c:when test=\"${weekdaynum==3 }\">星期三</c:when>\n						<c:when test=\"${weekdaynum==4 }\">星期四</c:when>\n						<c:when test=\"${weekdaynum==5 }\">星期五</c:when>\n						<c:when test=\"${weekdaynum==6 }\">星期六</c:when>\n						<c:when test=\"${weekdaynum==7 }\">星期天</c:when>\n						</c:choose> \n					</td>\n					<c:forEach var=\"hournum\" begin=\"0\" end=\"23\" step=\"1\">\n					<td class=\"select_td row${weekdaynum } col${hournum }\" _row=\"${weekdaynum }\" _col=\"${hournum }\" _status=\"4\" >\n					${hournum }\n					</td>\n					</c:forEach>\n				</tr>\n				</c:forEach>\n			</table>\n			<div class=\"div_timeplan_description\">\n				单击、或单击并拖动方格【选中/取消时段】，\n				点击【小时】或【星期】可选中整列或整行\n			</div>\n\n		</div>\n	</div>\n	<div>\n		<input type=\"button\" value=\"取消\" class=\"btn cancle\" >\n			&nbsp;\n		<input type=\"button\" value=\"下一步\" class=\"btn next\">\n	</div>\n</div>\n<div id=\"wrapCreative\" style=\"margin-top:100px;\">\n	<div>\n		<label>投放平台</label>\n		<label><input type=\"radio\" name=\"platformId\" value=\"0\">PC客户端</label>\n		<label><input type=\"radio\" name=\"platformId\" value=\"1\">PC网站</label>\n	</div>\n	<div>\n		<label>广告位</label>\n		<label><input type=\"radio\" name=\"positionId\" value=\"0\">前贴</label>\n		<label><input type=\"radio\" name=\"positionId\" value=\"1\">暂停</label>\n	</div>\n	<div style=\"width:640px;height:360px;display:inline-block;\">\n		<img src=\"http://asimgs.pplive.cn/imgs/materials/2014/7/16/20140716134753_ipad-E8838CE699AFE59BBE-1030-577+28129.jpg\" style=\"width:100%;height:100%\">\n	</div>\n	<div>\n		<label style=\"height:31px;line-height:31px;width:130px;display:block;color:#fff;background:#6cae1a;border:1px solid #7bab31;cursor:pointer\" for=\"uploadMaterial\">点击上传</label>\n		<input type=\"file\" name=\"upfile\" class=\"upfile\" value=\"点击上传\" id=\"uploadMaterial\" onchange=\"fileChange(this);\" style=\"opacity:0;filter:alpha(opacity=0);width:218px;height:0px;\">\n	</div>\n	<div>\n\n	</div>\n</div>\n<div id=\"wrapTargeting\">\n	\n</div>\n<div id=\"wrapPreview\">\n</div>\n</body>\n</html>",
+					"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+					"file_size": 20111,
+					"file_write_time": 130613571066322024,
+					"settings":
+					{
+						"buffer_size": 19198,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"for",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"mp",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"mark",
+						"Set Syntax: Markdown"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"back",
+						"Preferences: Browse Packages→浏览程序包"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+					],
+					[
+						"mdk",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"add",
+						"Package Control: Add Repository"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					],
+					[
+						"GIT:",
+						"Git: Commit history"
+					],
+					[
+						"li",
+						"Permute Lines: Unique→唯一"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"python",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					],
+					[
+						"int",
+						"Indentation: Convert to Tabs→转换为标签"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装程序包"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package→删除程序包"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"print(1);",
+					"print(1)",
+					"print \"1\"",
+					"print '1'",
+					"console.info(true)",
+					"print 'll'",
+					"print ll",
+					"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/i-robinzhou/Desktop/10.sql",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/C/Users/i-robinzhou/Desktop/ads.xml",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/Constant.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/applicationContext.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/commons-logging.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/spring-mvc-servlet.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/log4j.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/resources/init.properties",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/pom.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/WEB-INF/web.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/ppDspManager.iml",
+				"/D/ads/adsgitlab/ads-vnow/ppdspmanager/pom.xml",
+				"/D/home/adlogs/materialsyncerror.log",
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/C/Users/i-robinzhou/Desktop/m3u8.py",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDImpressAd2.0.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Slide.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPIP.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDImpressAd2.0.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/C/Users/i-robinzhou/Desktop/10.csv",
+				"/C/Users/i-robinzhou/Desktop/30.csv",
+				"/C/Users/i-robinzhou/Desktop/39.csv",
+				"/C/Users/i-robinzhou/Desktop/12.csv",
+				"/C/Users/i-robinzhou/Desktop/11.csv",
+				"/D/ads/adsgitlab/peopleAttributeRedis/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/Desktop/nocrm.sql",
+				"/C/Users/i-robinzhou/Desktop/hosts - 快捷方式.lnk",
+				"/D/ads/adsgitlab/ads-template/m3u8.py",
+				"/D/ads/adsgitlab/ads-template/ppx_common.js",
+				"/D/Python/m3u8.py",
+				"/C/Users/i-robinzhou/Downloads/fedora-163.repo",
+				"/D/Python/ipaddress/test.py",
+				"/D/Python/incremental_people_attribute.py",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/Python/ad_position_daily_pv.py",
+				"/D/Python/test.py",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.py",
+				"/C/Users/i-robinzhou/Desktop/IP_20131211库/superadmin.csv",
+				"/C/Users/i-robinzhou/Desktop/ipCompare.txt",
+				"/D/Python/ipaddress/ip_address.py",
+				"/D/Python/ipaddress/data/116.txt",
+				"/D/perl/analyse.pl",
+				"/D/Python/pyftp.py",
+				"/D/Python/IP.py",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/C/Users/i-robinzhou/Desktop/ads_sprint_30_robinzhou_ordermail_baseonorderMVC.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint59-Jackli-PPAdExchange-SystemVar-Config.sql",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/freemarkertemplate/throwInfoChange_v1.0.ftl",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/C/Users/i-robinzhou/Desktop/公益频道.sql",
+				"/C/Users/i-robinzhou/Desktop/error (2)",
+				"/E/material/m3u8/bose141008tyqt30s.m3u8",
+				"/C/Users/i-robinzhou/Desktop/ed141007",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/i-robinzhou/Desktop/ed",
+				"/E/material/20140929101453_guangliang.m3u8",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/error",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2 (2).m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/C/Users/i-robinzhou/Desktop/ed (2)",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/C/Users/i-robinzhou/Downloads/6a18ddde0e571a0cbccaca4dfd245025-4c2d2c9e3d52637c653ea5fa8d9209f2.m3u8",
+				"/D/Program Files/apache2.2/htdocs/html5/intractivead.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/ads/adsgitlab/ovptest/web/vast3.0draft.xml",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/css/vpaid.css",
+				"/C/Users/i-robinzhou/Downloads/vast3_draft.xsd (1)/vast3_draft.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/ads/adsgitlab/ovptest/web/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_batch_create_throwactivity.jsp",
+				"/C/Users/i-robinzhou/Downloads/683213d3e2558e2e5b5a3a72b044d626 (1).m3u8",
+				"/C/Users/i-robinzhou/Downloads/13de45d549c48ea4d4f9043759766ece.m3u8",
+				"/D/ed (2)",
+				"/C/Users/i-robinzhou/Desktop/errorType",
+				"/D/ads/adsgitlab/ads-vpaid/configXML/VPAIDImpressAd2.0.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/mutils.xml",
+				"/D/ed",
+				"/D/error",
+				"/C/Users/i-robinzhou/Desktop/customer2.csv",
+				"/C/Users/i-robinzhou/Desktop/customer1.csv",
+				"/D/error (2)",
+				"/C/Users/i-robinzhou/Desktop/daat.csv",
+				"/U/.ssh/id_rsa.pub",
+				"/D/Program Files/apache2.2/htdocs/vpaid/Interactive.xml",
+				"/E/material/ed",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/order/default_ad_list.jsp",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/tgvasttag.xml",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/system variable.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/Wrapper.swf",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/wrapper_test.js",
+				"/D/Program Files/apache2.2/htdocs/html5/ImpressBuild.xml",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.txt",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/vpaid/vpaid_material_Impress.jsp",
+				"/C/Users/i-robinzhou/Desktop/系统变量修改.json",
+				"/C/Users/i-robinzhou/Desktop/chargeType.csv",
+				"/D/ads/adsgitlab/ads-vpaid/flashsource/Wrapper/Wrapper.as3proj",
+				"/D/ads/adsgitlab/.gitignore",
+				"/C/Windows/System32/drivers/etc/lmhosts.sam"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"createCampaignGroup",
+					"doVpaidClick",
+					"_throwMatchEvent",
+					"callbackNotice",
+					"AdClickThru",
+					"fileChange",
+					"parseAd",
+					"bipBaseUrl",
+					"bip",
+					"暂停",
+					"doEnd",
+					"waittime",
+					"islocked",
+					"doEnd",
+					"playAds",
+					"owner",
+					"ERROR",
+					"wrapperNode",
+					"ovp_container_class",
+					"wrapper",
+					"ovp-video-normal-wrapper",
+					"showPanel",
+					"ThirdAd",
+					"alert",
+					"render",
+					"_getVideoObject",
+					"_pluginCaller",
+					"_playerRender",
+					"_ovp",
+					"baseConstructor",
+					"isPauseAd",
+					"22",
+					"pause",
+					"show",
+					"callNotice",
+					"show",
+					"ThirdAd",
+					"F806B733-087A-44A9-9BA3-CEB6BA9EF0B7",
+					"de.as.pp",
+					"Video",
+					";\n",
+					"onAd_video_complete",
+					"complete",
+					"ad_video_complete",
+					"onAd_complete",
+					"22",
+					"ThirdAdObject",
+					"show",
+					"isStart",
+					"waittime",
+					"ThirdAdObject",
+					"robinzhou",
+					"sendMo",
+					"isPauseAd",
+					"alert",
+					"isPauseAd",
+					"pause",
+					"pos",
+					"ThirdAd",
+					"alert",
+					"playVideo",
+					"ThirdAdObject",
+					"ThirdAd",
+					"managedVideo",
+					"doThirdQuartile",
+					"tracks",
+					"startPlay",
+					"ThirdAd",
+					"thirdAd",
+					"1111",
+					"ThirdAdObject",
+					"Third",
+					"Thirdob",
+					"playlistmode",
+					"startPlay",
+					"getAdAndPlay",
+					"暂停",
+					"doFirstQuartile",
+					"impressions",
+					"paras",
+					"Impress",
+					"complete",
+					"ad_complete",
+					"onAd_complete",
+					"_currentTime",
+					"cssText",
+					"_executeSubscribe",
+					"_videoSize",
+					"pause",
+					"pauseAd",
+					"stopAd",
+					"_executeSubscribe",
+					"_isPause",
+					"cssText",
+					"_lastPicDiv",
+					"_videoSize",
+					"_calc_videoSize",
+					"LastPic",
+					"getCurrentTime",
+					"currentTime",
+					"resumeAd",
+					"暂停",
+					"subject",
+					"divWidth",
+					"application/javascript",
+					"choosed",
+					"CASUSLLOOKVIDEO",
+					"defaultstr",
+					"parsePolicy",
+					"getPolicy",
+					"300100",
+					"fop",
+					"浮层",
+					"parsePolicy",
+					"getPolicy",
+					"浮层",
+					"SDKMatcher",
+					"createMonitorObj",
+					"ownerMatcher",
+					"needUseSDK",
+					"monitorurl",
+					"protectiontime",
+					"MAX_VALUE",
+					"rlen",
+					"后贴",
+					"initReqErrLog(4",
+					"4",
+					"et = 4"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"_bgPicDiv",
+					"BgPic",
+					"ProductTypeId$1",
+					"ProductTypeId\\1",
+					"",
+					"\"",
+					"=",
+					"ptye",
+					"%s",
+					"141007",
+					"dt =140929",
+					"140928 and hour >12",
+					"140927",
+					"140921",
+					"dt =140917",
+					"140916 and hour >= 16",
+					"140915 and hour >= 18",
+					"140916",
+					"140914",
+					"140910",
+					"ad_video_complete",
+					"player.as.pptv.com",
+					"object",
+					"",
+					"html5_vars.cltIsAdMute = !this.volume_on;",
+					"01",
+					"amount",
+					"\"",
+					"",
+					"'",
+					"1556",
+					"ad_PPTV_DAAT",
+					"140401",
+					"@dt",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"ik_StartDelay",
+					"pltb_play",
+					"Dim_LiveOndemand_cid",
+					"ik_pv",
+					"clt",
+					"cl_Play",
+					"iphone",
+					"102",
+					"",
+					"int",
+					"",
+					"id",
+					"_direction",
+					"_sps",
+					"onAd_Controlbar_click",
+					"",
+					"_ViewDiv",
+					"View",
+					"_Creative",
+					"_destroyTimeInterval",
+					"P",
+					"F",
+					"$",
+					"@",
+					"that._btntype",
+					"-",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Windows/System32/drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										247,
+										247
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12763,
+										12763
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9059.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 154.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,850,557,201,1703",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"de.as",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\VPAIDImpressAd2.0.xml"
+					],
+					[
+						"impr",
+						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
+					],
+					[
+						"bgin",
+						"VPAIDBgInteractiveAd.js"
+					],
+					[
+						"vpaid",
+						"VPAIDInteractiveAd.js"
+					],
+					[
+						"people",
+						"D:\\Python\\incremental_people_attribute.py"
+					],
+					[
+						"",
+						"E:\\vpaid-test\\Impress\\Impress.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 838.0,
+				"selected_items":
+				[
+				],
+				"width": 1600.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
 			"settings":
 			{
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 13,
+			"window_id": 19,
 			"workspace_name": ""
 		}
 	],

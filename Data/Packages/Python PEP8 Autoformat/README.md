@@ -57,6 +57,20 @@ You'll find settings in Preferences menu (Preferences -> Package Settings -> Pyt
 
 By editing User settings, your personal liking will be kept safe over plugin upgrades.
 
+## Indent size
+
+PEP8 suggests using 4 spaces for indentation, but because that sometimes varies on a project by project basis, autopep8 has a --indent-size parameter.
+
+If you wish to change the indent size, you can add in a key to your package settings. By default it uses 4.
+
+    {
+        ...
+        
+        "indent-size": 2,
+        
+        ...
+    }
+
 ## Usage
 
 Formatting is applied on the whole document.
@@ -86,7 +100,7 @@ Useful companions to Python PEP8 Autoformat:
 
 ## License
 
-Copyright 2012-2013 Stéphane Bunel
+Copyright 2012-2014 Stéphane Bunel
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
