@@ -1,19 +1,30 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
 		"/D/ads/adsgitlab/ovptest",
 		"/D/Python",
+=======
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 		"/D/Program Files/apache2.2/htdocs/html5",
 		"/E/CreateJS",
 		"/D/vpaid",
 		"/C/Users/i-robinzhou/Downloads/7bfb145a-71b7-4ec1-80e6-7fa1bb671b1e"
 	],
 	"last_version": 3038,
+<<<<<<< HEAD
 	"last_window_id": 20,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 591.0,
+=======
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 484.0,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -21,6 +32,7 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"crea",
 						"createElement"
 					],
@@ -531,12 +543,525 @@
 					[
 						"start",
 						"startDate"
+=======
+						"ads_",
+						"ads_request"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"_left",
+						"_leftadtime"
+					],
+					[
+						"thi",
+						"_thisadtime"
+					],
+					[
+						"_get",
+						"_getLocalProxyUrl"
+					],
+					[
+						"media",
+						"mediafile"
+					],
+					[
+						"local",
+						"localproxy"
+					],
+					[
+						"paras",
+						"parastr"
+					],
+					[
+						"pl",
+						"platform"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"OUT",
+						"OUTFILE2"
+					],
+					[
+						"city",
+						"city"
+					],
+					[
+						"out",
+						"OUTDIFF"
+					],
+					[
+						"db",
+						"dbcity"
+					],
+					[
+						"wh",
+						"whole"
+					],
+					[
+						"area",
+						"area1"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"col",
+						"col_min"
+					],
+					[
+						"col_",
+						"col_min"
+					],
+					[
+						"work",
+						"worksheet"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"inn",
+						"innerhtml"
+					],
+					[
+						"ne",
+						"nextpic"
+					],
+					[
+						"ans",
+						"answer1"
+					],
+					[
+						"pic",
+						"_picindex"
+					],
+					[
+						"creat",
+						"creative"
+					],
+					[
+						"value",
+						"VALUES"
+					],
+					[
+						"vo",
+						"Void"
+					],
+					[
+						"re",
+						"returnType"
+					],
+					[
+						"ad_vid",
+						"ad_video_click"
+					],
+					[
+						"ad",
+						"ad_video_end"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"V",
+						"VpaidEvent3"
+					],
+					[
+						"Vpa",
+						"VpaidEvent2"
+					],
+					[
+						"VpaidE",
+						"VpaidEvent1"
+					],
+					[
+						"a",
+						"ad_answer_open"
+					],
+					[
+						"ani",
+						"animated2"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"start",
+						"startTime"
+					],
+					[
+						"draw",
+						"drawStart"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_re",
+						"_resizeScale"
+					],
+					[
+						"create",
+						"createBtns"
+					],
+					[
+						"_con",
+						"_controlBar"
+					],
+					[
+						"auto",
+						"autobuffer"
+					],
+					[
+						"ads",
+						"ads_request"
+					],
+					[
+						"VV",
+						"VVsum"
+					],
+					[
+						"UV",
+						"UVsum"
+					],
+					[
+						"IP",
+						"IPCity"
+					],
+					[
+						"base",
+						"baseUrl"
+					],
+					[
+						"appen",
+						"appendChild"
+					],
+					[
+						"ass",
+						"assets_obj"
+					],
+					[
+						"_init",
+						"_initBackground"
+					],
+					[
+						"_tdC",
+						"_tdCodeDiv"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"last",
+						"_lastvideo"
+					],
+					[
+						"_slider",
+						"_sliderBlock"
+					],
+					[
+						"_sl",
+						"_sliderBlock"
+					],
+					[
+						"_cr",
+						"_Creative"
+					],
+					[
+						"des",
+						"destroyAutoMove"
+					],
+					[
+						"psu",
+						"pause"
+					],
+					[
+						"sli",
+						"Slider"
+					],
+					[
+						"_s",
+						"_slideWidth"
+					],
+					[
+						"_bg",
+						"_bgWidth"
+					],
+					[
+						"_st",
+						"_startSlideInterval"
+					],
+					[
+						"upd",
+						"updateImage"
+					],
+					[
+						"en",
+						"encodeURIComponent"
+					],
+					[
+						"sin",
+						"sinaRegx"
+					],
+					[
+						"_ge",
+						"_getExtensionValue"
+					],
+					[
+						"_wo",
+						"_word"
+					],
+					[
+						"_wor",
+						"_wordLeft"
+					],
+					[
+						"wordr",
+						"wordRight"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"Ex",
+						"Extension"
+					],
+					[
+						"touch",
+						"touch"
+					],
+					[
+						"cli",
+						"clientX"
+					],
+					[
+						"mouse",
+						"mousedown	mousedown"
+					],
+					[
+						"pso",
+						"pos_x"
+					],
+					[
+						"sl",
+						"Slider"
+					],
+					[
+						"pos",
+						"pos_x"
+					],
+					[
+						"slid",
+						"sliderBlock"
+					],
+					[
+						"init",
+						"init"
+					],
+					[
+						"up",
+						"updateImage"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"off",
+						"offset	.offset"
+					],
+					[
+						"_ini",
+						"_initialized"
+					],
+					[
+						"backgr",
+						"background-image"
+					],
+					[
+						"_add",
+						"_addSharebtnListener"
+					],
+					[
+						"_time",
+						"_timep"
+					],
+					[
+						"VIdeo",
+						"VideoSel"
+					],
+					[
+						"_video",
+						"_videoSelbtn"
+					],
+					[
+						"_pic",
+						"_picSelbtn"
+					],
+					[
+						"pause",
+						"pauseAd"
+					],
+					[
+						"_see",
+						"_selectType"
+					],
+					[
+						"_control",
+						"_controlBar"
+					],
+					[
+						"Pic",
+						"PicSel"
+					],
+					[
+						"_sele",
+						"_selectType"
+					],
+					[
+						"_vid",
+						"_video"
+					],
+					[
+						"Video",
+						"Video"
+					],
+					[
+						"Eve",
+						"Event"
+					],
+					[
+						"click",
+						"clicktype"
+					],
+					[
+						"du",
+						"document"
+					],
+					[
+						"_share",
+						"_sharebtn"
+					],
+					[
+						"vd",
+						"vdjump"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"_select",
+						"_selectType"
+					],
+					[
+						"_la",
+						"_lastvideo"
+					],
+					[
+						"_choose",
+						"_chooseDiv"
+					],
+					[
+						"view",
+						"View"
+					],
+					[
+						"_large",
+						"_largeVideo"
+					],
+					[
+						"_vi",
+						"_video"
+					],
+					[
+						"_ch",
+						"_choose"
+					],
+					[
+						"initL",
+						"initLargeVideo"
+					],
+					[
+						"_lar",
+						"_largeVideo"
+					],
+					[
+						"vide",
+						"VideoView"
+					],
+					[
+						"de",
+						"destroyTimeInterval"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"Ms",
+						"Mask"
+					],
+					[
+						"_se",
+						"_selectpics"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"crea",
+						"_picCreative"
+					],
+					[
+						"choose",
+						"Choose"
+					],
+					[
+						"_in",
+						"_index"
+					],
+					[
+						"_choo",
+						"_choose"
+					],
+					[
+						"picView",
+						"PicView"
+					],
+					[
+						"_ma",
+						"_maskDiv"
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
+<<<<<<< HEAD
 				"height": 104.0,
 				"selected_items":
 				[
@@ -547,12 +1072,21 @@
 					[
 						"for",
 						"Pretty JSON: Format (Pretty Print) JSON"
+=======
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					],
 					[
 						"view",
 						"View: Toggle Side Bar→切换侧栏"
 					],
 					[
+<<<<<<< HEAD
 						":w",
 						":w - Save"
 					],
@@ -578,6 +1112,9 @@
 					],
 					[
 						"sql",
+=======
+						"forma",
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"FormatSQL: Format SQL statement"
 					],
 					[
@@ -593,6 +1130,13 @@
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
+=======
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"pack",
 						"Package Control: Install Package"
 					],
@@ -661,6 +1205,13 @@
 						"Indentation: Convert to Tabs→转换为标签"
 					],
 					[
+<<<<<<< HEAD
+=======
+						"for",
+						"Format: Javascript"
+					],
+					[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"package",
 						"Package Control: Install Package"
 					],
@@ -673,7 +1224,11 @@
 						"Package Control: Remove Package→删除程序包"
 					]
 				],
+<<<<<<< HEAD
 				"width": 504.0
+=======
+				"width": 576.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"console":
 			{
@@ -701,6 +1256,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
 				"/D/Program Files/apache2.2/htdocs/html5/VPAIDPIP.js",
 				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
@@ -833,6 +1389,140 @@
 			"find":
 			{
 				"height": 36.0
+=======
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/policy.xml",
+				"/D/Python/memory",
+				"/D/xxxxxxxxx/uv01-27.txt",
+				"/D/xxxxxxxxx/sum.txt",
+				"/D/xxxxxxxxx/uv21-27.txt",
+				"/D/xxxxxxxxx/uv14-20.txt",
+				"/D/xxxxxxxxx/uv07-13.txt",
+				"/D/xxxxxxxxx/uv01-06.txt",
+				"/C/Users/i-robinzhou/Desktop/system.csv",
+				"/C/Users/i-robinzhou/Desktop/查VV数据",
+				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/C/Users/i-robinzhou/Desktop/tmp.txt",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/C/Users/i-robinzhou/Desktop/sort.txt",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/U/.ssh/known_hosts",
+				"/U/.gitconfig",
+				"/C/Program Files (x86)/Git/etc/termcap",
+				"/C/Program Files (x86)/Git/etc/inputrc",
+				"/C/Program Files (x86)/Git/etc/gitconfig",
+				"/C/Program Files (x86)/Git/etc/profile",
+				"/C/Program Files (x86)/Git/etc/git-completion.bash",
+				"/C/Program Files (x86)/Git/etc/fileList-bindimage.txt",
+				"/U/.ssh/id_rsa.pub",
+				"/D/ads/robinzhou.txt.pub",
+				"/D/ads/adsgit/ads-vpaid/ad-player/Impress.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgit/ovptest/web/js/player.js",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast_selectJsAd.xml",
+				"/D/Program Files/apache2.2/htdocs/html/html5/vast3.0draft.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/ads/adsgit/ovptest/web/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/index.html",
+				"/D/ads/adsgit/peopleAttributeRedis/incremental_people_attribute.py",
+				"/D/Python/writepa.py",
+				"/D/Program Files/apache2.2/htdocs/html/test.html",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_vpaid.js",
+				"/C/Users/i-robinzhou/Desktop/IMPortant.txt",
+				"/D/Program Files/apache2.2/htdocs/html5/js/ovp.js",
+				"/D/ads/adsgit/ovptest/web/js/ovp.js",
+				"/D/ads/adsgit/db-mysql/src/main/sql/000015.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/E/analyse.pl",
+				"/C/Users/i-robinzhou/Desktop/temp",
+				"/C/Users/i-robinzhou/Desktop/final.sql",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads_sprint9_robinzhou_positionfix.sql",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint4_robinzhou_positioncategory.sql",
+				"/D/Python/incremental_people_attribute.py",
+				"/C/Users/i-robinzhou/.m2/settings.xml",
+				"/C/Users/i-robinzhou/.m2/archetype-catalog.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.txt",
+				"/D/Python/pa.py",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/vpaid/VPAIDSelectAd.js",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/ads/adsgit/q",
+				"/D/ads/html5svn/js/player.js",
+				"/D/ads/adsgit/peopleAttributeRedis/pa.py",
+				"/E/IP库对比/IP_20131211库/20140311guangxie.txt",
+				"/C/Users/i-robinzhou/Downloads/coreutils-8.22.tar/coreutils-8.22/src/sort.c",
+				"/E/IP库对比/IP_20131211库/youku.patch",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/E/sort.txt",
+				"/C/Users/i-robinzhou/Desktop/vast.xml",
+				"/D/ads/adsgit/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/E/苏宁电商/sort.txt",
+				"/E/苏宁电商/ipTA201403131610000006.txt",
+				"/E/IP库对比/IP_20131211库/ipCompare.pl",
+				"/E/苏宁电商/useragent.txt",
+				"/E/苏宁电商/TA201403061222440353.txt",
+				"/E/24G/see.pl",
+				"/E/24G/small.txt",
+				"/E/24G/18762_pptv_log_result.txt",
+				"/E/24G/18762_pptv_log_result.csv",
+				"/E/24G/small.csv",
+				"/E/ap.txt",
+				"/C/Users/i-robinzhou/Downloads/main401/displayinfo.htm",
+				"/C/Users/i-robinzhou/Downloads/main401/main.htm",
+				"/C/Users/i-robinzhou/Downloads/main401/css/global.css",
+				"/C/Users/i-robinzhou/Downloads/main401/css/reset.css",
+				"/D/people/attribute.csv",
+				"/D/people/see.csv",
+				"/D/people/unique.csv.001",
+				"/D/people/unique.csv.004",
+				"/D/people/Div_unique_1.csv",
+				"/D/people/Div_unique_5.csv",
+				"/D/people/Div_unique_4.csv",
+				"/D/people/unique.csv",
+				"/D/ads/adsgit/db-mysql/src/main/sql/000017_shahu.sql",
+				"/E/IP库对比/IP_20131211库/20130520youku.txt",
+				"/E/IP库对比/IP_20131211库/ip.txt",
+				"/E/IP库对比/IP_20131211库/diff.txt",
+				"/E/IP库对比/IP_20131211库/diff2.txt",
+				"/E/IP库对比/IP_20131211库/20130520miaozhen.txt",
+				"/E/IP库对比/JAVA/AreaBean.java",
+				"/E/IP库对比/ad-iplib-miaozhen/20130520miaozhen.txt",
+				"/E/IP库对比/IP_20131211库/superadmin.csv",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
+				"/E/IP库对比/IP_20131211库/iparea.xlsx",
+				"/E/IP库对比/IP_20131211库/IP鍦扮悊淇℃伅鏍囧噯搴撴牸寮忚鏄_doc",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgit/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql"
+			],
+			"find":
+			{
+				"height": 35.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"find_in_files":
 			{
@@ -847,6 +1537,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"pauseAd",
 					"stopAd",
 					"_executeSubscribe",
@@ -975,10 +1666,141 @@
 					"setNotifyCallback",
 					"callbackNotice",
 					"click"
+=======
+					"adType",
+					"jpg",
+					"de.as",
+					"ip=",
+					"TA201402181754550551",
+					"TA201402261547200160",
+					"TA201404111613020220",
+					"TA201404091804490495",
+					"TA201404141808110576",
+					"TA201402281759500479",
+					"TA201404101609560020",
+					"TA201404111847050363",
+					"TA201404091804490495",
+					"TA201404111613020219",
+					"TA201404091804490495",
+					"TA201402261547200160",
+					"getProxyUrl",
+					"getMediaSuffixFromUrl",
+					"mp4",
+					"startTimeInterval",
+					"init",
+					"id_r",
+					"ssh",
+					"start",
+					"em",
+					"skipAd",
+					"ovp-panelcontainer-novolume",
+					"duration",
+					"ctrl+shift",
+					"d",
+					"_countDown",
+					"de.as.pptv",
+					"creativeData",
+					"de.as.",
+					"&&",
+					"fileSrc",
+					"_getLocalProxyUrl",
+					"decodeURIComponent",
+					"localproxy",
+					"_getAssetsUrl",
+					"preloadAdList",
+					"VideoConfig",
+					"mp4",
+					"mp3",
+					"getMediaSuffixFromUrl",
+					"extension",
+					"needPreLoading",
+					"localproxy",
+					"VideoConfig",
+					"genPlayConfig",
+					"VideoConfig",
+					"videoConfig",
+					"localproxy",
+					"creative",
+					"localproxy",
+					"execute",
+					"de.as",
+					"}\n",
+					"4",
+					"fileS",
+					"Files",
+					"FileS",
+					"aderrbiplog",
+					"4",
+					"fileSrc",
+					"de.as",
+					"de",
+					"doEnd",
+					"test",
+					"test3",
+					"doEnd",
+					"islocked",
+					"source",
+					"et = 5",
+					"7",
+					"fileS",
+					"wrapperNode",
+					"html",
+					"HTML5Video",
+					"_getVideoObject",
+					"_playerRender",
+					"VideoConfig",
+					"vc",
+					"playVideo",
+					"_playerRender",
+					"parseFromDomNode",
+					"7",
+					"vpaidStop",
+					"doStart",
+					"dosStart",
+					"dostart",
+					"onstart",
+					"start",
+					"de.as",
+					"fileSrc",
+					"7",
+					"fileSrc",
+					"7",
+					"localproxy",
+					"reqErrBipLog",
+					"Log",
+					"reqErrBipLog",
+					"initReqErrLog",
+					"et",
+					"execute",
+					"9",
+					"de.as",
+					"MediaFile",
+					"parseAd",
+					"callVast",
+					"maxPlayTime",
+					"playmidroll",
+					"ipd_title_height",
+					"callVast",
+					"_playerRender",
+					"playVideo",
+					"callVast",
+					"html5_vars",
+					"callVast",
+					"parseAd",
+					"callVast",
+					"de.as.pp",
+					"parseAd",
+					"callVast",
+					"parseRequestPara",
+					");\n",
+					"localproxy",
+					"extractUrlComponent"
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
+<<<<<<< HEAD
 				"regex": true,
 				"replace_history":
 				[
@@ -1014,6 +1836,11 @@
 					"'",
 					"1556",
 					"ad_PPTV_DAAT",
+=======
+				"regex": false,
+				"replace_history":
+				[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					"140401",
 					"@dt",
 					"Dim_LiveOndemand_cid",
@@ -1054,7 +1881,11 @@
 			},
 			"incremental_find":
 			{
+<<<<<<< HEAD
 				"height": 36.0
+=======
+				"height": 27.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"input":
 			{
@@ -1067,7 +1898,11 @@
 			},
 			"replace":
 			{
+<<<<<<< HEAD
 				"height": 66.0
+=======
+				"height": 64.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1117,14 +1952,22 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
+<<<<<<< HEAD
 			"side_bar_visible": true,
+=======
+			"side_bar_visible": false,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
+<<<<<<< HEAD
 		"new_window_width": 1130.0
+=======
+		"new_window_width": 983.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 	},
 	"windows":
 	[
@@ -1134,6 +1977,7 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"val",
 						"value"
 					],
@@ -1644,6 +2488,518 @@
 					[
 						"ajaxTime",
 						"ajaxTimeouts"
+=======
+						"call",
+						"callNotice"
+					],
+					[
+						"posi",
+						"position"
+					],
+					[
+						"else",
+						"else块"
+					],
+					[
+						"local",
+						"localurl"
+					],
+					[
+						"start",
+						"startDate"
+					],
+					[
+						"order",
+						"orderCode"
+					],
+					[
+						"add",
+						"addcptamount"
+					],
+					[
+						"ad",
+						"AdPostionId"
+					],
+					[
+						"cus",
+						"CustomerName"
+					],
+					[
+						"cpt",
+						"cptplay"
+					],
+					[
+						"orde",
+						"orderName"
+					],
+					[
+						"write",
+						"writeIframe"
+					],
+					[
+						"abs",
+						"absPos"
+					],
+					[
+						"pre",
+						"preyear"
+					],
+					[
+						"cont",
+						"contents	.contents()"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"end",
+						"endTA"
+					],
+					[
+						"sra",
+						"startTA"
+					],
+					[
+						"nostart",
+						"nostartTA"
+					],
+					[
+						"020c",
+						"020C"
+					],
+					[
+						"vpaid",
+						"vpaidcss"
+					],
+					[
+						"ads_",
+						"ads_request"
+					],
+					[
+						"_left",
+						"_leftadtime"
+					],
+					[
+						"thi",
+						"_thisadtime"
+					],
+					[
+						"_get",
+						"_getLocalProxyUrl"
+					],
+					[
+						"media",
+						"mediafile"
+					],
+					[
+						"paras",
+						"parastr"
+					],
+					[
+						"pl",
+						"platform"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"OUT",
+						"OUTFILE2"
+					],
+					[
+						"city",
+						"city"
+					],
+					[
+						"out",
+						"OUTDIFF"
+					],
+					[
+						"db",
+						"dbcity"
+					],
+					[
+						"wh",
+						"whole"
+					],
+					[
+						"area",
+						"area1"
+					],
+					[
+						"row",
+						"row"
+					],
+					[
+						"col",
+						"col_min"
+					],
+					[
+						"col_",
+						"col_min"
+					],
+					[
+						"work",
+						"worksheet"
+					],
+					[
+						"fir",
+						"firstChild"
+					],
+					[
+						"inn",
+						"innerhtml"
+					],
+					[
+						"ne",
+						"nextpic"
+					],
+					[
+						"ans",
+						"answer1"
+					],
+					[
+						"pic",
+						"_picindex"
+					],
+					[
+						"creat",
+						"creative"
+					],
+					[
+						"value",
+						"VALUES"
+					],
+					[
+						"vo",
+						"Void"
+					],
+					[
+						"re",
+						"returnType"
+					],
+					[
+						"ad_vid",
+						"ad_video_click"
+					],
+					[
+						"ad_vi",
+						"ad_video_click"
+					],
+					[
+						"V",
+						"VpaidEvent3"
+					],
+					[
+						"Vpa",
+						"VpaidEvent2"
+					],
+					[
+						"VpaidE",
+						"VpaidEvent1"
+					],
+					[
+						"a",
+						"ad_answer_open"
+					],
+					[
+						"ani",
+						"animated2"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"draw",
+						"drawStart"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"_re",
+						"_resizeScale"
+					],
+					[
+						"create",
+						"createBtns"
+					],
+					[
+						"_con",
+						"_controlBar"
+					],
+					[
+						"auto",
+						"autobuffer"
+					],
+					[
+						"ads",
+						"ads_request"
+					],
+					[
+						"VV",
+						"VVsum"
+					],
+					[
+						"UV",
+						"UVsum"
+					],
+					[
+						"IP",
+						"IPCity"
+					],
+					[
+						"base",
+						"baseUrl"
+					],
+					[
+						"appen",
+						"appendChild"
+					],
+					[
+						"ass",
+						"assets_obj"
+					],
+					[
+						"_init",
+						"_initBackground"
+					],
+					[
+						"_tdC",
+						"_tdCodeDiv"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"last",
+						"_lastvideo"
+					],
+					[
+						"_slider",
+						"_sliderBlock"
+					],
+					[
+						"_sl",
+						"_sliderBlock"
+					],
+					[
+						"_cr",
+						"_Creative"
+					],
+					[
+						"des",
+						"destroyAutoMove"
+					],
+					[
+						"psu",
+						"pause"
+					],
+					[
+						"sli",
+						"Slider"
+					],
+					[
+						"_s",
+						"_slideWidth"
+					],
+					[
+						"_bg",
+						"_bgWidth"
+					],
+					[
+						"_st",
+						"_startSlideInterval"
+					],
+					[
+						"upd",
+						"updateImage"
+					],
+					[
+						"en",
+						"encodeURIComponent"
+					],
+					[
+						"sin",
+						"sinaRegx"
+					],
+					[
+						"_ge",
+						"_getExtensionValue"
+					],
+					[
+						"_wo",
+						"_word"
+					],
+					[
+						"_wor",
+						"_wordLeft"
+					],
+					[
+						"wordr",
+						"wordRight"
+					],
+					[
+						"ex",
+						"extensions"
+					],
+					[
+						"Ex",
+						"Extension"
+					],
+					[
+						"touch",
+						"touch"
+					],
+					[
+						"cli",
+						"clientX"
+					],
+					[
+						"mouse",
+						"mousedown	mousedown"
+					],
+					[
+						"pso",
+						"pos_x"
+					],
+					[
+						"sl",
+						"Slider"
+					],
+					[
+						"pos",
+						"pos_x"
+					],
+					[
+						"slid",
+						"sliderBlock"
+					],
+					[
+						"init",
+						"init"
+					],
+					[
+						"up",
+						"updateImage"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"off",
+						"offset	.offset"
+					],
+					[
+						"_ini",
+						"_initialized"
+					],
+					[
+						"_add",
+						"_addSharebtnListener"
+					],
+					[
+						"_time",
+						"_timep"
+					],
+					[
+						"VIdeo",
+						"VideoSel"
+					],
+					[
+						"_video",
+						"_videoSelbtn"
+					],
+					[
+						"_pic",
+						"_picSelbtn"
+					],
+					[
+						"pause",
+						"pauseAd"
+					],
+					[
+						"_see",
+						"_selectType"
+					],
+					[
+						"_control",
+						"_controlBar"
+					],
+					[
+						"Pic",
+						"PicSel"
+					],
+					[
+						"_sele",
+						"_selectType"
+					],
+					[
+						"_vid",
+						"_video"
+					],
+					[
+						"Video",
+						"Video"
+					],
+					[
+						"Eve",
+						"Event"
+					],
+					[
+						"click",
+						"clicktype"
+					],
+					[
+						"du",
+						"document"
+					],
+					[
+						"_share",
+						"_sharebtn"
+					],
+					[
+						"vd",
+						"vdjump"
+					],
+					[
+						"_select",
+						"_selectType"
+					],
+					[
+						"_la",
+						"_lastvideo"
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					]
 				]
 			},
@@ -1653,15 +3009,58 @@
 					"file": "/C/Windows/System32/drivers/etc/hosts",
 					"settings":
 					{
+<<<<<<< HEAD
 						"buffer_size": 1725,
+=======
+						"buffer_size": 1109,
 						"line_ending": "Windows"
 					}
 				},
 				{
+					"file": "/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
+					"settings":
+					{
+						"buffer_size": 32439,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+					"settings":
+					{
+						"buffer_size": 40294,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+						"line_ending": "Windows"
+					}
+				},
+				{
+<<<<<<< HEAD
 					"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
 					"settings":
 					{
 						"buffer_size": 24975,
+=======
+					"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+					"settings":
+					{
+						"buffer_size": 1705,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+					"settings":
+					{
+						"buffer_size": 127099,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+					"settings":
+					{
+						"buffer_size": 208109,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"line_ending": "Windows"
 					}
 				}
@@ -1673,6 +3072,7 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"forma",
 						"Pretty JSON: Format (Pretty Print) JSON"
 					],
@@ -1710,6 +3110,21 @@
 					],
 					[
 						"sql",
+=======
+						"side",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"sql",
+						"FormatSQL: Format SQL statement"
+					],
+					[
+						"view",
+						"View: Toggle Side Bar→切换侧栏"
+					],
+					[
+						"forma",
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"FormatSQL: Format SQL statement"
 					],
 					[
@@ -1725,6 +3140,13 @@
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
+=======
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"pack",
 						"Package Control: Install Package"
 					],
@@ -1793,6 +3215,13 @@
 						"Indentation: Convert to Tabs→转换为标签"
 					],
 					[
+<<<<<<< HEAD
+=======
+						"for",
+						"Format: Javascript"
+					],
+					[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"package",
 						"Package Control: Install Package"
 					],
@@ -1805,7 +3234,11 @@
 						"Package Control: Remove Package→删除程序包"
 					]
 				],
+<<<<<<< HEAD
 				"width": 504.0
+=======
+				"width": 576.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"console":
 			{
@@ -1833,6 +3266,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
 				"/C/Users/i-robinzhou/Desktop/10.sql",
 				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
@@ -1965,6 +3399,140 @@
 			"find":
 			{
 				"height": 39.0
+=======
+				"/D/ads/adsgitlab/ovptest/web/js/player_vpaid.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/Impress.js",
+				"/C/Users/i-robinzhou/Desktop/清空WebKit缓存.vbs",
+				"/D/ads/adsgitlab/ovptest/web/js/player_ovp.js",
+				"/D/ads/adsgitlab/ovptest/web/player.html",
+				"/D/ads/adsgitlab/ovptest/web/js/player.js",
+				"/C/Users/i-robinzhou/Desktop/analyse.pl",
+				"/D/ads/adsgitlab/ovptest/web/js/flxhr/flXHR.js",
+				"/D/perl/stat2013.pl",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Perl/Perl.sublime-build",
+				"/D/Program Files/apache2.2/htdocs/html5/vpaid.xml",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd.xml",
+				"/C/Users/i-robinzhou/Desktop/search.pl",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/analyse.pl",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档.sql",
+				"/C/Users/i-robinzhou/Desktop/查VV数据.sql",
+				"/C/Users/i-robinzhou/Desktop/temp",
+				"/D/perl/order.pm",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player.js",
+				"/D/result",
+				"/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+				"/C/Users/i-robinzhou/Desktop/system.sql",
+				"/C/Users/i-robinzhou/Desktop/新建文本文档 (2).txt",
+				"/C/Users/i-robinzhou/Desktop/final.sql",
+				"/C/Users/i-robinzhou/Desktop/hive.sql",
+				"/D/Program Files/apache2.2/htdocs/index.html",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/webapp/js/monthpicker/monthpicker.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-wrapper/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_robinzhou_posmod_style.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads-sprint2_robinzhou_vpaidevent.sql",
+				"/C/Users/i-robinzhou/Desktop/change ad position.sql",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/application.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/html_actuator.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/game_manager.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/grid.js",
+				"/C/Users/i-robinzhou/Downloads/2048-AI-master/js/ai.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/jquery2.0.3.js",
+				"/D/Program Files/apache2.2/htdocs/monthpicker.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDPauseAd.js",
+				"/D/Program Files/apache2.2/htdocs/html/test.html",
+				"/D/Program Files/apache2.2/htdocs/html/增加事件.html",
+				"/D/Program Files/apache2.2/htdocs/html/video.html",
+				"/D/Program Files/apache2.2/htdocs/html/div.html",
+				"/C/Users/i-robinzhou/Desktop/taobao/taobao.xml",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint14_robinzhou_getinfofix.sql",
+				"/C/Users/i-robinzhou/Desktop/test url.sh",
+				"/C/Users/i-robinzhou/Desktop/vpaid3.xml",
+				"/C/Users/i-robinzhou/Desktop/adlist.txt",
+				"/C/Users/i-robinzhou/Desktop/线上备份.txt",
+				"/C/Users/i-robinzhou/Desktop/tmp.txt",
+				"/C/Users/i-robinzhou/Desktop/getChannelFile.sh",
+				"/C/Users/i-robinzhou/Downloads/ad_all.xml/ad_all.xml",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/vpaid.xsd",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint12_ehtanren_adlog_throw.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_tagselector.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint11_robinzhou_districtdefine.sql",
+				"/C/Windows/System32/drivers/etc/test url.sh",
+				"/E/Music/许嵩.-.[自定义].专辑.(APE).cue",
+				"/E/Music/许嵩.-.[寻雾启示].专辑.(flac).cue",
+				"/E/Music/许嵩.-.[苏格拉没有底].专辑.(FLAC).cue",
+				"/E/Music/许嵩.-.[梦游计].专辑.(FLAC).cue",
+				"/E/Music/许嵩 - 梦游.cue",
+				"/E/Music/许嵩 - 梦游.aue",
+				"/E/Music/The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD3.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD2.cue",
+				"/E/Music/陈奕迅-The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
+				"/D/Program Files/apache2.2/htdocs/html5/BgInterative.xml",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_selectJsAd.xml",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD3.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD2.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/我的最好时代-CD1.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD2.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD3.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-The Best Moment精选-CD1.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅.-.[你的.陈奕迅.国语精选.Disc1].专辑.(APE).cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅-I Had a Great Time.cue",
+				"/E/Music/陈奕迅无损CD合集【APE 83CD 1996-2011 26G】/陈奕迅 - 问号.cue",
+				"/D/ads/adsgitlab/ads-vnow/ppAdManager/src/main/resources/policy.xsd",
+				"/D/Program Files/apache2.2/htdocs/html5/vast_thirdAd2.xml",
+				"/C/Users/i-robinzhou/Desktop/PPTV_DAAT.sql",
+				"/C/Users/i-robinzhou/Desktop/district.sql",
+				"/C/Users/i-robinzhou/Desktop/Impress.js",
+				"/C/Users/i-robinzhou/Desktop/20140307184919_Impress.js",
+				"/C/Users/i-robinzhou/Downloads/svg/css/style.css",
+				"/C/Users/i-robinzhou/Downloads/svg/index.html",
+				"/C/Users/i-robinzhou/Downloads/svg/js/raphael.js",
+				"/C/Users/i-robinzhou/Downloads/svg/js/script.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSelectAd.js",
+				"/C/Users/i-robinzhou/Downloads/svg/js/raphael-min.js",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Program Files/apache2.2/htdocs/html5/player.html",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSelectAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveCornerAd.js",
+				"/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDSingleChoose.js",
+				"/D/Program Files/apache2.2/htdocs/html5/css/vpaid.css",
+				"/D/Program Files/apache2.2/htdocs/html5/css/player.css",
+				"/D/ads/adsgitlab/ovptest/web/css/player.css",
+				"/D/Program Files/apache2.2/htdocs/html5/css/ovp.css",
+				"/D/ads/adsgitlab/ovptest/web/css/ovp.css",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDInteractiveAd.js",
+				"/C/Users/i-robinzhou/Desktop/VPAIDInteractiveCornerAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDBgInteractiveAd.js",
+				"/D/Program Files/apache2.2/htdocs/html5/Impress.js",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDSingleChoose.js",
+				"/C/Users/i-robinzhou/Desktop/policy.xml",
+				"/D/Python/memory",
+				"/D/xxxxxxxxx/uv01-27.txt",
+				"/D/xxxxxxxxx/sum.txt",
+				"/D/xxxxxxxxx/uv21-27.txt",
+				"/D/xxxxxxxxx/uv14-20.txt",
+				"/D/xxxxxxxxx/uv07-13.txt",
+				"/D/xxxxxxxxx/uv01-06.txt",
+				"/C/Users/i-robinzhou/Desktop/system.csv",
+				"/C/Users/i-robinzhou/Desktop/查VV数据",
+				"/D/Program Files/apache2.2/htdocs/html5/VPAIDWrapper.js",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint8_suliangbo_audienXForManagement.sql",
+				"/D/ads/adsgitlab/db-mysql/src/main/sql/ads_sprint9_robinzhou_admasterinfosync.sql",
+				"/C/Users/i-robinzhou/Desktop/sort.txt",
+				"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/U/.ssh/known_hosts",
+				"/U/.gitconfig"
+			],
+			"find":
+			{
+				"height": 35.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"find_in_files":
 			{
@@ -1979,6 +3547,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"checked",
 					"isOptionExist",
 					"get('throwperiodInhour').value = '';",
@@ -2107,10 +3676,141 @@
 					"needUseSDK",
 					"monitorurl",
 					"protectiontime"
+=======
+					"StartOverlapPoint",
+					"doUnMute",
+					"finishPlay",
+					"playAds",
+					"callback",
+					"doPauseClose",
+					"overlayclose",
+					"isNonLinear",
+					"isSpecialAd",
+					"isNonLinear",
+					"console.",
+					"isSpecialAd",
+					"VideoConfig",
+					"ovp-video",
+					"shade",
+					"shape",
+					"isPauseAd",
+					"isSpecialAd",
+					"isNonLinear",
+					"managedVideo",
+					"overlayclose",
+					"click",
+					"addEvent",
+					"de.as",
+					"doClick",
+					"doSpecialClose",
+					"doMute",
+					"inish",
+					"isFinish",
+					"doClick",
+					"callNotice",
+					"callbackNo",
+					"10",
+					"isPauseAd",
+					"isVpaidAd",
+					"callbackN",
+					"req",
+					"cltIsMinwindow",
+					"_ovp",
+					"ovp",
+					"callbackNotice",
+					"callback",
+					"isPauseAd",
+					"cltAdType",
+					"pos",
+					"isNonLinear",
+					"callbackNotice",
+					"pauseclick",
+					"AdOpenUrl",
+					"pauseclick",
+					"callbackNotice",
+					"pauseclick",
+					"doClick",
+					"click",
+					"onclick",
+					"异形",
+					"linear",
+					"showPanel",
+					"embedSWF",
+					"srctype",
+					"canPlay",
+					"img",
+					"jpg",
+					"canPlay",
+					"vpaidAdPlayer",
+					"isVpaidSupported",
+					"_pluginCaller",
+					"_getPlayerTestFunction",
+					"_config",
+					"_getPlayerTestFunction",
+					"_getVideoObject",
+					"_pluginCaller",
+					"_getVideoObject",
+					"_getPlayerTestFunction",
+					"_pluginCaller",
+					"strategy",
+					"plugins",
+					"_pluginCaller",
+					"_getPlayerTestFunction",
+					"_pluginCaller",
+					"_getVideoObject",
+					"_playerRender",
+					"playVideo",
+					"genPlayConfig",
+					"NonLin",
+					"doStart",
+					"genPlayConfig",
+					"_playerRender",
+					"playVideo",
+					"genPlayConfig",
+					"doStart",
+					"genPlayConfig",
+					"showEx",
+					"playAds",
+					"startPlay",
+					"callNotice",
+					"异形气泡",
+					"callNotice",
+					"cal",
+					"pos",
+					"callNotice",
+					"adsLong",
+					"startPlay",
+					"callVast",
+					"parseAd",
+					"_parseNonLinearAd",
+					"IgnoreAdvert",
+					"_parseNonLinearAd",
+					"parseAd",
+					"_parseNonLinearAd",
+					"NonLinear",
+					"nonliner",
+					"nonLinear",
+					"callVast",
+					"getAdAndPlay",
+					"rebuildVasturl",
+					"isPauseAd",
+					"rebuildVasturl",
+					"callNotice",
+					"parseRequestPara",
+					"CHANNEL_LOCALFILE",
+					"volumebtn",
+					"parseRequestPara",
+					"cltad",
+					"getClientWindowAd",
+					"external",
+					"AdWebCallBack",
+					"external"
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
+<<<<<<< HEAD
 				"regex": false,
 				"replace_history":
 				[
@@ -2140,6 +3840,11 @@
 					"object",
 					"",
 					"html5_vars.cltIsAdMute = !this.volume_on;",
+=======
+				"regex": true,
+				"replace_history":
+				[
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					"01",
 					"amount",
 					"\"",
@@ -2185,10 +3890,24 @@
 				"whole_word": false,
 				"wrap": true
 			},
+<<<<<<< HEAD
 			"groups":
 			[
 				{
 					"selected": 1,
+=======
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Windows\\System32\\drivers\\etc"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 					"sheets":
 					[
 						{
@@ -2197,22 +3916,145 @@
 							"semi_transient": false,
 							"settings":
 							{
+<<<<<<< HEAD
 								"buffer_size": 1725,
+=======
+								"buffer_size": 1109,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										381,
 										381
+=======
+										1063,
+										1063
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+									]
+								],
+								"settings":
+								{
+<<<<<<< HEAD
+									"encoding_helper_encoding": "UTF-8",
+=======
+									"SideBarAutoAddFoldersForOpenedFiles": 1,
+									"encoding_helper_encoding": "cp936",
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+<<<<<<< HEAD
+								"translation.y": 0.0,
+=======
+								"translation.y": 114.0,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+<<<<<<< HEAD
+							"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24975,
+=======
+							"file": "/C/Users/i-robinzhou/Downloads/PPTV_DAAT.csv",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32438,
+										32438
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5073.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/ads/adsgitlab/ads-vpaid/ad-player/VPAIDInteractiveAd.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40294,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+<<<<<<< HEAD
+										13247,
+										13247
+=======
+										3212,
+										3212
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+<<<<<<< HEAD
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+=======
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1539.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/vast3.0draft.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										435,
+										435
 									]
 								],
 								"settings":
 								{
 									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2221,32 +4063,66 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/D/ads/adsgitlab/ads-vnow/ppdspmanager/src/main/webapp/campaign/campaign_info.jsp",
+							"buffer": 4,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 24975,
+								"buffer_size": 127099,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										13247,
-										13247
+										43149,
+										43149
 									]
 								],
 								"settings":
 								{
 									"encoding_helper_encoding": "UTF-8",
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
+<<<<<<< HEAD
 								"translation.y": 10427.0,
+=======
+								"translation.y": 414.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/Program Files/apache2.2/htdocs/html5/js/player_ovp.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 208109,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										118418,
+										118418
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 14512.0,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2256,7 +4132,11 @@
 			],
 			"incremental_find":
 			{
+<<<<<<< HEAD
 				"height": 31.0
+=======
+				"height": 27.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"input":
 			{
@@ -2289,11 +4169,19 @@
 			{
 				"height": 154.0
 			},
+<<<<<<< HEAD
 			"position": "0,0,1,-32000,-32000,-1,-1,805,3,156,1149",
 			"project": "",
 			"replace":
 			{
 				"height": 72.0
+=======
+			"position": "0,2,3,-32000,-32000,-1,-1,1060,193,544,1192",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2302,10 +4190,13 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"de.as",
 						"D:\\Program Files\\apache2.2\\htdocs\\html5\\VPAIDImpressAd2.0.xml"
 					],
 					[
+=======
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 						"impr",
 						"D:\\Program Files\\apache2.2\\htdocs\\html5\\Impress.js"
 					],
@@ -2350,13 +4241,21 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
+<<<<<<< HEAD
 			"side_bar_visible": true,
+=======
+			"side_bar_visible": false,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
+<<<<<<< HEAD
 			"window_id": 19,
+=======
+			"window_id": 13,
+>>>>>>> 9bd765d263183a9cbe7effae39990abb9d8a89a9
 			"workspace_name": ""
 		}
 	],
